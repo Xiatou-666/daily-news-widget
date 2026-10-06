@@ -1,0 +1,20 @@
+name: Update Daily News Widget
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test workflow
+        run: |
+          echo "================================"
+          echo "Daily News Widget"
+          echo "Workflow is running!"
+          echo "Time: 04:00 UTC"
+          echo "Time: 12:00 Beijing/Singapore"
+          echo "================================"
