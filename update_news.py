@@ -20,7 +20,7 @@ def fetch_feed(source):
         root = ET.fromstring(response.read())
 
     entries = []
-    for item in root.findall(".//item")[:8]:
+    for item in root.findall(".//item")[:12]:
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
         description = re.sub(r"<[^>]+>", " ", item.findtext("description") or "")
@@ -28,6 +28,7 @@ def fetch_feed(source):
         if title and link:
             entries.append({
                 "source": source["name"],
+                "category": source["category"],
                 "title": title,
                 "link": link,
                 "description": " ".join(description.split())[:500],
@@ -38,8 +39,10 @@ def fetch_feed(source):
 
 def call_model(articles):
     prompt = """请把下面的新闻整理成适合手机小组件显示的中文 JSON。
-只返回 JSON 数组，不要 Markdown，不要解释。每项必须包含：title（不超过30字）、summary（不超过80字）、url、source、published。
-保留事实，不要编造；最多返回 8 条；按重要性排序。
+只返回一个 JSON 对象，不要 Markdown，不要解释。对象必须严格包含四个数组：physics、ai、tech、github。
+每个数组恰好 2 项。每项必须包含：title（不超过30字）、summary（不超过80字）、url、source、published、category。
+physics=前沿物理，ai=人工智能，tech=科技发展，github=GitHub/开源。
+优先使用同类别新闻；不足时从标题和内容最相关的新闻补足。保留事实，不要编造。
 
 新闻：
 """ + json.dumps(articles, ensure_ascii=False)
@@ -69,7 +72,15 @@ def call_model(articles):
 
     content = result["choices"][0]["message"]["content"].strip()
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content).strip()
-    return json.loads(content)
+    parsed = json.loads(content)
+    if "categories" in parsed:
+        parsed = parsed["categories"]
+    categories = {}
+    for category in ("physics", "ai", "tech", "github"):
+        categories[category] = parsed.get(category, [])[:2]
+        if len(categories[category]) < 2:
+            raise RuntimeError(f"分类 {category} 少于 2 条新闻")
+    return categories
 
 
 def main():
@@ -86,10 +97,12 @@ def main():
     if not articles:
         raise RuntimeError("没有抓到任何 RSS 新闻")
 
-    items = call_model(articles)
+    categories = call_model(articles)
+    items = [item for category in ("physics", "ai", "tech", "github") for item in categories[category]]
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
-        "items": items[:8],
+        "categories": categories,
+        "items": items,
     }
     with open("news.json", "w", encoding="utf-8", newline="\n") as file:
         json.dump(output, file, ensure_ascii=False, indent=2)
