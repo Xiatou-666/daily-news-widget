@@ -1,68 +1,26 @@
-name: Update Daily News Widget
+# 新闻小组件自动更新
 
-on:
-  schedule:
-    - cron: '0 4 * * *'
-  workflow_dispatch:
+## 设置
 
-jobs:
-  update-news:
-    runs-on: ubuntu-latest
+1. 将本目录中的文件复制到你的 GitHub 仓库根目录。
+2. 在仓库打开 **Settings → Secrets and variables → Actions → New repository secret**。
+3. 创建 Secret：
+   - Name：`APINEBULA_API_KEY`
+   - Value：你的 Nebula API Key
+4. 打开 **Actions → Update news widget → Run workflow** 手动测试一次。
 
-    steps:
-      - name: Update Gist
-        env:
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-        run: |
-          python - <<'PY'
-          import json
-          import urllib.request
+## KWGT 地址
 
-          gist_id = "597be9eb8f225a31a4452dac61b178d2"
+让 KWGT 读取：
 
-          data = {
-              "date": "2026-10-06",
-              "physics": [
-                  "测试：前沿物理新闻 1",
-                  "测试：前沿物理新闻 2"
-              ],
-              "ai": [
-                  "测试：AI 新闻 1",
-                  "测试：AI 新闻 2"
-              ],
-              "tech": [
-                  "测试：科技新闻 1",
-                  "测试：科技新闻 2"
-              ],
-              "github": [
-                  "测试：GitHub 热门项目 1",
-                  "测试：GitHub 热门项目 2"
-              ]
-          }
+```text
+https://raw.githubusercontent.com/你的用户名/你的仓库/main/news.json
+```
 
-          content = json.dumps(data, ensure_ascii=False, indent=2)
+新闻列表位于 JSON 的 `items` 数组；每项有 `title`、`summary`、`url`、`source`、`published`。
 
-          payload = json.dumps({
-              "files": {
-                  "news.json": {
-                      "content": content
-                  }
-              }
-          }).encode("utf-8")
+## 说明
 
-          req = urllib.request.Request(
-              f"https://api.github.com/gists/{gist_id}",
-              data=payload,
-              method="PATCH",
-              headers={
-                  "Authorization": f"Bearer {__import__('os').environ['GIST_TOKEN']}",
-                  "Accept": "application/vnd.github+json",
-                  "X-GitHub-Api-Version": "2022-11-28",
-                  "Content-Type": "application/json"
-              }
-          )
-
-          with urllib.request.urlopen(req) as response:
-              print("Gist update successful!")
-              print(response.status)
-          PY
+- GitHub Actions 在云端运行，不需要打开 ChatGPT、CCSwitch、电脑或手机。
+- API Key 只放在 GitHub Secret，不要写入仓库文件。
+- 默认每小时运行一次，也可以修改 workflow 中的 cron。

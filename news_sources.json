@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Google News 科技",
+    "url": "https://news.google.com/rss/search?q=%E7%A7%91%E6%8A%80&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+  },
+  {
+    "name": "Google News AI",
+    "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+  }
+]
