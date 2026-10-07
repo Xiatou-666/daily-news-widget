@@ -1,4 +1,61 @@
 {
-  "updated_at": null,
-  "items": []
+  "updated_at": "2026-10-07T06:33:11.513334+00:00",
+  "items": [
+    {
+      "title": "美国防部停用Anthropic AI工具",
+      "summary": "BBC称，美国国防部在中美AI军事化背景下正式停用Anthropic的AI工具。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yRXNxTnhJYnl5UEh1QzU4Tk0yenZMRWIxRF9WSGt5QmxvYjNJNDAxczBFb2oyWTdZMnItSzFLVWJFUFR5ZFg3bmpUTTZ4bVl3SDZxWlg2QmRVeXN6LXctVHZOYnQ0ZTTSAWxBVV95cUxPTmViNUFrZTV4a3ZNQ0VMR3RGSm9vT0U5TXVYRU8tc1VfS0laVXYyWDBWWEpxak4wMlhzZ3NXeG9scmM3cGUteG9kUEduYm5PUW1TcjFvM2VoWjg0OWpGckliOFVBeXpRV1dxWmM?oc=5",
+      "source": "BBC",
+      "published": "Tue, 06 Oct 2026 08:49:41 GMT"
+    },
+    {
+      "title": "美国拟与中国建立AI事故通报机制",
+      "summary": "美国组建“超级智能”工作组，并拟与中国建立人工智能事故通报机制。",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2tORFdhejFBdmNrNlJndTRrb1dNbXRvVEVDUkQ5TTVILUJ6elVJWlB3bzZpMVU3cjk1NVRfd3M4eVZMRy1IUkZlMGExT1k1aTQ0ZzRqeVdWSktOQ0xzbWlmR2Fsc2k1MkJFRVFIaWEtMEJERF9fcFdsbmRkdFlKWENtOGl5cXlvTzNsc243b2FyUWxYcnZzc1k3ajVLdF91SHF6WlFxM25nLUdPTXN3bWtVeUFHODRhNm9nbUVzekc0NDhBYkIzYVBDMm1iUE9KeWlvNkxVMGPSAdsBQVVfeXFMT09ESTRDdWNRb1lLMGxMV1N3NF8wdm9QY1NtdDY0cFJscGt6bzhnd0ZlS2Z0dGl1NmxwRFY3ZURjS044ODQ0MjBCZkg4LUVYSjk1dW5BS1Yxa2pMTzNXWVZnZVRCYldxd3c2UkFBV0RaazE0UGd0eUU3SmtNSFVsbHN2eEk5U0hEbVZTR2t4VTJyQWRVWXZuUVh5TldsdHZ1U3R6U21tWGNjeWdvT0N5MGl5UFJnYTJaZld2NmptcklwX09ZdnBtWXU1VkRXMnhlUUx5TnczWTBsMzJF?oc=5",
+      "source": "美国之音",
+      "published": "Mon, 05 Oct 2026 20:20:16 GMT"
+    },
+    {
+      "title": "新加坡发布金融业AI应用监管要求",
+      "summary": "新加坡金管局出台金融业人工智能应用监管要求。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWhLZHpBOURDQndOQmJlaGxFRUpYWUtYR09fQUVzVHk4U0tMeW1MNkNUY2ViN3NZX0N5VEtHVm1RNmUtWWdDM3FMZ0dhWW5wN2pra0hZeFduNDdsMk9FVzFXTldGVVNzVFd2TXphdDZrb2VIWGtORTR3RUxnU3Z1MEJn?oc=5",
+      "source": "新浪网",
+      "published": "Wed, 07 Oct 2026 04:03:58 GMT"
+    },
+    {
+      "title": "辛顿提议AI模型上线前接受安全审核",
+      "summary": "辛顿建议AI行业建立类似FDA的审批机制，模型推出前需通过安全审核。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSjlCeWRETUNBdkFmdnUtZGdxNENXWElwY0s4eDNUTnpIQTRSZUFjLU9wS2NKSklzb2pZY2JpX2Jab2J3WDF5dm85V1c?oc=5",
+      "source": "凤凰网科技",
+      "published": "Wed, 07 Oct 2026 04:42:54 GMT"
+    },
+    {
+      "title": "谷歌签署20年核能采购协议",
+      "summary": "谷歌签下3590兆瓦核能协议，期限20年，并将Gemini嵌入能源运营。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TTEMxVS00OUtaV1ktVlcwaHk1Rmk3NXdlMDI0OVlhMFFvV2ZpUk5DbGVGMlVPMWw1b2dfWHlxOVh4aXFuZjdrLUtCU1hYaXp0cktF?oc=5",
+      "source": "华尔街见闻",
+      "published": "Tue, 06 Oct 2026 22:03:05 GMT"
+    },
+    {
+      "title": "IMF警示AI、油价与债务多重风险",
+      "summary": "IMF总裁表示，世界正面临人工智能、油价和债务带来的多重风险。",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rcThyRXhXTWtraGQ1Vm5ZbmxrY3RfdnQ0Mm1zVXM0QlRjclhMV2xqa2F6Z2R4X2cyNHF1aGdEcnJvYUhvcWtITDh0aw?oc=5",
+      "source": "新浪财经",
+      "published": "Wed, 07 Oct 2026 06:16:00 GMT"
+    },
+    {
+      "title": "法国Mistral AI推出新模型",
+      "summary": "法国Mistral AI发布人工智能新模型，称其性能超过部分中国竞争对手。",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGpNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5",
+      "source": "RFI",
+      "published": "Tue, 06 Oct 2026 21:33:56 GMT"
+    },
+    {
+      "title": "国庆假期科技赋能文旅新体验",
+      "summary": "国庆假期，科技应用为游客带来新的文旅体验。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNMXIxc05aQ0stSGUzQlpYV0lWYi1QLWpDalMxTjN6d2NTT1Z6Q3hrQW00X3RSSlJfeS1saWwxMzJGNmRycTRLLXY2NzZrd29HazJtaWlDal9mVmc2V1lpWnVVX2EzSEQ0N3lCR0ozTGJCTC1ZWHoydXVVRUdkT0U?oc=5",
+      "source": "新华网",
+      "published": "Wed, 07 Oct 2026 03:38:42 GMT"
+    }
+  ]
 }
