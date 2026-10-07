@@ -2,7 +2,8 @@ name: Update news widget
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    # 每天北京时间 12:00（UTC 04:00）运行
+    - cron: "0 4 * * *"
   workflow_dispatch:
 
 permissions:
