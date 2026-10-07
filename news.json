@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-07T08:51:28.165104+00:00",
+  "updated_at": "2026-10-07T08:59:01.011462+00:00",
   "categories": {
     "physics": [
       {
-        "title": "噪声高斯信道容量界限",
-        "summary": "研究建立统一自适应弱逆定理界限，约束多类能量受限玻色通信容量。",
+        "title": "噪声高斯信道容量界获统一约束",
+        "summary": "研究提出适用于热衰减、噪声放大和加性高斯噪声信道的自适应弱逆定理界。",
         "url": "https://arxiv.org/abs/2610.08786v1",
         "source": "arXiv 量子物理",
         "published": "2026-10-06T17:59:12Z",
         "category": "physics"
       },
       {
-        "title": "量子计算机观测魔性姆佩巴效应",
-        "summary": "研究发现局域化动力学中可能出现量子魔性排序反转，为量子资源演化提供新机制。",
+        "title": "数字量子计算机观测到魔性Mpemba效应",
+        "summary": "研究发现量子魔性可出现反常松弛排序，初始魔性较低的状态可能更快达到渐近值。",
         "url": "https://arxiv.org/abs/2610.08769v1",
         "source": "arXiv 量子物理",
         "published": "2026-10-06T17:54:16Z",
@@ -21,122 +21,122 @@
     ],
     "ai": [
       {
-        "title": "OpenAI为AI就业转型建模",
-        "summary": "OpenAI发布关于人工智能引发就业转型的建模研究。",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QazNvWXkwSk9ZUlMxQnZmbzJLbjN3MlM5dUlMRmRYNkNGRkFRLVpTMXF2VmhvdXZMcVJsY3I1a3BsMDdqWlNFTllCRDc0dXUxM2xKOEZLNmxzMHBidG90LVBEVm1OaU5GdWJiVVZoV0pHZw?oc=5",
-        "source": "OpenAI",
-        "published": "Wed, 07 Oct 2026 00:13:54 GMT",
+        "title": "OpenAI公布数学研究进展与Lean形式化",
+        "summary": "OpenAI称前沿模型取得数学开放问题研究成果，并公开Lean证明形式化及研究细节。",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-06T12:00:00Z",
         "category": "ai"
       },
       {
-        "title": "Google发布轻量多模态嵌入模型",
-        "summary": "Google DeepMind推出EmbeddingGemma 2，定位为开放、轻量的多模态嵌入模型。",
-        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-        "source": "Google DeepMind Blog",
-        "published": "2026-10-06T19:57:04Z",
+        "title": "OpenAI用ChatGPT扩展量化研究流程",
+        "summary": "Jump Trading采用OpenAI工具整合多源数据与人工复核，推进更长时间运行的量化研究工作流。",
+        "url": "https://openai.com/index/jump-trading",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-06T12:00:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "比亚迪9月新能源车销量增长17%",
-        "summary": "比亚迪公布9月新能源汽车销量46.36万辆，同比增长17%。",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yb1lIbDlIQ1lSWFJzTzN2b3l2UjEzRWQtNnNJV0lJR1BzaThyZ2RSbHZYQTNQbTVxRGJmajRLUEdPOGw0WnRmVkZwQjhlV09CRHE4a3MxbGJNMGhmeEtZbWl1dzE1clZpWHljUHpFdw?oc=5",
-        "source": "金融界",
-        "published": "Wed, 07 Oct 2026 08:28:56 GMT",
-        "category": "tech"
-      },
-      {
         "title": "Google与Constellation签署核电协议",
-        "summary": "Google签署20年协议，更新美国六处核电站，为高耗能数据中心保障电力。",
+        "summary": "Google签署20年协议，支持美国六处核电站更新，以满足数据中心不断增长的用电需求。",
         "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
         "source": "The Verge",
         "published": "2026-10-06T16:32:10-04:00",
+        "category": "tech"
+      },
+      {
+        "title": "Spotify将有声书扩展至180多个市场",
+        "summary": "Spotify宣布扩大有声书服务覆盖范围，提供35万部作品，支持超过120种语言。",
+        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+        "source": "TechCrunch",
+        "published": "2026-10-07T07:00:00Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub重建面向智能体的Git基础设施",
-        "summary": "GitHub在保持服务运行的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-        "source": "GitHub Blog",
-        "published": "2026-10-06T20:57:56Z",
-        "category": "github"
-      },
-      {
-        "title": "ReviewBench开源AI代码审查基准",
-        "summary": "GitHub推出ReviewBench，使用真实拉取请求、可校准评测和贴近生产的指标评估代码审查智能体。",
+        "title": "GitHub发布AI代码审查开放基准",
+        "summary": "ReviewBench基于真实拉取请求、多人来源依据和生产导向指标，评估AI代码审查代理。",
         "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
         "source": "GitHub Blog",
         "published": "2026-10-05T15:59:40Z",
+        "category": "github"
+      },
+      {
+        "title": "GitHub重建面向智能体的Git基础设施",
+        "summary": "GitHub介绍在持续运行服务的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "source": "GitHub Blog",
+        "published": "2026-10-06T20:57:56Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "噪声高斯信道容量界限",
-      "summary": "研究建立统一自适应弱逆定理界限，约束多类能量受限玻色通信容量。",
+      "title": "噪声高斯信道容量界获统一约束",
+      "summary": "研究提出适用于热衰减、噪声放大和加性高斯噪声信道的自适应弱逆定理界。",
       "url": "https://arxiv.org/abs/2610.08786v1",
       "source": "arXiv 量子物理",
       "published": "2026-10-06T17:59:12Z",
       "category": "physics"
     },
     {
-      "title": "量子计算机观测魔性姆佩巴效应",
-      "summary": "研究发现局域化动力学中可能出现量子魔性排序反转，为量子资源演化提供新机制。",
+      "title": "数字量子计算机观测到魔性Mpemba效应",
+      "summary": "研究发现量子魔性可出现反常松弛排序，初始魔性较低的状态可能更快达到渐近值。",
       "url": "https://arxiv.org/abs/2610.08769v1",
       "source": "arXiv 量子物理",
       "published": "2026-10-06T17:54:16Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI为AI就业转型建模",
-      "summary": "OpenAI发布关于人工智能引发就业转型的建模研究。",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QazNvWXkwSk9ZUlMxQnZmbzJLbjN3MlM5dUlMRmRYNkNGRkFRLVpTMXF2VmhvdXZMcVJsY3I1a3BsMDdqWlNFTllCRDc0dXUxM2xKOEZLNmxzMHBidG90LVBEVm1OaU5GdWJiVVZoV0pHZw?oc=5",
-      "source": "OpenAI",
-      "published": "Wed, 07 Oct 2026 00:13:54 GMT",
+      "title": "OpenAI公布数学研究进展与Lean形式化",
+      "summary": "OpenAI称前沿模型取得数学开放问题研究成果，并公开Lean证明形式化及研究细节。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-06T12:00:00Z",
       "category": "ai"
     },
     {
-      "title": "Google发布轻量多模态嵌入模型",
-      "summary": "Google DeepMind推出EmbeddingGemma 2，定位为开放、轻量的多模态嵌入模型。",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "source": "Google DeepMind Blog",
-      "published": "2026-10-06T19:57:04Z",
+      "title": "OpenAI用ChatGPT扩展量化研究流程",
+      "summary": "Jump Trading采用OpenAI工具整合多源数据与人工复核，推进更长时间运行的量化研究工作流。",
+      "url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-06T12:00:00Z",
       "category": "ai"
-    },
-    {
-      "title": "比亚迪9月新能源车销量增长17%",
-      "summary": "比亚迪公布9月新能源汽车销量46.36万辆，同比增长17%。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yb1lIbDlIQ1lSWFJzTzN2b3l2UjEzRWQtNnNJV0lJR1BzaThyZ2RSbHZYQTNQbTVxRGJmajRLUEdPOGw0WnRmVkZwQjhlV09CRHE4a3MxbGJNMGhmeEtZbWl1dzE1clZpWHljUHpFdw?oc=5",
-      "source": "金融界",
-      "published": "Wed, 07 Oct 2026 08:28:56 GMT",
-      "category": "tech"
     },
     {
       "title": "Google与Constellation签署核电协议",
-      "summary": "Google签署20年协议，更新美国六处核电站，为高耗能数据中心保障电力。",
+      "summary": "Google签署20年协议，支持美国六处核电站更新，以满足数据中心不断增长的用电需求。",
       "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
       "source": "The Verge",
       "published": "2026-10-06T16:32:10-04:00",
       "category": "tech"
     },
     {
-      "title": "GitHub重建面向智能体的Git基础设施",
-      "summary": "GitHub在保持服务运行的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub Blog",
-      "published": "2026-10-06T20:57:56Z",
-      "category": "github"
+      "title": "Spotify将有声书扩展至180多个市场",
+      "summary": "Spotify宣布扩大有声书服务覆盖范围，提供35万部作品，支持超过120种语言。",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "source": "TechCrunch",
+      "published": "2026-10-07T07:00:00Z",
+      "category": "tech"
     },
     {
-      "title": "ReviewBench开源AI代码审查基准",
-      "summary": "GitHub推出ReviewBench，使用真实拉取请求、可校准评测和贴近生产的指标评估代码审查智能体。",
+      "title": "GitHub发布AI代码审查开放基准",
+      "summary": "ReviewBench基于真实拉取请求、多人来源依据和生产导向指标，评估AI代码审查代理。",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog",
       "published": "2026-10-05T15:59:40Z",
+      "category": "github"
+    },
+    {
+      "title": "GitHub重建面向智能体的Git基础设施",
+      "summary": "GitHub介绍在持续运行服务的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Blog",
+      "published": "2026-10-06T20:57:56Z",
       "category": "github"
     }
   ]
