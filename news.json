@@ -1,61 +1,143 @@
 {
-  "updated_at": "2026-10-07T06:33:11.513334+00:00",
+  "updated_at": "2026-10-07T08:10:35.551136+00:00",
+  "categories": {
+    "physics": [
+      {
+        "title": "南极深冰捕捉宇宙中微子",
+        "summary": "报道解读在南极千米冰层下探测宇宙中微子，以及相关诺贝尔物理学奖成果。",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTnQxaGlUNXNMbENTUUZwTEJVYnc0VjRQOWZMR2pIbkhoM2JyakFudEtfSzF2VllCNlJqdk91WVZ3UVBzQXFsUHRLbEJwUmM3ZVdUV3RBN2NfbHdaOVpkVi1KMnRLTU5FblU4VEJ0Z204ZTNsTmN0TW8tNFBBUQ?oc=5",
+        "source": "前沿物理",
+        "published": "Tue, 06 Oct 2026 16:23:31 GMT",
+        "category": "physics"
+      },
+      {
+        "title": "中国科大实现抗噪声量子密钥分发",
+        "summary": "中国科大公布抗噪声量子密钥分发成果，旨在提升量子通信在噪声环境下的可靠性。",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01aGNxaHRVdkVWbmtfTERtZWI5NU8yRUo5bl9JQTBTU2ZGQWFKM2NNX0xKTXdLVFZxemttM2w0ZjRrMmRJNGpwY2VqMjA0eDhtM29MOVBudw?oc=5",
+        "source": "前沿物理",
+        "published": "Wed, 30 Sep 2026 06:35:17 GMT",
+        "category": "physics"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Mistral AI推出新模型",
+        "summary": "法国Mistral AI发布人工智能新模型，并宣称其性能超过部分中国竞争对手。",
+        "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGJNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5",
+        "source": "人工智能",
+        "published": "Tue, 06 Oct 2026 21:33:56 GMT",
+        "category": "ai"
+      },
+      {
+        "title": "专家警告AI模型或损害年轻人身体形象",
+        "summary": "专家警告，人工智能模型可能影响年轻人的身体形象认知，引发相关健康和社会关注。",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NVZvZVZxWDdYS3NSXzlyaDNxZWNPaXNwREZRWGd3YU5udFN6QUs0eVBnMmRmb1ZIOW8wX1k5NER6d1psRF9qNXQ0QjlUUGJ3a1ctZHlUOGhIajYyRUlCX1d2bktvZTTSAWxBVV95cUxOX0dIYWU0Wmx5NDFnb2lLVVZiZHBuV2t6M1d6S2VIWThUNE9oNU1ETDE5Z1FZQ2NzUF9WR3piV1NiLUx5bElzWjhBNVpyWlhwQ1dfcEllbE1PdWNPTWQ2NVYzSjlBTjRlbnpDcVk?oc=5",
+        "source": "人工智能",
+        "published": "Wed, 07 Oct 2026 00:31:18 GMT",
+        "category": "ai"
+      }
+    ],
+    "tech": [
+      {
+        "title": "SpaceX拟筹资400亿美元买英伟达芯片",
+        "summary": "报道称SpaceX计划筹集400亿美元，用于采购英伟达芯片。",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yMUZjTV9vRjcxWDNZSDNMd3V6b1J1b0J0Z3RzcUowV3pNYTFhTVFmbi1DaHh0TU1LdDNabm82ajJsemFjdE5rcDBBalN6VHUyQUxn?oc=5",
+        "source": "科技发展",
+        "published": "Wed, 07 Oct 2026 00:56:37 GMT",
+        "category": "tech"
+      },
+      {
+        "title": "AMD将持续大幅扩产AI芯片",
+        "summary": "AMD董事长苏姿丰表示AI芯片需求旺盛，公司将持续扩大芯片产能。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5seFp4aDQ3dzN5alEzN1VFMnp4VnRkY2RqQjBtblh4UWlYWXJRQTk1YzlGSjZ5aDBHTW5pcng1MWg0bjdYZlRyNA?oc=5",
+        "source": "科技发展",
+        "published": "Tue, 06 Oct 2026 10:20:44 GMT",
+        "category": "tech"
+      }
+    ],
+    "github": [
+      {
+        "title": "GitHub重建面向智能体开发的Git基础设施",
+        "summary": "GitHub正在重建Git基础设施，在不中断服务的情况下为智能体规模的软件开发打基础。",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "source": "GitHub 开源",
+        "published": "Tue, 06 Oct 2026 20:57:56 +0000",
+        "category": "github"
+      },
+      {
+        "title": "ReviewBench开放AI代码审查基准",
+        "summary": "GitHub推出ReviewBench，用真实拉取请求、多源标准答案和生产指标评估AI代码审查代理。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+        "source": "GitHub 开源",
+        "published": "Mon, 05 Oct 2026 15:59:40 +0000",
+        "category": "github"
+      }
+    ]
+  },
   "items": [
     {
-      "title": "美国防部停用Anthropic AI工具",
-      "summary": "BBC称，美国国防部在中美AI军事化背景下正式停用Anthropic的AI工具。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yRXNxTnhJYnl5UEh1QzU4Tk0yenZMRWIxRF9WSGt5QmxvYjNJNDAxczBFb2oyWTdZMnItSzFLVWJFUFR5ZFg3bmpUTTZ4bVl3SDZxWlg2QmRVeXN6LXctVHZOYnQ0ZTTSAWxBVV95cUxPTmViNUFrZTV4a3ZNQ0VMR3RGSm9vT0U5TXVYRU8tc1VfS0laVXYyWDBWWEpxak4wMlhzZ3NXeG9scmM3cGUteG9kUEduYm5PUW1TcjFvM2VoWjg0OWpGckliOFVBeXpRV1dxWmM?oc=5",
-      "source": "BBC",
-      "published": "Tue, 06 Oct 2026 08:49:41 GMT"
+      "title": "南极深冰捕捉宇宙中微子",
+      "summary": "报道解读在南极千米冰层下探测宇宙中微子，以及相关诺贝尔物理学奖成果。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xTnQxaGlUNXNMbENTUUZwTEJVYnc0VjRQOWZMR2pIbkhoM2JyakFudEtfSzF2VllCNlJqdk91WVZ3UVBzQXFsUHRLbEJwUmM3ZVdUV3RBN2NfbHdaOVpkVi1KMnRLTU5FblU4VEJ0Z204ZTNsTmN0TW8tNFBBUQ?oc=5",
+      "source": "前沿物理",
+      "published": "Tue, 06 Oct 2026 16:23:31 GMT",
+      "category": "physics"
     },
     {
-      "title": "美国拟与中国建立AI事故通报机制",
-      "summary": "美国组建“超级智能”工作组，并拟与中国建立人工智能事故通报机制。",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2tORFdhejFBdmNrNlJndTRrb1dNbXRvVEVDUkQ5TTVILUJ6elVJWlB3bzZpMVU3cjk1NVRfd3M4eVZMRy1IUkZlMGExT1k1aTQ0ZzRqeVdWSktOQ0xzbWlmR2Fsc2k1MkJFRVFIaWEtMEJERF9fcFdsbmRkdFlKWENtOGl5cXlvTzNsc243b2FyUWxYcnZzc1k3ajVLdF91SHF6WlFxM25nLUdPTXN3bWtVeUFHODRhNm9nbUVzekc0NDhBYkIzYVBDMm1iUE9KeWlvNkxVMGPSAdsBQVVfeXFMT09ESTRDdWNRb1lLMGxMV1N3NF8wdm9QY1NtdDY0cFJscGt6bzhnd0ZlS2Z0dGl1NmxwRFY3ZURjS044ODQ0MjBCZkg4LUVYSjk1dW5BS1Yxa2pMTzNXWVZnZVRCYldxd3c2UkFBV0RaazE0UGd0eUU3SmtNSFVsbHN2eEk5U0hEbVZTR2t4VTJyQWRVWXZuUVh5TldsdHZ1U3R6U21tWGNjeWdvT0N5MGl5UFJnYTJaZld2NmptcklwX09ZdnBtWXU1VkRXMnhlUUx5TnczWTBsMzJF?oc=5",
-      "source": "美国之音",
-      "published": "Mon, 05 Oct 2026 20:20:16 GMT"
+      "title": "中国科大实现抗噪声量子密钥分发",
+      "summary": "中国科大公布抗噪声量子密钥分发成果，旨在提升量子通信在噪声环境下的可靠性。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01aGNxaHRVdkVWbmtfTERtZWI5NU8yRUo5bl9JQTBTU2ZGQWFKM2NNX0xKTXdLVFZxemttM2w0ZjRrMmRJNGpwY2VqMjA0eDhtM29MOVBudw?oc=5",
+      "source": "前沿物理",
+      "published": "Wed, 30 Sep 2026 06:35:17 GMT",
+      "category": "physics"
     },
     {
-      "title": "新加坡发布金融业AI应用监管要求",
-      "summary": "新加坡金管局出台金融业人工智能应用监管要求。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcWhLZHpBOURDQndOQmJlaGxFRUpYWUtYR09fQUVzVHk4U0tMeW1MNkNUY2ViN3NZX0N5VEtHVm1RNmUtWWdDM3FMZ0dhWW5wN2pra0hZeFduNDdsMk9FVzFXTldGVVNzVFd2TXphdDZrb2VIWGtORTR3RUxnU3Z1MEJn?oc=5",
-      "source": "新浪网",
-      "published": "Wed, 07 Oct 2026 04:03:58 GMT"
+      "title": "Mistral AI推出新模型",
+      "summary": "法国Mistral AI发布人工智能新模型，并宣称其性能超过部分中国竞争对手。",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGJNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5",
+      "source": "人工智能",
+      "published": "Tue, 06 Oct 2026 21:33:56 GMT",
+      "category": "ai"
     },
     {
-      "title": "辛顿提议AI模型上线前接受安全审核",
-      "summary": "辛顿建议AI行业建立类似FDA的审批机制，模型推出前需通过安全审核。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1CSjlCeWRETUNBdkFmdnUtZGdxNENXWElwY0s4eDNUTnpIQTRSZUFjLU9wS2NKSklzb2pZY2JpX2Jab2J3WDF5dm85V1c?oc=5",
-      "source": "凤凰网科技",
-      "published": "Wed, 07 Oct 2026 04:42:54 GMT"
+      "title": "专家警告AI模型或损害年轻人身体形象",
+      "summary": "专家警告，人工智能模型可能影响年轻人的身体形象认知，引发相关健康和社会关注。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NVZvZVZxWDdYS3NSXzlyaDNxZWNPaXNwREZRWGd3YU5udFN6QUs0eVBnMmRmb1ZIOW8wX1k5NER6d1psRF9qNXQ0QjlUUGJ3a1ctZHlUOGhIajYyRUlCX1d2bktvZTTSAWxBVV95cUxOX0dIYWU0Wmx5NDFnb2lLVVZiZHBuV2t6M1d6S2VIWThUNE9oNU1ETDE5Z1FZQ2NzUF9WR3piV1NiLUx5bElzWjhBNVpyWlhwQ1dfcEllbE1PdWNPTWQ2NVYzSjlBTjRlbnpDcVk?oc=5",
+      "source": "人工智能",
+      "published": "Wed, 07 Oct 2026 00:31:18 GMT",
+      "category": "ai"
     },
     {
-      "title": "谷歌签署20年核能采购协议",
-      "summary": "谷歌签下3590兆瓦核能协议，期限20年，并将Gemini嵌入能源运营。",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TTEMxVS00OUtaV1ktVlcwaHk1Rmk3NXdlMDI0OVlhMFFvV2ZpUk5DbGVGMlVPMWw1b2dfWHlxOVh4aXFuZjdrLUtCU1hYaXp0cktF?oc=5",
-      "source": "华尔街见闻",
-      "published": "Tue, 06 Oct 2026 22:03:05 GMT"
+      "title": "SpaceX拟筹资400亿美元买英伟达芯片",
+      "summary": "报道称SpaceX计划筹集400亿美元，用于采购英伟达芯片。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yMUZjTV9vRjcxWDNZSDNMd3V6b1J1b0J0Z3RzcUowV3pNYTFhTVFmbi1DaHh0TU1LdDNabm82ajJsemFjdE5rcDBBalN6VHUyQUxn?oc=5",
+      "source": "科技发展",
+      "published": "Wed, 07 Oct 2026 00:56:37 GMT",
+      "category": "tech"
     },
     {
-      "title": "IMF警示AI、油价与债务多重风险",
-      "summary": "IMF总裁表示，世界正面临人工智能、油价和债务带来的多重风险。",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rcThyRXhXTWtraGQ1Vm5ZbmxrY3RfdnQ0Mm1zVXM0QlRjclhMV2xqa2F6Z2R4X2cyNHF1aGdEcnJvYUhvcWtITDh0aw?oc=5",
-      "source": "新浪财经",
-      "published": "Wed, 07 Oct 2026 06:16:00 GMT"
+      "title": "AMD将持续大幅扩产AI芯片",
+      "summary": "AMD董事长苏姿丰表示AI芯片需求旺盛，公司将持续扩大芯片产能。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5seFp4aDQ3dzN5alEzN1VFMnp4VnRkY2RqQjBtblh4UWlYWXJRQTk1YzlGSjZ5aDBHTW5pcng1MWg0bjdYZlRyNA?oc=5",
+      "source": "科技发展",
+      "published": "Tue, 06 Oct 2026 10:20:44 GMT",
+      "category": "tech"
     },
     {
-      "title": "法国Mistral AI推出新模型",
-      "summary": "法国Mistral AI发布人工智能新模型，称其性能超过部分中国竞争对手。",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGpNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5",
-      "source": "RFI",
-      "published": "Tue, 06 Oct 2026 21:33:56 GMT"
+      "title": "GitHub重建面向智能体开发的Git基础设施",
+      "summary": "GitHub正在重建Git基础设施，在不中断服务的情况下为智能体规模的软件开发打基础。",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub 开源",
+      "published": "Tue, 06 Oct 2026 20:57:56 +0000",
+      "category": "github"
     },
     {
-      "title": "国庆假期科技赋能文旅新体验",
-      "summary": "国庆假期，科技应用为游客带来新的文旅体验。",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNMXIxc05aQ0stSGUzQlpYV0lWYi1QLWpDalMxTjN6d2NTT1Z6Q3hrQW00X3RSSlJfeS1saWwxMzJGNmRycTRLLXY2NzZrd29HazJtaWlDal9mVmc2V1lpWnVVX2EzSEQ0N3lCR0ozTGJCTC1ZWHoydXVVRUdkT0U?oc=5",
-      "source": "新华网",
-      "published": "Wed, 07 Oct 2026 03:38:42 GMT"
+      "title": "ReviewBench开放AI代码审查基准",
+      "summary": "GitHub推出ReviewBench，用真实拉取请求、多源标准答案和生产指标评估AI代码审查代理。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "source": "GitHub 开源",
+      "published": "Mon, 05 Oct 2026 15:59:40 +0000",
+      "category": "github"
     }
   ]
 }
