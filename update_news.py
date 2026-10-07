@@ -54,11 +54,13 @@ def fetch_feed(source):
 
 
 def call_model(articles):
-    prompt = """请把下面的新闻整理成适合手机小组件显示的中文 JSON。
+    now = datetime.now(timezone.utc).isoformat()
+    prompt = f"""请把下面的新闻整理成适合手机小组件显示的中文 JSON。
 只返回一个 JSON 对象，不要 Markdown，不要解释。对象必须严格包含四个数组：physics、ai、tech、github。
 每个数组恰好 2 项。每项必须包含：title（不超过30字）、summary（不超过80字）、url、source、published、category。
 physics=前沿物理，ai=人工智能，tech=科技发展，github=GitHub/开源。
-优先使用同类别新闻；不足时从标题和内容最相关的新闻补足。保留事实，不要编造。
+当前时间是 {now}。优先选择最近 48 小时发布的新闻；如果最近 48 小时有 OpenAI、数学、数学推理、定理证明或 AI 科研成果，优先放入 ai 类。其次选择最近 7 天的重要新闻。
+优先使用同类别新闻；不足时从标题和内容最相关的新闻补足。保留事实，不要编造，不要把旧闻包装成新发布。
 
 新闻：
 """ + json.dumps(articles, ensure_ascii=False)
