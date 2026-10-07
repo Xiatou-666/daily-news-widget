@@ -23,4 +23,5 @@ https://raw.githubusercontent.com/你的用户名/你的仓库/main/news.json
 
 - GitHub Actions 在云端运行，不需要打开 ChatGPT、CCSwitch、电脑或手机。
 - API Key 只放在 GitHub Secret，不要写入仓库文件。
-- 默认每小时运行一次，也可以修改 workflow 中的 cron。
+- 当前 workflow 默认每天北京时间 12:00（UTC 04:00）运行一次；GitHub 可能有几分钟排队延迟。
+- 新闻来源包含 arXiv、Nature、NASA、CERN、Google News、Hugging Face、DeepMind、Google AI、MIT Technology Review、The Verge、TechCrunch、GitHub Blog 和 GitHub Changelog；失效或暂时不可用的来源会自动跳过。
