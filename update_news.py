@@ -19,12 +19,28 @@ def fetch_feed(source):
     with urllib.request.urlopen(request, timeout=30) as response:
         root = ET.fromstring(response.read())
 
+    def local_name(tag):
+        return tag.rsplit("}", 1)[-1]
+
+    def child_text(node, names):
+        for child in list(node):
+            if local_name(child.tag) in names and child.text:
+                return child.text.strip()
+        return ""
+
     entries = []
-    for item in root.findall(".//item")[:12]:
-        title = (item.findtext("title") or "").strip()
-        link = (item.findtext("link") or "").strip()
-        description = re.sub(r"<[^>]+>", " ", item.findtext("description") or "")
-        published = (item.findtext("pubDate") or "").strip()
+    nodes = [node for node in root.iter() if local_name(node.tag) in {"item", "entry"}]
+    for item in nodes[:12]:
+        title = child_text(item, {"title"})
+        link = child_text(item, {"link"})
+        if not link:
+            for child in list(item):
+                if local_name(child.tag) == "link" and child.attrib.get("href"):
+                    link = child.attrib["href"]
+                    break
+        description = child_text(item, {"description", "summary", "content"})
+        published = child_text(item, {"pubDate", "published", "updated"})
+        description = re.sub(r"<[^>]+>", " ", description)
         if title and link:
             entries.append({
                 "source": source["name"],
@@ -88,9 +104,13 @@ def main():
         sources = json.load(file)
 
     articles = []
+    seen_links = set()
     for source in sources:
         try:
-            articles.extend(fetch_feed(source))
+            for article in fetch_feed(source):
+                if article["link"] not in seen_links:
+                    seen_links.add(article["link"])
+                    articles.append(article)
         except Exception as error:
             print(f"跳过 RSS {source['name']}: {error}")
 

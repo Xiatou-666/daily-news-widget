@@ -1,22 +1,14 @@
 [
-  {
-    "category": "physics",
-    "name": "前沿物理",
-    "url": "https://news.google.com/rss/search?q=%E5%89%8D%E6%B2%BF%E7%89%A9%E7%90%86%20OR%20%E9%87%8F%E5%AD%90%20OR%20%E5%AE%87%E5%AE%99&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-  },
-  {
-    "category": "ai",
-    "name": "人工智能",
-    "url": "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20OR%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%20OR%20AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-  },
-  {
-    "category": "tech",
-    "name": "科技发展",
-    "url": "https://news.google.com/rss/search?q=%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%20OR%20%E8%8A%AF%E7%89%87%20OR%20%E6%96%B0%E8%83%BD%E6%BA%90&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
-  },
-  {
-    "category": "github",
-    "name": "GitHub 开源",
-    "url": "https://github.blog/feed/"
-  }
+  {"category":"physics","name":"arXiv 量子物理","url":"https://export.arxiv.org/api/query?search_query=cat:quant-ph&start=0&max_results=20&sortBy=submittedDate&sortOrder=descending"},
+  {"category":"physics","name":"Nature 量子物理","url":"https://www.nature.com/subjects/quantum-physics.rss"},
+  {"category":"physics","name":"Google News 前沿物理","url":"https://news.google.com/rss/search?q=%E5%89%8D%E6%B2%BF%E7%89%A9%E7%90%86%20OR%20%E9%87%8F%E5%AD%90%20OR%20%E5%AE%87%E5%AE%99&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+  {"category":"ai","name":"Google News 人工智能","url":"https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20OR%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%20OR%20AI&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+  {"category":"ai","name":"Hugging Face Blog","url":"https://huggingface.co/blog/feed.xml"},
+  {"category":"ai","name":"Google DeepMind Blog","url":"https://deepmind.google/blog/rss.xml"},
+  {"category":"tech","name":"Google News 科技发展","url":"https://news.google.com/rss/search?q=%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%20OR%20%E8%8A%AF%E7%89%87%20OR%20%E6%96%B0%E8%83%BD%E6%BA%90&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"},
+  {"category":"tech","name":"MIT Technology Review","url":"https://www.technologyreview.com/feed/"},
+  {"category":"tech","name":"The Verge","url":"https://www.theverge.com/rss/index.xml"},
+  {"category":"github","name":"GitHub Blog","url":"https://github.blog/feed/"},
+  {"category":"github","name":"GitHub Changelog","url":"https://github.blog/changelog/feed/"},
+  {"category":"github","name":"Google News GitHub 开源","url":"https://news.google.com/rss/search?q=GitHub%20OR%20%E5%BC%80%E6%BA%90%20OR%20%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"}
 ]
