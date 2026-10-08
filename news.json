@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-07T08:59:01.011462+00:00",
+  "updated_at": "2026-10-08T11:01:06.424305+00:00",
   "categories": {
     "physics": [
       {
-        "title": "噪声高斯信道容量界获统一约束",
-        "summary": "研究提出适用于热衰减、噪声放大和加性高斯噪声信道的自适应弱逆定理界。",
-        "url": "https://arxiv.org/abs/2610.08786v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-06T17:59:12Z",
+        "title": "钍229核光钟实现反馈闭环",
+        "summary": "Nature发表钍229光学核钟研究，介绍带反馈回路的核光钟方案。",
+        "url": "https://www.nature.com/articles/s41586-026-11084-4",
+        "source": "Nature 量子物理",
+        "published": "2026-10-07T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "数字量子计算机观测到魔性Mpemba效应",
-        "summary": "研究发现量子魔性可出现反常松弛排序，初始魔性较低的状态可能更快达到渐近值。",
-        "url": "https://arxiv.org/abs/2610.08769v1",
+        "title": "量子自旋链编码黑洞径向几何",
+        "summary": "研究将反德西特黑膜背景中的标量场径向方程编码为可精确求解的自旋链，并在超导处理器上实现有限链。",
+        "url": "https://arxiv.org/abs/2610.10504v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-06T17:54:16Z",
+        "published": "2026-10-07T17:50:53Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI公布数学研究进展与Lean形式化",
-        "summary": "OpenAI称前沿模型取得数学开放问题研究成果，并公开Lean证明形式化及研究细节。",
+        "title": "OpenAI公布AI数学研究新成果",
+        "summary": "OpenAI公布内部前沿模型对数学开放问题的研究结果，并在GitHub分享Lean形式化证明与研究细节。",
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
         "source": "OpenAI 官方新闻",
         "published": "2026-10-06T12:00:00Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI用ChatGPT扩展量化研究流程",
-        "summary": "Jump Trading采用OpenAI工具整合多源数据与人工复核，推进更长时间运行的量化研究工作流。",
-        "url": "https://openai.com/index/jump-trading",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-06T12:00:00Z",
+        "title": "Nemotron微调取得双项金牌级结果",
+        "summary": "英伟达博客介绍Nemotron模型家族的微调方法，以及在国际信息学和数学奥赛任务上的金牌级结果。",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+        "source": "Hugging Face Blog",
+        "published": "2026-10-07T12:45:31Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Google与Constellation签署核电协议",
-        "summary": "Google签署20年协议，支持美国六处核电站更新，以满足数据中心不断增长的用电需求。",
-        "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-        "source": "The Verge",
-        "published": "2026-10-06T16:32:10-04:00",
+        "title": "微软发布英伟达芯片AI电脑",
+        "summary": "微软公布Surface Laptop Ultra的规格与价格，新款AI电脑搭载英伟达芯片，面向本地AI模型与智能体运行。",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "source": "TechCrunch",
+        "published": "2026-10-07T20:22:37Z",
         "category": "tech"
       },
       {
-        "title": "Spotify将有声书扩展至180多个市场",
-        "summary": "Spotify宣布扩大有声书服务覆盖范围，提供35万部作品，支持超过120种语言。",
-        "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-        "source": "TechCrunch",
-        "published": "2026-10-07T07:00:00Z",
+        "title": "麻省理工科技评论聚焦气候科技企业",
+        "summary": "编辑团队解读2026年值得关注的气候科技企业名单，聚焦气候与能源技术领域有潜力的进展及公司。",
+        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-08T10:00:00Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub发布AI代码审查开放基准",
-        "summary": "ReviewBench基于真实拉取请求、多人来源依据和生产导向指标，评估AI代码审查代理。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-        "source": "GitHub Blog",
-        "published": "2026-10-05T15:59:40Z",
+        "title": "GitHub Copilot本地沙箱正式可用",
+        "summary": "本地沙箱已在Copilot CLI、Copilot应用及使用Agent Host的VS Code会话中正式可用，为开发工作提供隔离环境。",
+        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+        "source": "GitHub Changelog",
+        "published": "2026-10-07T15:46:17Z",
         "category": "github"
       },
       {
-        "title": "GitHub重建面向智能体的Git基础设施",
-        "summary": "GitHub介绍在持续运行服务的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-        "source": "GitHub Blog",
-        "published": "2026-10-06T20:57:56Z",
+        "title": "GitHub堆叠式拉取请求正式可用",
+        "summary": "开发者可将大型改动拆成更小、更聚焦的堆叠式拉取请求，分别审查并一同合并。",
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "published": "2026-10-06T20:16:41Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "噪声高斯信道容量界获统一约束",
-      "summary": "研究提出适用于热衰减、噪声放大和加性高斯噪声信道的自适应弱逆定理界。",
-      "url": "https://arxiv.org/abs/2610.08786v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-06T17:59:12Z",
+      "title": "钍229核光钟实现反馈闭环",
+      "summary": "Nature发表钍229光学核钟研究，介绍带反馈回路的核光钟方案。",
+      "url": "https://www.nature.com/articles/s41586-026-11084-4",
+      "source": "Nature 量子物理",
+      "published": "2026-10-07T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "数字量子计算机观测到魔性Mpemba效应",
-      "summary": "研究发现量子魔性可出现反常松弛排序，初始魔性较低的状态可能更快达到渐近值。",
-      "url": "https://arxiv.org/abs/2610.08769v1",
+      "title": "量子自旋链编码黑洞径向几何",
+      "summary": "研究将反德西特黑膜背景中的标量场径向方程编码为可精确求解的自旋链，并在超导处理器上实现有限链。",
+      "url": "https://arxiv.org/abs/2610.10504v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-06T17:54:16Z",
+      "published": "2026-10-07T17:50:53Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI公布数学研究进展与Lean形式化",
-      "summary": "OpenAI称前沿模型取得数学开放问题研究成果，并公开Lean证明形式化及研究细节。",
+      "title": "OpenAI公布AI数学研究新成果",
+      "summary": "OpenAI公布内部前沿模型对数学开放问题的研究结果，并在GitHub分享Lean形式化证明与研究细节。",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "source": "OpenAI 官方新闻",
       "published": "2026-10-06T12:00:00Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI用ChatGPT扩展量化研究流程",
-      "summary": "Jump Trading采用OpenAI工具整合多源数据与人工复核，推进更长时间运行的量化研究工作流。",
-      "url": "https://openai.com/index/jump-trading",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-06T12:00:00Z",
+      "title": "Nemotron微调取得双项金牌级结果",
+      "summary": "英伟达博客介绍Nemotron模型家族的微调方法，以及在国际信息学和数学奥赛任务上的金牌级结果。",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face Blog",
+      "published": "2026-10-07T12:45:31Z",
       "category": "ai"
     },
     {
-      "title": "Google与Constellation签署核电协议",
-      "summary": "Google签署20年协议，支持美国六处核电站更新，以满足数据中心不断增长的用电需求。",
-      "url": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-      "source": "The Verge",
-      "published": "2026-10-06T16:32:10-04:00",
-      "category": "tech"
-    },
-    {
-      "title": "Spotify将有声书扩展至180多个市场",
-      "summary": "Spotify宣布扩大有声书服务覆盖范围，提供35万部作品，支持超过120种语言。",
-      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "title": "微软发布英伟达芯片AI电脑",
+      "summary": "微软公布Surface Laptop Ultra的规格与价格，新款AI电脑搭载英伟达芯片，面向本地AI模型与智能体运行。",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
       "source": "TechCrunch",
-      "published": "2026-10-07T07:00:00Z",
+      "published": "2026-10-07T20:22:37Z",
       "category": "tech"
     },
     {
-      "title": "GitHub发布AI代码审查开放基准",
-      "summary": "ReviewBench基于真实拉取请求、多人来源依据和生产导向指标，评估AI代码审查代理。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "source": "GitHub Blog",
-      "published": "2026-10-05T15:59:40Z",
+      "title": "麻省理工科技评论聚焦气候科技企业",
+      "summary": "编辑团队解读2026年值得关注的气候科技企业名单，聚焦气候与能源技术领域有潜力的进展及公司。",
+      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-08T10:00:00Z",
+      "category": "tech"
+    },
+    {
+      "title": "GitHub Copilot本地沙箱正式可用",
+      "summary": "本地沙箱已在Copilot CLI、Copilot应用及使用Agent Host的VS Code会话中正式可用，为开发工作提供隔离环境。",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+      "source": "GitHub Changelog",
+      "published": "2026-10-07T15:46:17Z",
       "category": "github"
     },
     {
-      "title": "GitHub重建面向智能体的Git基础设施",
-      "summary": "GitHub介绍在持续运行服务的同时重建Git基础设施，为智能体规模的软件开发提供基础。",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub Blog",
-      "published": "2026-10-06T20:57:56Z",
+      "title": "GitHub堆叠式拉取请求正式可用",
+      "summary": "开发者可将大型改动拆成更小、更聚焦的堆叠式拉取请求，分别审查并一同合并。",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "published": "2026-10-06T20:16:41Z",
       "category": "github"
     }
   ]
