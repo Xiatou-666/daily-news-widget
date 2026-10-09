@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-08T11:01:06.424305+00:00",
+  "updated_at": "2026-10-09T11:00:58.433295+00:00",
   "categories": {
     "physics": [
       {
-        "title": "钍229核光钟实现反馈闭环",
-        "summary": "Nature发表钍229光学核钟研究，介绍带反馈回路的核光钟方案。",
-        "url": "https://www.nature.com/articles/s41586-026-11084-4",
-        "source": "Nature 量子物理",
-        "published": "2026-10-07T00:00:00Z",
+        "title": "纠缠蒸馏在PPT信道下的新结果",
+        "summary": "研究给出PPT可蒸馏纠缠的正则化公式，并提出两种单字母上界。",
+        "url": "https://arxiv.org/abs/2610.12454v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-08T17:59:09Z",
         "category": "physics"
       },
       {
-        "title": "量子自旋链编码黑洞径向几何",
-        "summary": "研究将反德西特黑膜背景中的标量场径向方程编码为可精确求解的自旋链，并在超导处理器上实现有限链。",
-        "url": "https://arxiv.org/abs/2610.10504v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-07T17:50:53Z",
+        "title": "核钟首次运行，精密计时取得进展",
+        "summary": "Nature报道核钟首次实现运行，钍-229核跃迁精密测量取得进展。",
+        "url": "https://www.nature.com/articles/d41586-026-03060-9",
+        "source": "Nature 量子物理",
+        "published": "Wed, 7 Oct 2026 00:00:00 +0000",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI公布AI数学研究新成果",
-        "summary": "OpenAI公布内部前沿模型对数学开放问题的研究结果，并在GitHub分享Lean形式化证明与研究细节。",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-06T12:00:00Z",
+        "title": "OpenAI数学成果未达领域规范",
+        "summary": "TechCrunch称，OpenAI批量发布的数学证明未完全遵循其咨询数学研究者制定的规范。",
+        "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+        "source": "TechCrunch",
+        "published": "Thu, 08 Oct 2026 18:10:55 +0000",
         "category": "ai"
       },
       {
-        "title": "Nemotron微调取得双项金牌级结果",
-        "summary": "英伟达博客介绍Nemotron模型家族的微调方法，以及在国际信息学和数学奥赛任务上的金牌级结果。",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-        "source": "Hugging Face Blog",
-        "published": "2026-10-07T12:45:31Z",
+        "title": "陶哲轩批评OpenAI数学研究规范",
+        "summary": "多家媒体报道，陶哲轩质疑OpenAI数学成果的研究规范，并呼吁数学界关注相关问题。",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNGFsbVZjRm5oTlQyeUxYNWc5VGV4cDFLd0h3Yjd3V18wWmZqZWNRWk96UFk0eFYyTkxaNVFjbXp0VWdEZHd5bkNGQXZEWk5pS0VmeWVSRXhQMUFpV01ZaE53",
+        "source": "Google News OpenAI 数学",
+        "published": "Fri, 09 Oct 2026 05:49:32 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "微软发布英伟达芯片AI电脑",
-        "summary": "微软公布Surface Laptop Ultra的规格与价格，新款AI电脑搭载英伟达芯片，面向本地AI模型与智能体运行。",
-        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "source": "TechCrunch",
-        "published": "2026-10-07T20:22:37Z",
+        "title": "SpaceX计划成为大型移动通信运营商",
+        "summary": "SpaceX宣布收购低频频谱牌照，计划将卫星直连手机服务Starlink Mobile扩展为美国主要运营商。",
+        "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+        "source": "The Verge",
+        "published": "2026-10-08T17:23:31-04:00",
         "category": "tech"
       },
       {
-        "title": "麻省理工科技评论聚焦气候科技企业",
-        "summary": "编辑团队解读2026年值得关注的气候科技企业名单，聚焦气候与能源技术领域有潜力的进展及公司。",
-        "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-08T10:00:00Z",
+        "title": "英伟达据称计划投资推理芯片公司",
+        "summary": "报道称英伟达计划投资AI推理芯片公司d-Matrix，芯片厂商间竞争与合作关系进一步交织。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NXRpLVd6RkhvSi1hOG5GVW5iYV9yX3d0ZkFodnUxNkg1ZmE4akpGOXpOLXFSZF9KNGtac3dybjE5bDhoRzE0Tg",
+        "source": "Google News 科技发展",
+        "published": "Fri, 09 Oct 2026 10:30:20 GMT",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot本地沙箱正式可用",
-        "summary": "本地沙箱已在Copilot CLI、Copilot应用及使用Agent Host的VS Code会话中正式可用，为开发工作提供隔离环境。",
-        "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-        "source": "GitHub Changelog",
-        "published": "2026-10-07T15:46:17Z",
+        "title": "GitHub推出AI代码审查开放基准",
+        "summary": "ReviewBench基于真实拉取请求、多个来源的标准答案和生产导向指标，评估AI代码审查代理。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+        "source": "GitHub Blog",
+        "published": "Mon, 05 Oct 2026 15:59:40 +0000",
         "category": "github"
       },
       {
-        "title": "GitHub堆叠式拉取请求正式可用",
-        "summary": "开发者可将大型改动拆成更小、更聚焦的堆叠式拉取请求，分别审查并一同合并。",
-        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-        "source": "GitHub Changelog",
-        "published": "2026-10-06T20:16:41Z",
+        "title": "GitHub基础设施面向代理规模开发重建",
+        "summary": "GitHub介绍持续运行中重建Git基础设施的计划，为代理规模的软件开发提供基础。",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+        "source": "GitHub Blog",
+        "published": "Tue, 06 Oct 2026 20:57:56 +0000",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "钍229核光钟实现反馈闭环",
-      "summary": "Nature发表钍229光学核钟研究，介绍带反馈回路的核光钟方案。",
-      "url": "https://www.nature.com/articles/s41586-026-11084-4",
-      "source": "Nature 量子物理",
-      "published": "2026-10-07T00:00:00Z",
-      "category": "physics"
-    },
-    {
-      "title": "量子自旋链编码黑洞径向几何",
-      "summary": "研究将反德西特黑膜背景中的标量场径向方程编码为可精确求解的自旋链，并在超导处理器上实现有限链。",
-      "url": "https://arxiv.org/abs/2610.10504v1",
+      "title": "纠缠蒸馏在PPT信道下的新结果",
+      "summary": "研究给出PPT可蒸馏纠缠的正则化公式，并提出两种单字母上界。",
+      "url": "https://arxiv.org/abs/2610.12454v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-07T17:50:53Z",
+      "published": "2026-10-08T17:59:09Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI公布AI数学研究新成果",
-      "summary": "OpenAI公布内部前沿模型对数学开放问题的研究结果，并在GitHub分享Lean形式化证明与研究细节。",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-06T12:00:00Z",
-      "category": "ai"
+      "title": "核钟首次运行，精密计时取得进展",
+      "summary": "Nature报道核钟首次实现运行，钍-229核跃迁精密测量取得进展。",
+      "url": "https://www.nature.com/articles/d41586-026-03060-9",
+      "source": "Nature 量子物理",
+      "published": "Wed, 7 Oct 2026 00:00:00 +0000",
+      "category": "physics"
     },
     {
-      "title": "Nemotron微调取得双项金牌级结果",
-      "summary": "英伟达博客介绍Nemotron模型家族的微调方法，以及在国际信息学和数学奥赛任务上的金牌级结果。",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face Blog",
-      "published": "2026-10-07T12:45:31Z",
-      "category": "ai"
-    },
-    {
-      "title": "微软发布英伟达芯片AI电脑",
-      "summary": "微软公布Surface Laptop Ultra的规格与价格，新款AI电脑搭载英伟达芯片，面向本地AI模型与智能体运行。",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "title": "OpenAI数学成果未达领域规范",
+      "summary": "TechCrunch称，OpenAI批量发布的数学证明未完全遵循其咨询数学研究者制定的规范。",
+      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
       "source": "TechCrunch",
-      "published": "2026-10-07T20:22:37Z",
+      "published": "Thu, 08 Oct 2026 18:10:55 +0000",
+      "category": "ai"
+    },
+    {
+      "title": "陶哲轩批评OpenAI数学研究规范",
+      "summary": "多家媒体报道，陶哲轩质疑OpenAI数学成果的研究规范，并呼吁数学界关注相关问题。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNGFsbVZjRm5oTlQyeUxYNWc5VGV4cDFLd0h3Yjd3V18wWmZqZWNRWk96UFk0eFYyTkxaNVFjbXp0VWdEZHd5bkNGQXZEWk5pS0VmeWVSRXhQMUFpV01ZaE53",
+      "source": "Google News OpenAI 数学",
+      "published": "Fri, 09 Oct 2026 05:49:32 GMT",
+      "category": "ai"
+    },
+    {
+      "title": "SpaceX计划成为大型移动通信运营商",
+      "summary": "SpaceX宣布收购低频频谱牌照，计划将卫星直连手机服务Starlink Mobile扩展为美国主要运营商。",
+      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "source": "The Verge",
+      "published": "2026-10-08T17:23:31-04:00",
       "category": "tech"
     },
     {
-      "title": "麻省理工科技评论聚焦气候科技企业",
-      "summary": "编辑团队解读2026年值得关注的气候科技企业名单，聚焦气候与能源技术领域有潜力的进展及公司。",
-      "url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-08T10:00:00Z",
+      "title": "英伟达据称计划投资推理芯片公司",
+      "summary": "报道称英伟达计划投资AI推理芯片公司d-Matrix，芯片厂商间竞争与合作关系进一步交织。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NXRpLVd6RkhvSi1hOG5GVW5iYV9yX3d0ZkFodnUxNkg1ZmE4akpGOXpOLXFSZF9KNGtac3dybjE5bDhoRzE0Tg",
+      "source": "Google News 科技发展",
+      "published": "Fri, 09 Oct 2026 10:30:20 GMT",
       "category": "tech"
     },
     {
-      "title": "GitHub Copilot本地沙箱正式可用",
-      "summary": "本地沙箱已在Copilot CLI、Copilot应用及使用Agent Host的VS Code会话中正式可用，为开发工作提供隔离环境。",
-      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
-      "source": "GitHub Changelog",
-      "published": "2026-10-07T15:46:17Z",
+      "title": "GitHub推出AI代码审查开放基准",
+      "summary": "ReviewBench基于真实拉取请求、多个来源的标准答案和生产导向指标，评估AI代码审查代理。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "source": "GitHub Blog",
+      "published": "Mon, 05 Oct 2026 15:59:40 +0000",
       "category": "github"
     },
     {
-      "title": "GitHub堆叠式拉取请求正式可用",
-      "summary": "开发者可将大型改动拆成更小、更聚焦的堆叠式拉取请求，分别审查并一同合并。",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "source": "GitHub Changelog",
-      "published": "2026-10-06T20:16:41Z",
+      "title": "GitHub基础设施面向代理规模开发重建",
+      "summary": "GitHub介绍持续运行中重建Git基础设施的计划，为代理规模的软件开发提供基础。",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Blog",
+      "published": "Tue, 06 Oct 2026 20:57:56 +0000",
       "category": "github"
     }
   ]
