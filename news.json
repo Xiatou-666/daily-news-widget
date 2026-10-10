@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-09T11:00:58.433295+00:00",
+  "updated_at": "2026-10-10T12:05:46.259011+00:00",
   "categories": {
     "physics": [
       {
-        "title": "纠缠蒸馏在PPT信道下的新结果",
-        "summary": "研究给出PPT可蒸馏纠缠的正则化公式，并提出两种单字母上界。",
-        "url": "https://arxiv.org/abs/2610.12454v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-08T17:59:09Z",
-        "category": "physics"
+        "title": "量子硬件上的自适应电路从混沌中产生秩序",
+        "summary": "Nature刊登研究，主题为利用量子硬件上的自适应电路，从混沌中产生秩序。",
+        "url": "https://www.nature.com/articles/s41567-026-03470-6",
+        "source": "Nature 量子物理",
+        "published": "2026-10-09T00:00:00Z",
+        "category": "前沿物理"
       },
       {
-        "title": "核钟首次运行，精密计时取得进展",
-        "summary": "Nature报道核钟首次实现运行，钍-229核跃迁精密测量取得进展。",
-        "url": "https://www.nature.com/articles/d41586-026-03060-9",
-        "source": "Nature 量子物理",
-        "published": "Wed, 7 Oct 2026 00:00:00 +0000",
-        "category": "physics"
+        "title": "研究给出纯损耗信道的能量受限容量",
+        "summary": "arXiv预印本给出平均输入光子数受限时，纯损耗信道的双向量子容量与密钥容量公式，两者相等。",
+        "url": "https://arxiv.org/abs/2610.12365v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-08T17:27:32Z",
+        "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI数学成果未达领域规范",
-        "summary": "TechCrunch称，OpenAI批量发布的数学证明未完全遵循其咨询数学研究者制定的规范。",
-        "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-        "source": "TechCrunch",
-        "published": "Thu, 08 Oct 2026 18:10:55 +0000",
-        "category": "ai"
+        "title": "报道：陶哲轩声援抵制OpenAI倡议",
+        "summary": "据麻省理工科技评论报道，陶哲轩公开声援抵制OpenAI的倡议，数学界与AI公司的合作争议升温。",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWUFyTFlZemZMWjZ0TDlRZE1rb1d6M1IzMnFxcUhzZUFOWEpnUk00V1ROSDVITFQ5ZTZncWFITzZxUTk2STVIQjVaSnpDLWZURU5rUFlBVQ?oc=5",
+        "source": "麻省理工科技评论（Google News）",
+        "published": "2026-10-09T02:35:42Z",
+        "category": "人工智能"
       },
       {
-        "title": "陶哲轩批评OpenAI数学研究规范",
-        "summary": "多家媒体报道，陶哲轩质疑OpenAI数学成果的研究规范，并呼吁数学界关注相关问题。",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNGFsbVZjRm5oTlQyeUxYNWc5VGV4cDFLd0h3Yjd3V18wWmZqZWNRWk96UFk0eFYyTkxaNVFjbXp0VWdEZHd5bkNGQXZEWk5pS0VmeWVSRXhQMUFpV01ZaE53",
-        "source": "Google News OpenAI 数学",
-        "published": "Fri, 09 Oct 2026 05:49:32 GMT",
-        "category": "ai"
+        "title": "Sophos用OpenAI缩短威胁调查时间",
+        "summary": "OpenAI介绍，Sophos使用Daybreak将网络威胁调查时间缩短96%，自动处理52%的MDR案例，同时保留人工监督。",
+        "url": "https://openai.com/index/sophos",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-09T07:00:00Z",
+        "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "SpaceX计划成为大型移动通信运营商",
-        "summary": "SpaceX宣布收购低频频谱牌照，计划将卫星直连手机服务Starlink Mobile扩展为美国主要运营商。",
-        "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+        "title": "内存涨价推动DDR4重返新处理器平台",
+        "summary": "据The Verge报道，内存持续涨价增加电脑升级成本，英特尔和AMD正推出支持较便宜DDR4内存的新处理器。",
+        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
         "source": "The Verge",
-        "published": "2026-10-08T17:23:31-04:00",
-        "category": "tech"
+        "published": "2026-10-09T21:50:00Z",
+        "category": "科技发展"
       },
       {
-        "title": "英伟达据称计划投资推理芯片公司",
-        "summary": "报道称英伟达计划投资AI推理芯片公司d-Matrix，芯片厂商间竞争与合作关系进一步交织。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NXRpLVd6RkhvSi1hOG5GVW5iYV9yX3d0ZkFodnUxNkg1ZmE4akpGOXpOLXFSZF9KNGtac3dybjE5bDhoRzE0Tg",
-        "source": "Google News 科技发展",
-        "published": "Fri, 09 Oct 2026 10:30:20 GMT",
-        "category": "tech"
+        "title": "电池成本低于数据中心用燃气轮机",
+        "summary": "据TechCrunch报道，数据中心建设热潮推高燃气轮机价格，使电池成本如今低于许多数据中心采用的天然气轮机。",
+        "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+        "source": "TechCrunch",
+        "published": "2026-10-09T18:57:58Z",
+        "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub推出AI代码审查开放基准",
-        "summary": "ReviewBench基于真实拉取请求、多个来源的标准答案和生产导向指标，评估AI代码审查代理。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-        "source": "GitHub Blog",
-        "published": "Mon, 05 Oct 2026 15:59:40 +0000",
-        "category": "github"
+        "title": "GitHub Copilot周更强化代理管理",
+        "summary": "本周更新改善Copilot跨账户和环境的使用体验，并增强对代理访问权限及工作管理的控制。",
+        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "source": "GitHub Changelog",
+        "published": "2026-10-09T22:58:23Z",
+        "category": "GitHub/开源"
       },
       {
-        "title": "GitHub基础设施面向代理规模开发重建",
-        "summary": "GitHub介绍持续运行中重建Git基础设施的计划，为代理规模的软件开发提供基础。",
-        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-        "source": "GitHub Blog",
-        "published": "Tue, 06 Oct 2026 20:57:56 +0000",
-        "category": "github"
+        "title": "CodeQL 2.27.2改进多语言分析",
+        "summary": "CodeQL 2.27.2现已发布，新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "source": "GitHub Changelog",
+        "published": "2026-10-09T21:32:54Z",
+        "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "纠缠蒸馏在PPT信道下的新结果",
-      "summary": "研究给出PPT可蒸馏纠缠的正则化公式，并提出两种单字母上界。",
-      "url": "https://arxiv.org/abs/2610.12454v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-08T17:59:09Z",
-      "category": "physics"
-    },
-    {
-      "title": "核钟首次运行，精密计时取得进展",
-      "summary": "Nature报道核钟首次实现运行，钍-229核跃迁精密测量取得进展。",
-      "url": "https://www.nature.com/articles/d41586-026-03060-9",
+      "title": "量子硬件上的自适应电路从混沌中产生秩序",
+      "summary": "Nature刊登研究，主题为利用量子硬件上的自适应电路，从混沌中产生秩序。",
+      "url": "https://www.nature.com/articles/s41567-026-03470-6",
       "source": "Nature 量子物理",
-      "published": "Wed, 7 Oct 2026 00:00:00 +0000",
-      "category": "physics"
+      "published": "2026-10-09T00:00:00Z",
+      "category": "前沿物理"
     },
     {
-      "title": "OpenAI数学成果未达领域规范",
-      "summary": "TechCrunch称，OpenAI批量发布的数学证明未完全遵循其咨询数学研究者制定的规范。",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-      "source": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:10:55 +0000",
-      "category": "ai"
+      "title": "研究给出纯损耗信道的能量受限容量",
+      "summary": "arXiv预印本给出平均输入光子数受限时，纯损耗信道的双向量子容量与密钥容量公式，两者相等。",
+      "url": "https://arxiv.org/abs/2610.12365v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-08T17:27:32Z",
+      "category": "前沿物理"
     },
     {
-      "title": "陶哲轩批评OpenAI数学研究规范",
-      "summary": "多家媒体报道，陶哲轩质疑OpenAI数学成果的研究规范，并呼吁数学界关注相关问题。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sNGFsbVZjRm5oTlQyeUxYNWc5VGV4cDFLd0h3Yjd3V18wWmZqZWNRWk96UFk0eFYyTkxaNVFjbXp0VWdEZHd5bkNGQXZEWk5pS0VmeWVSRXhQMUFpV01ZaE53",
-      "source": "Google News OpenAI 数学",
-      "published": "Fri, 09 Oct 2026 05:49:32 GMT",
-      "category": "ai"
+      "title": "报道：陶哲轩声援抵制OpenAI倡议",
+      "summary": "据麻省理工科技评论报道，陶哲轩公开声援抵制OpenAI的倡议，数学界与AI公司的合作争议升温。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWUFyTFlZemZMWjZ0TDlRZE1rb1d6M1IzMnFxcUhzZUFOWEpnUk00V1ROSDVITFQ5ZTZncWFITzZxUTk2STVIQjVaSnpDLWZURU5rUFlBVQ?oc=5",
+      "source": "麻省理工科技评论（Google News）",
+      "published": "2026-10-09T02:35:42Z",
+      "category": "人工智能"
     },
     {
-      "title": "SpaceX计划成为大型移动通信运营商",
-      "summary": "SpaceX宣布收购低频频谱牌照，计划将卫星直连手机服务Starlink Mobile扩展为美国主要运营商。",
-      "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+      "title": "Sophos用OpenAI缩短威胁调查时间",
+      "summary": "OpenAI介绍，Sophos使用Daybreak将网络威胁调查时间缩短96%，自动处理52%的MDR案例，同时保留人工监督。",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-09T07:00:00Z",
+      "category": "人工智能"
+    },
+    {
+      "title": "内存涨价推动DDR4重返新处理器平台",
+      "summary": "据The Verge报道，内存持续涨价增加电脑升级成本，英特尔和AMD正推出支持较便宜DDR4内存的新处理器。",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
       "source": "The Verge",
-      "published": "2026-10-08T17:23:31-04:00",
-      "category": "tech"
+      "published": "2026-10-09T21:50:00Z",
+      "category": "科技发展"
     },
     {
-      "title": "英伟达据称计划投资推理芯片公司",
-      "summary": "报道称英伟达计划投资AI推理芯片公司d-Matrix，芯片厂商间竞争与合作关系进一步交织。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51NXRpLVd6RkhvSi1hOG5GVW5iYV9yX3d0ZkFodnUxNkg1ZmE4akpGOXpOLXFSZF9KNGtac3dybjE5bDhoRzE0Tg",
-      "source": "Google News 科技发展",
-      "published": "Fri, 09 Oct 2026 10:30:20 GMT",
-      "category": "tech"
+      "title": "电池成本低于数据中心用燃气轮机",
+      "summary": "据TechCrunch报道，数据中心建设热潮推高燃气轮机价格，使电池成本如今低于许多数据中心采用的天然气轮机。",
+      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "source": "TechCrunch",
+      "published": "2026-10-09T18:57:58Z",
+      "category": "科技发展"
     },
     {
-      "title": "GitHub推出AI代码审查开放基准",
-      "summary": "ReviewBench基于真实拉取请求、多个来源的标准答案和生产导向指标，评估AI代码审查代理。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "source": "GitHub Blog",
-      "published": "Mon, 05 Oct 2026 15:59:40 +0000",
-      "category": "github"
+      "title": "GitHub Copilot周更强化代理管理",
+      "summary": "本周更新改善Copilot跨账户和环境的使用体验，并增强对代理访问权限及工作管理的控制。",
+      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "source": "GitHub Changelog",
+      "published": "2026-10-09T22:58:23Z",
+      "category": "GitHub/开源"
     },
     {
-      "title": "GitHub基础设施面向代理规模开发重建",
-      "summary": "GitHub介绍持续运行中重建Git基础设施的计划，为代理规模的软件开发提供基础。",
-      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub Blog",
-      "published": "Tue, 06 Oct 2026 20:57:56 +0000",
-      "category": "github"
+      "title": "CodeQL 2.27.2改进多语言分析",
+      "summary": "CodeQL 2.27.2现已发布，新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "source": "GitHub Changelog",
+      "published": "2026-10-09T21:32:54Z",
+      "category": "GitHub/开源"
     }
   ]
 }
