@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-10T12:05:46.259011+00:00",
+  "updated_at": "2026-10-10T12:32:42.918406+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子硬件上的自适应电路从混沌中产生秩序",
-        "summary": "Nature刊登研究，主题为利用量子硬件上的自适应电路，从混沌中产生秩序。",
+        "title": "自适应量子电路在硬件上实现有序演化",
+        "summary": "Nature刊文研究自适应电路如何在量子硬件上形成有序行为。",
         "url": "https://www.nature.com/articles/s41567-026-03470-6",
         "source": "Nature 量子物理",
         "published": "2026-10-09T00:00:00Z",
-        "category": "前沿物理"
+        "category": "physics"
       },
       {
-        "title": "研究给出纯损耗信道的能量受限容量",
-        "summary": "arXiv预印本给出平均输入光子数受限时，纯损耗信道的双向量子容量与密钥容量公式，两者相等。",
-        "url": "https://arxiv.org/abs/2610.12365v1",
+        "title": "PPT纠缠蒸馏获渐近理论结果",
+        "summary": "研究给出PPT信道下纠缠蒸馏率的正则化公式及两类单字母上界。",
+        "url": "https://arxiv.org/abs/2610.12454v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-08T17:27:32Z",
-        "category": "前沿物理"
+        "published": "2026-10-08T17:59:09Z",
+        "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "报道：陶哲轩声援抵制OpenAI倡议",
-        "summary": "据麻省理工科技评论报道，陶哲轩公开声援抵制OpenAI的倡议，数学界与AI公司的合作争议升温。",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWUFyTFlZemZMWjZ0TDlRZE1rb1d6M1IzMnFxcUhzZUFOWEpnUk00V1ROSDVITFQ5ZTZncWFITzZxUTk2STVIQjVaSnpDLWZURU5rUFlBVQ?oc=5",
-        "source": "麻省理工科技评论（Google News）",
-        "published": "2026-10-09T02:35:42Z",
-        "category": "人工智能"
+        "title": "OpenAI数学成果引发学界争议",
+        "summary": "媒体报道称，OpenAI近期数学研究成果规模引发关注，学者对合作方式与验证过程存在争议。",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzRRQmoxV08wSUNZYnhMUlItLUx4OG5pZFpiczFWTUJmVGtwSVA3SDBjeDljTHBvSkl2YWVqeVVSOXFzWmZiX3NkUDZtN285NkNJYkhkUDdwTmh6QXZ4YWpoM2V4M21Yazlzc09wTTYtbmVWd21oOEVpMGljREZNQU9B?oc=5",
+        "source": "Google News OpenAI 数学",
+        "published": "Sat, 10 Oct 2026 03:55:00 GMT",
+        "category": "ai"
       },
       {
-        "title": "Sophos用OpenAI缩短威胁调查时间",
-        "summary": "OpenAI介绍，Sophos使用Daybreak将网络威胁调查时间缩短96%，自动处理52%的MDR案例，同时保留人工监督。",
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-09T07:00:00Z",
-        "category": "人工智能"
+        "title": "我国将开展适应AI发展促就业行动",
+        "summary": "新华网报道，我国将开展适应人工智能发展的促就业行动。",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmhIdDFvcE1NMVFRT1c3eHUyaElMczhXLVQ0WDBFaXZvRGNJOWhQdTNXZGdhbVlXTXIwM0JUdm1oaW41dmZ5TnZqUHliWENnT3VKY3lqOFc4djhoM1gtUHJsVWxEa1ZSlR1M2ZoUnFreGl3Y09yOW40Y0VmdHRFZlZR?oc=5",
+        "source": "Google News 人工智能",
+        "published": "Sat, 10 Oct 2026 06:57:52 GMT",
+        "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "内存涨价推动DDR4重返新处理器平台",
-        "summary": "据The Verge报道，内存持续涨价增加电脑升级成本，英特尔和AMD正推出支持较便宜DDR4内存的新处理器。",
-        "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-        "source": "The Verge",
-        "published": "2026-10-09T21:50:00Z",
-        "category": "科技发展"
-      },
-      {
-        "title": "电池成本低于数据中心用燃气轮机",
-        "summary": "据TechCrunch报道，数据中心建设热潮推高燃气轮机价格，使电池成本如今低于许多数据中心采用的天然气轮机。",
+        "title": "电池成本低于数据中心燃气轮机",
+        "summary": "TechCrunch称，随着数据中心扩张推高相关成本，电池系统价格已低于许多数据中心使用的天然气轮机。",
         "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
         "source": "TechCrunch",
-        "published": "2026-10-09T18:57:58Z",
-        "category": "科技发展"
+        "published": "Fri, 09 Oct 2026 18:57:58 +0000",
+        "category": "tech"
+      },
+      {
+        "title": "美国对芯片输电零件发起337调查",
+        "summary": "财新报道，美国对涉及中国、美国、加拿大及德国公司的芯片输电零件产品发起337调查。",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Uamx2c3YzT1ZWVG1SRS1pRGpxa244S2s1NkJ0WHdveEc3TlBjcUY4UHJoeDloTkRIY3FZMDVOeUxUTDJkakZjcDI3MlZmTDJZdzVfSWpuUVB6MEJkS2pnM0pyMlU?oc=5",
+        "source": "Google News 科技发展",
+        "published": "Sat, 10 Oct 2026 09:29:00 GMT",
+        "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot周更强化代理管理",
-        "summary": "本周更新改善Copilot跨账户和环境的使用体验，并增强对代理访问权限及工作管理的控制。",
+        "title": "GitHub发布Copilot周度更新",
+        "summary": "本周更新增强Copilot跨账户和环境使用，并增加对代理访问权限及任务管理的控制。",
         "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
         "source": "GitHub Changelog",
-        "published": "2026-10-09T22:58:23Z",
-        "category": "GitHub/开源"
+        "published": "Fri, 09 Oct 2026 22:58:23 +0000",
+        "category": "github"
       },
       {
         "title": "CodeQL 2.27.2改进多语言分析",
-        "summary": "CodeQL 2.27.2现已发布，新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+        "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript代码分析。",
         "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
-        "published": "2026-10-09T21:32:54Z",
-        "category": "GitHub/开源"
+        "published": "Fri, 09 Oct 2026 21:32:54 +0000",
+        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "量子硬件上的自适应电路从混沌中产生秩序",
-      "summary": "Nature刊登研究，主题为利用量子硬件上的自适应电路，从混沌中产生秩序。",
+      "title": "自适应量子电路在硬件上实现有序演化",
+      "summary": "Nature刊文研究自适应电路如何在量子硬件上形成有序行为。",
       "url": "https://www.nature.com/articles/s41567-026-03470-6",
       "source": "Nature 量子物理",
       "published": "2026-10-09T00:00:00Z",
-      "category": "前沿物理"
+      "category": "physics"
     },
     {
-      "title": "研究给出纯损耗信道的能量受限容量",
-      "summary": "arXiv预印本给出平均输入光子数受限时，纯损耗信道的双向量子容量与密钥容量公式，两者相等。",
-      "url": "https://arxiv.org/abs/2610.12365v1",
+      "title": "PPT纠缠蒸馏获渐近理论结果",
+      "summary": "研究给出PPT信道下纠缠蒸馏率的正则化公式及两类单字母上界。",
+      "url": "https://arxiv.org/abs/2610.12454v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-08T17:27:32Z",
-      "category": "前沿物理"
+      "published": "2026-10-08T17:59:09Z",
+      "category": "physics"
     },
     {
-      "title": "报道：陶哲轩声援抵制OpenAI倡议",
-      "summary": "据麻省理工科技评论报道，陶哲轩公开声援抵制OpenAI的倡议，数学界与AI公司的合作争议升温。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWUFyTFlZemZMWjZ0TDlRZE1rb1d6M1IzMnFxcUhzZUFOWEpnUk00V1ROSDVITFQ5ZTZncWFITzZxUTk2STVIQjVaSnpDLWZURU5rUFlBVQ?oc=5",
-      "source": "麻省理工科技评论（Google News）",
-      "published": "2026-10-09T02:35:42Z",
-      "category": "人工智能"
+      "title": "OpenAI数学成果引发学界争议",
+      "summary": "媒体报道称，OpenAI近期数学研究成果规模引发关注，学者对合作方式与验证过程存在争议。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzRRQmoxV08wSUNZYnhMUlItLUx4OG5pZFpiczFWTUJmVGtwSVA3SDBjeDljTHBvSkl2YWVqeVVSOXFzWmZiX3NkUDZtN285NkNJYkhkUDdwTmh6QXZ4YWpoM2V4M21Yazlzc09wTTYtbmVWd21oOEVpMGljREZNQU9B?oc=5",
+      "source": "Google News OpenAI 数学",
+      "published": "Sat, 10 Oct 2026 03:55:00 GMT",
+      "category": "ai"
     },
     {
-      "title": "Sophos用OpenAI缩短威胁调查时间",
-      "summary": "OpenAI介绍，Sophos使用Daybreak将网络威胁调查时间缩短96%，自动处理52%的MDR案例，同时保留人工监督。",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-09T07:00:00Z",
-      "category": "人工智能"
+      "title": "我国将开展适应AI发展促就业行动",
+      "summary": "新华网报道，我国将开展适应人工智能发展的促就业行动。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmhIdDFvcE1NMVFRT1c3eHUyaElMczhXLVQ0WDBFaXZvRGNJOWhQdTNXZGdhbVlXTXIwM0JUdm1oaW41dmZ5TnZqUHliWENnT3VKY3lqOFc4djhoM1gtUHJsVWxEa1ZSlR1M2ZoUnFreGl3Y09yOW40Y0VmdHRFZlZR?oc=5",
+      "source": "Google News 人工智能",
+      "published": "Sat, 10 Oct 2026 06:57:52 GMT",
+      "category": "ai"
     },
     {
-      "title": "内存涨价推动DDR4重返新处理器平台",
-      "summary": "据The Verge报道，内存持续涨价增加电脑升级成本，英特尔和AMD正推出支持较便宜DDR4内存的新处理器。",
-      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-      "source": "The Verge",
-      "published": "2026-10-09T21:50:00Z",
-      "category": "科技发展"
-    },
-    {
-      "title": "电池成本低于数据中心用燃气轮机",
-      "summary": "据TechCrunch报道，数据中心建设热潮推高燃气轮机价格，使电池成本如今低于许多数据中心采用的天然气轮机。",
+      "title": "电池成本低于数据中心燃气轮机",
+      "summary": "TechCrunch称，随着数据中心扩张推高相关成本，电池系统价格已低于许多数据中心使用的天然气轮机。",
       "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
       "source": "TechCrunch",
-      "published": "2026-10-09T18:57:58Z",
-      "category": "科技发展"
+      "published": "Fri, 09 Oct 2026 18:57:58 +0000",
+      "category": "tech"
     },
     {
-      "title": "GitHub Copilot周更强化代理管理",
-      "summary": "本周更新改善Copilot跨账户和环境的使用体验，并增强对代理访问权限及工作管理的控制。",
+      "title": "美国对芯片输电零件发起337调查",
+      "summary": "财新报道，美国对涉及中国、美国、加拿大及德国公司的芯片输电零件产品发起337调查。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Uamx2c3YzT1ZWVG1SRS1pRGpxa244S2s1NkJ0WHdveEc3TlBjcUY4UHJoeDloTkRIY3FZMDVOeUxUTDJkakZjcDI3MlZmTDJZdzVfSWpuUVB6MEJkS2pnM0pyMlU?oc=5",
+      "source": "Google News 科技发展",
+      "published": "Sat, 10 Oct 2026 09:29:00 GMT",
+      "category": "tech"
+    },
+    {
+      "title": "GitHub发布Copilot周度更新",
+      "summary": "本周更新增强Copilot跨账户和环境使用，并增加对代理访问权限及任务管理的控制。",
       "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
       "source": "GitHub Changelog",
-      "published": "2026-10-09T22:58:23Z",
-      "category": "GitHub/开源"
+      "published": "Fri, 09 Oct 2026 22:58:23 +0000",
+      "category": "github"
     },
     {
       "title": "CodeQL 2.27.2改进多语言分析",
-      "summary": "CodeQL 2.27.2现已发布，新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+      "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript代码分析。",
       "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
       "source": "GitHub Changelog",
-      "published": "2026-10-09T21:32:54Z",
-      "category": "GitHub/开源"
+      "published": "Fri, 09 Oct 2026 21:32:54 +0000",
+      "category": "github"
     }
   ]
 }
