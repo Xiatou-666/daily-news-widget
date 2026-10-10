@@ -101,6 +101,27 @@ physics=前沿物理，ai=人工智能，tech=科技发展，github=GitHub/开�
     return categories
 
 
+def fallback_categories(articles):
+    """Keep the widget fresh if the model response is malformed."""
+    categories = {key: [] for key in ("physics", "ai", "tech", "github")}
+    for article in articles:
+        category = article.get("category")
+        if category not in categories or len(categories[category]) >= 2:
+            continue
+        categories[category].append({
+            "title": article.get("title", "")[:30],
+            "summary": article.get("description", "")[:80] or article.get("title", "")[:80],
+            "url": article.get("link", ""),
+            "source": article.get("source", ""),
+            "published": article.get("published", ""),
+            "category": category,
+        })
+    for category, items in categories.items():
+        if len(items) < 2:
+            raise RuntimeError(f"分类 {category} 抓取到的新闻少于 2 条")
+    return categories
+
+
 def main():
     with open("news_sources.json", encoding="utf-8") as file:
         sources = json.load(file)
@@ -119,7 +140,11 @@ def main():
     if not articles:
         raise RuntimeError("没有抓到任何 RSS 新闻")
 
-    categories = call_model(articles)
+    try:
+        categories = call_model(articles)
+    except Exception as error:
+        print(f"AI 整理失败，改用 RSS 原文生成今日数据: {error}")
+        categories = fallback_categories(articles)
     items = [item for category in ("physics", "ai", "tech", "github") for item in categories[category]]
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),

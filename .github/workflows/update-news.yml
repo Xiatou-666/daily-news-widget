@@ -2,9 +2,8 @@ name: Update news widget
 
 on:
   schedule:
-    # 每天北京时间 07:47 运行
-    - cron: "47 7 * * *"
-      timezone: "Asia/Shanghai"
+    # 每天北京时间 07:47（UTC 前一天 23:47）运行
+    - cron: "47 23 * * *"
   workflow_dispatch:
 
 permissions:
