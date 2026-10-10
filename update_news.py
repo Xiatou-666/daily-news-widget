@@ -3,6 +3,7 @@ import os
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+import time
 from datetime import datetime, timezone
 
 
@@ -85,10 +86,27 @@ physics=前沿物理，ai=人工智能，tech=科技发展，github=GitHub/开�
             "User-Agent": "news-widget/1.0",
         },
     )
-    with urllib.request.urlopen(request, timeout=120) as response:
-        result = json.loads(response.read().decode("utf-8"))
+    last_error = None
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=120) as response:
+                result = json.loads(response.read().decode("utf-8"))
+            break
+        except Exception as error:
+            last_error = error
+            if attempt < 2:
+                time.sleep(3 * (attempt + 1))
+    else:
+        raise RuntimeError(f"AI API 请求失败: {last_error}")
 
-    content = result["choices"][0]["message"]["content"].strip()
+    try:
+        content = result["choices"][0]["message"]["content"]
+    except (KeyError, IndexError, TypeError):
+        # Also accept providers that return a Responses-style output_text field.
+        content = result.get("output_text", "") if isinstance(result, dict) else ""
+    if not isinstance(content, str) or not content.strip():
+        raise RuntimeError("AI API 返回中没有可解析的文本")
+    content = content.strip()
     content = re.sub(r"^```(?:json)?\s*|\s*```$", "", content).strip()
     parsed = json.loads(content)
     if "categories" in parsed:
@@ -122,6 +140,17 @@ def fallback_categories(articles):
     return categories
 
 
+def validate_categories(categories):
+    required = ("physics", "ai", "tech", "github")
+    if not isinstance(categories, dict):
+        raise RuntimeError("分类结果不是 JSON 对象")
+    for category in required:
+        items = categories.get(category)
+        if not isinstance(items, list) or len(items) < 2:
+            raise RuntimeError(f"分类 {category} 少于 2 条新闻")
+    return {category: categories[category][:2] for category in required}
+
+
 def main():
     with open("news_sources.json", encoding="utf-8") as file:
         sources = json.load(file)
@@ -141,10 +170,10 @@ def main():
         raise RuntimeError("没有抓到任何 RSS 新闻")
 
     try:
-        categories = call_model(articles)
+        categories = validate_categories(call_model(articles))
     except Exception as error:
         print(f"AI 整理失败，改用 RSS 原文生成今日数据: {error}")
-        categories = fallback_categories(articles)
+        categories = validate_categories(fallback_categories(articles))
     items = [item for category in ("physics", "ai", "tech", "github") for item in categories[category]]
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
