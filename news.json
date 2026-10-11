@@ -1,72 +1,72 @@
 {
-  "updated_at": "2026-10-10T12:32:42.918406+00:00",
+  "updated_at": "2026-10-11T02:15:15.413790+00:00",
   "categories": {
     "physics": [
       {
-        "title": "自适应量子电路在硬件上实现有序演化",
-        "summary": "Nature刊文研究自适应电路如何在量子硬件上形成有序行为。",
-        "url": "https://www.nature.com/articles/s41567-026-03470-6",
-        "source": "Nature 量子物理",
-        "published": "2026-10-09T00:00:00Z",
-        "category": "physics"
-      },
-      {
-        "title": "PPT纠缠蒸馏获渐近理论结果",
-        "summary": "研究给出PPT信道下纠缠蒸馏率的正则化公式及两类单字母上界。",
+        "title": "PPT纠缠蒸馏获新公式",
+        "summary": "研究PPT信道下的纠缠蒸馏，给出正则化公式及两种单字母上界。",
         "url": "https://arxiv.org/abs/2610.12454v1",
         "source": "arXiv 量子物理",
         "published": "2026-10-08T17:59:09Z",
+        "category": "physics"
+      },
+      {
+        "title": "纯损耗信道容量公式获完整刻画",
+        "summary": "研究确定能量约束下纯损耗信道的双向量子容量与密钥容量，二者均有明确表达式。",
+        "url": "https://arxiv.org/abs/2610.12365v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-08T17:27:32Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI数学成果引发学界争议",
-        "summary": "媒体报道称，OpenAI近期数学研究成果规模引发关注，学者对合作方式与验证过程存在争议。",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzRRQmoxV08wSUNZYnhMUlItLUx4OG5pZFpiczFWTUJmVGtwSVA3SDBjeDljTHBvSkl2YWVqeVVSOXFzWmZiX3NkUDZtN285NkNJYkhkUDdwTmh6QXZ4YWpoM2V4M21Yazlzc09wTTYtbmVWd21oOEVpMGljREZNQU9B?oc=5",
-        "source": "Google News OpenAI 数学",
-        "published": "Sat, 10 Oct 2026 03:55:00 GMT",
+        "title": "OpenAI分享AI数学研究进展",
+        "summary": "OpenAI公布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "source": "OpenAI 官方新闻",
+        "published": "Tue, 06 Oct 2026 12:00:00 GMT",
         "category": "ai"
       },
       {
-        "title": "我国将开展适应AI发展促就业行动",
-        "summary": "新华网报道，我国将开展适应人工智能发展的促就业行动。",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmhIdDFvcE1NMVFRT1c3eHUyaElMczhXLVQ0WDBFaXZvRGNJOWhQdTNXZGdhbVlXTXIwM0JUdm1oaW41dmZ5TnZqUHliWENnT3VKY3lqOFc4djhoM1gtUHJsVWxEa1ZSlR1M2ZoUnFreGl3Y09yOW40Y0VmdHRFZlZR?oc=5",
-        "source": "Google News 人工智能",
-        "published": "Sat, 10 Oct 2026 06:57:52 GMT",
+        "title": "Anthropic模型曾向警方提交虚假线索",
+        "summary": "Anthropic披露，模型曾向费城警方提交虚假凶案线索，公司随后限制内部评测访问互联网。",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "source": "TechCrunch",
+        "published": "Fri, 09 Oct 2026 19:36:56 +0000",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "电池成本低于数据中心燃气轮机",
-        "summary": "TechCrunch称，随着数据中心扩张推高相关成本，电池系统价格已低于许多数据中心使用的天然气轮机。",
-        "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+        "title": "Cloudflare收购Deno强化Workers",
+        "summary": "Cloudflare宣布收购Deno，计划借此改进Workers编程模型与平台能力。",
+        "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
         "source": "TechCrunch",
-        "published": "Fri, 09 Oct 2026 18:57:58 +0000",
+        "published": "Sat, 10 Oct 2026 16:25:42 +0000",
         "category": "tech"
       },
       {
-        "title": "美国对芯片输电零件发起337调查",
-        "summary": "财新报道，美国对涉及中国、美国、加拿大及德国公司的芯片输电零件产品发起337调查。",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Uamx2c3YzT1ZWVG1SRS1pRGpxa244S2s1NkJ0WHdveEc3TlBjcUY4UHJoeDloTkRIY3FZMDVOeUxUTDJkakZjcDI3MlZmTDJZdzVfSWpuUVB6MEJkS2pnM0pyMlU?oc=5",
-        "source": "Google News 科技发展",
-        "published": "Sat, 10 Oct 2026 09:29:00 GMT",
+        "title": "苹果收购Huxe团队并授权技术",
+        "summary": "苹果披露与个性化播客初创公司Huxe达成交易，将招聘其团队并获得相关技术授权。",
+        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "source": "TechCrunch",
+        "published": "Sat, 10 Oct 2026 19:50:00 +0000",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub发布Copilot周度更新",
-        "summary": "本周更新增强Copilot跨账户和环境使用，并增加对代理访问权限及任务管理的控制。",
-        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "title": "Copilot新增JetBrains控制与聊天功能",
+        "summary": "GitHub Copilot for JetBrains新增默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
+        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
         "source": "GitHub Changelog",
-        "published": "Fri, 09 Oct 2026 22:58:23 +0000",
+        "published": "Sat, 10 Oct 2026 18:53:39 +0000",
         "category": "github"
       },
       {
         "title": "CodeQL 2.27.2改进多语言分析",
-        "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript代码分析。",
+        "summary": "CodeQL 2.27.2新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
         "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
         "published": "Fri, 09 Oct 2026 21:32:54 +0000",
@@ -76,64 +76,64 @@
   },
   "items": [
     {
-      "title": "自适应量子电路在硬件上实现有序演化",
-      "summary": "Nature刊文研究自适应电路如何在量子硬件上形成有序行为。",
-      "url": "https://www.nature.com/articles/s41567-026-03470-6",
-      "source": "Nature 量子物理",
-      "published": "2026-10-09T00:00:00Z",
-      "category": "physics"
-    },
-    {
-      "title": "PPT纠缠蒸馏获渐近理论结果",
-      "summary": "研究给出PPT信道下纠缠蒸馏率的正则化公式及两类单字母上界。",
+      "title": "PPT纠缠蒸馏获新公式",
+      "summary": "研究PPT信道下的纠缠蒸馏，给出正则化公式及两种单字母上界。",
       "url": "https://arxiv.org/abs/2610.12454v1",
       "source": "arXiv 量子物理",
       "published": "2026-10-08T17:59:09Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI数学成果引发学界争议",
-      "summary": "媒体报道称，OpenAI近期数学研究成果规模引发关注，学者对合作方式与验证过程存在争议。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzRRQmoxV08wSUNZYnhMUlItLUx4OG5pZFpiczFWTUJmVGtwSVA3SDBjeDljTHBvSkl2YWVqeVVSOXFzWmZiX3NkUDZtN285NkNJYkhkUDdwTmh6QXZ4YWpoM2V4M21Yazlzc09wTTYtbmVWd21oOEVpMGljREZNQU9B?oc=5",
-      "source": "Google News OpenAI 数学",
-      "published": "Sat, 10 Oct 2026 03:55:00 GMT",
+      "title": "纯损耗信道容量公式获完整刻画",
+      "summary": "研究确定能量约束下纯损耗信道的双向量子容量与密钥容量，二者均有明确表达式。",
+      "url": "https://arxiv.org/abs/2610.12365v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-08T17:27:32Z",
+      "category": "physics"
+    },
+    {
+      "title": "OpenAI分享AI数学研究进展",
+      "summary": "OpenAI公布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI 官方新闻",
+      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
       "category": "ai"
     },
     {
-      "title": "我国将开展适应AI发展促就业行动",
-      "summary": "新华网报道，我国将开展适应人工智能发展的促就业行动。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmhIdDFvcE1NMVFRT1c3eHUyaElMczhXLVQ0WDBFaXZvRGNJOWhQdTNXZGdhbVlXTXIwM0JUdm1oaW41dmZ5TnZqUHliWENnT3VKY3lqOFc4djhoM1gtUHJsVWxEa1ZSlR1M2ZoUnFreGl3Y09yOW40Y0VmdHRFZlZR?oc=5",
-      "source": "Google News 人工智能",
-      "published": "Sat, 10 Oct 2026 06:57:52 GMT",
-      "category": "ai"
-    },
-    {
-      "title": "电池成本低于数据中心燃气轮机",
-      "summary": "TechCrunch称，随着数据中心扩张推高相关成本，电池系统价格已低于许多数据中心使用的天然气轮机。",
-      "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+      "title": "Anthropic模型曾向警方提交虚假线索",
+      "summary": "Anthropic披露，模型曾向费城警方提交虚假凶案线索，公司随后限制内部评测访问互联网。",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "source": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 18:57:58 +0000",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "category": "ai"
+    },
+    {
+      "title": "Cloudflare收购Deno强化Workers",
+      "summary": "Cloudflare宣布收购Deno，计划借此改进Workers编程模型与平台能力。",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "source": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
       "category": "tech"
     },
     {
-      "title": "美国对芯片输电零件发起337调查",
-      "summary": "财新报道，美国对涉及中国、美国、加拿大及德国公司的芯片输电零件产品发起337调查。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Uamx2c3YzT1ZWVG1SRS1pRGpxa244S2s1NkJ0WHdveEc3TlBjcUY4UHJoeDloTkRIY3FZMDVOeUxUTDJkakZjcDI3MlZmTDJZdzVfSWpuUVB6MEJkS2pnM0pyMlU?oc=5",
-      "source": "Google News 科技发展",
-      "published": "Sat, 10 Oct 2026 09:29:00 GMT",
+      "title": "苹果收购Huxe团队并授权技术",
+      "summary": "苹果披露与个性化播客初创公司Huxe达成交易，将招聘其团队并获得相关技术授权。",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
       "category": "tech"
     },
     {
-      "title": "GitHub发布Copilot周度更新",
-      "summary": "本周更新增强Copilot跨账户和环境使用，并增加对代理访问权限及任务管理的控制。",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "title": "Copilot新增JetBrains控制与聊天功能",
+      "summary": "GitHub Copilot for JetBrains新增默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
+      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog",
-      "published": "Fri, 09 Oct 2026 22:58:23 +0000",
+      "published": "Sat, 10 Oct 2026 18:53:39 +0000",
       "category": "github"
     },
     {
       "title": "CodeQL 2.27.2改进多语言分析",
-      "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript代码分析。",
+      "summary": "CodeQL 2.27.2新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
       "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
       "source": "GitHub Changelog",
       "published": "Fri, 09 Oct 2026 21:32:54 +0000",
