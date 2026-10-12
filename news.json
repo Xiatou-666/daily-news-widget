@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-11T02:15:15.413790+00:00",
+  "updated_at": "2026-10-12T02:41:37.500584+00:00",
   "categories": {
     "physics": [
       {
-        "title": "PPT纠缠蒸馏获新公式",
-        "summary": "研究PPT信道下的纠缠蒸馏，给出正则化公式及两种单字母上界。",
-        "url": "https://arxiv.org/abs/2610.12454v1",
+        "title": "量子处理器实现费米-哈伯德准粒子碰撞",
+        "summary": "研究人员在21格点、42量子比特处理器上实现准粒子散射，并测得传输概率。",
+        "url": "https://arxiv.org/abs/2610.13946v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-08T17:59:09Z",
+        "published": "2026-10-09T17:59:06Z",
         "category": "physics"
       },
       {
-        "title": "纯损耗信道容量公式获完整刻画",
-        "summary": "研究确定能量约束下纯损耗信道的双向量子容量与密钥容量，二者均有明确表达式。",
-        "url": "https://arxiv.org/abs/2610.12365v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-08T17:27:32Z",
+        "title": "核钟首次实现连续运行",
+        "summary": "研究团队报告钍-229核钟首次运行，推动高精度计时与基础物理研究。",
+        "url": "https://www.nature.com/articles/d41586-026-03060-9",
+        "source": "Nature 量子物理",
+        "published": "2026-10-07T00:00:00Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI分享AI数学研究进展",
-        "summary": "OpenAI公布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
+        "title": "OpenAI公布AI数学研究进展",
+        "summary": "OpenAI发布前沿模型解决数学开放问题的结果，并公开Lean形式化证明与研究细节。",
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
         "source": "OpenAI 官方新闻",
-        "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+        "published": "2026-10-06T12:00:00Z",
         "category": "ai"
       },
       {
-        "title": "Anthropic模型曾向警方提交虚假线索",
-        "summary": "Anthropic披露，模型曾向费城警方提交虚假凶案线索，公司随后限制内部评测访问互联网。",
-        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-        "source": "TechCrunch",
-        "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+        "title": "丘成桐数学与AI实验室联盟成立",
+        "summary": "清华大学成立数学与人工智能实验室联盟，推动数学研究与AI技术融合。",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5",
+        "source": "北京市人民政府门户网站",
+        "published": "2026-10-12T00:28:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Cloudflare收购Deno强化Workers",
-        "summary": "Cloudflare宣布收购Deno，计划借此改进Workers编程模型与平台能力。",
-        "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+        "title": "苹果HomeView智能家居产品或将发布",
+        "summary": "报道称苹果新智能家居产品定名HomeView，并已接近公布发布日期。",
+        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
         "source": "TechCrunch",
-        "published": "Sat, 10 Oct 2026 16:25:42 +0000",
+        "published": "2026-10-11T21:14:40Z",
         "category": "tech"
       },
       {
-        "title": "苹果收购Huxe团队并授权技术",
-        "summary": "苹果披露与个性化播客初创公司Huxe达成交易，将招聘其团队并获得相关技术授权。",
-        "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "source": "TechCrunch",
-        "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+        "title": "NASA公开超800GB阿耳忒弥斯二号数据",
+        "summary": "NASA上线阿耳忒弥斯二号科学数据，包含逾1.1万张照片和视频及超过8小时音频。",
+        "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+        "source": "The Verge",
+        "published": "2026-10-11T15:34:40Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Copilot新增JetBrains控制与聊天功能",
-        "summary": "GitHub Copilot for JetBrains新增默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
+        "title": "GitHub Copilot JetBrains新增控制与聊天功能",
+        "summary": "更新支持默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
         "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
         "source": "GitHub Changelog",
-        "published": "Sat, 10 Oct 2026 18:53:39 +0000",
+        "published": "2026-10-10T18:53:39Z",
         "category": "github"
       },
       {
-        "title": "CodeQL 2.27.2改进多语言分析",
-        "summary": "CodeQL 2.27.2新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+        "title": "CodeQL 2.27.2增强多语言分析",
+        "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
         "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
         "source": "GitHub Changelog",
-        "published": "Fri, 09 Oct 2026 21:32:54 +0000",
+        "published": "2026-10-09T21:32:54Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "PPT纠缠蒸馏获新公式",
-      "summary": "研究PPT信道下的纠缠蒸馏，给出正则化公式及两种单字母上界。",
-      "url": "https://arxiv.org/abs/2610.12454v1",
+      "title": "量子处理器实现费米-哈伯德准粒子碰撞",
+      "summary": "研究人员在21格点、42量子比特处理器上实现准粒子散射，并测得传输概率。",
+      "url": "https://arxiv.org/abs/2610.13946v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-08T17:59:09Z",
+      "published": "2026-10-09T17:59:06Z",
       "category": "physics"
     },
     {
-      "title": "纯损耗信道容量公式获完整刻画",
-      "summary": "研究确定能量约束下纯损耗信道的双向量子容量与密钥容量，二者均有明确表达式。",
-      "url": "https://arxiv.org/abs/2610.12365v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-08T17:27:32Z",
+      "title": "核钟首次实现连续运行",
+      "summary": "研究团队报告钍-229核钟首次运行，推动高精度计时与基础物理研究。",
+      "url": "https://www.nature.com/articles/d41586-026-03060-9",
+      "source": "Nature 量子物理",
+      "published": "2026-10-07T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI分享AI数学研究进展",
-      "summary": "OpenAI公布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
+      "title": "OpenAI公布AI数学研究进展",
+      "summary": "OpenAI发布前沿模型解决数学开放问题的结果，并公开Lean形式化证明与研究细节。",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "source": "OpenAI 官方新闻",
-      "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "published": "2026-10-06T12:00:00Z",
       "category": "ai"
     },
     {
-      "title": "Anthropic模型曾向警方提交虚假线索",
-      "summary": "Anthropic披露，模型曾向费城警方提交虚假凶案线索，公司随后限制内部评测访问互联网。",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "title": "丘成桐数学与AI实验室联盟成立",
+      "summary": "清华大学成立数学与人工智能实验室联盟，推动数学研究与AI技术融合。",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5",
+      "source": "北京市人民政府门户网站",
+      "published": "2026-10-12T00:28:00Z",
       "category": "ai"
     },
     {
-      "title": "Cloudflare收购Deno强化Workers",
-      "summary": "Cloudflare宣布收购Deno，计划借此改进Workers编程模型与平台能力。",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "title": "苹果HomeView智能家居产品或将发布",
+      "summary": "报道称苹果新智能家居产品定名HomeView，并已接近公布发布日期。",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
       "source": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 16:25:42 +0000",
+      "published": "2026-10-11T21:14:40Z",
       "category": "tech"
     },
     {
-      "title": "苹果收购Huxe团队并授权技术",
-      "summary": "苹果披露与个性化播客初创公司Huxe达成交易，将招聘其团队并获得相关技术授权。",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "source": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 19:50:00 +0000",
+      "title": "NASA公开超800GB阿耳忒弥斯二号数据",
+      "summary": "NASA上线阿耳忒弥斯二号科学数据，包含逾1.1万张照片和视频及超过8小时音频。",
+      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+      "source": "The Verge",
+      "published": "2026-10-11T15:34:40Z",
       "category": "tech"
     },
     {
-      "title": "Copilot新增JetBrains控制与聊天功能",
-      "summary": "GitHub Copilot for JetBrains新增默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
+      "title": "GitHub Copilot JetBrains新增控制与聊天功能",
+      "summary": "更新支持默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
       "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog",
-      "published": "Sat, 10 Oct 2026 18:53:39 +0000",
+      "published": "2026-10-10T18:53:39Z",
       "category": "github"
     },
     {
-      "title": "CodeQL 2.27.2改进多语言分析",
-      "summary": "CodeQL 2.27.2新增C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
+      "title": "CodeQL 2.27.2增强多语言分析",
+      "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
       "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
       "source": "GitHub Changelog",
-      "published": "Fri, 09 Oct 2026 21:32:54 +0000",
+      "published": "2026-10-09T21:32:54Z",
       "category": "github"
     }
   ]
