@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-12T02:41:37.500584+00:00",
+  "updated_at": "2026-10-13T03:57:28.653801+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子处理器实现费米-哈伯德准粒子碰撞",
-        "summary": "研究人员在21格点、42量子比特处理器上实现准粒子散射，并测得传输概率。",
-        "url": "https://arxiv.org/abs/2610.13946v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-09T17:59:06Z",
+        "title": "量子硬件从混沌走向有序",
+        "summary": "《自然》论文报道利用自适应电路研究量子硬件中的秩序形成。",
+        "url": "https://www.nature.com/articles/s41567-026-03470-6",
+        "source": "Nature 量子物理",
+        "published": "2026-10-09T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "核钟首次实现连续运行",
-        "summary": "研究团队报告钍-229核钟首次运行，推动高精度计时与基础物理研究。",
-        "url": "https://www.nature.com/articles/d41586-026-03060-9",
+        "title": "芯片操控光子量子斯格明子",
+        "summary": "研究展示芯片介导的光子量子斯格明子操控，探索拓扑量子态应用。",
+        "url": "https://www.nature.com/articles/s41567-026-03487-x",
         "source": "Nature 量子物理",
-        "published": "2026-10-07T00:00:00Z",
+        "published": "2026-10-12T00:00:00Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI公布AI数学研究进展",
-        "summary": "OpenAI发布前沿模型解决数学开放问题的结果，并公开Lean形式化证明与研究细节。",
+        "title": "OpenAI分享AI数学研究进展",
+        "summary": "OpenAI发布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
         "source": "OpenAI 官方新闻",
         "published": "2026-10-06T12:00:00Z",
         "category": "ai"
       },
       {
-        "title": "丘成桐数学与AI实验室联盟成立",
-        "summary": "清华大学成立数学与人工智能实验室联盟，推动数学研究与AI技术融合。",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5",
-        "source": "北京市人民政府门户网站",
-        "published": "2026-10-12T00:28:00Z",
+        "title": "清华成立数学与AI实验室联盟",
+        "summary": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动数学与AI融合研究。",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OY3hQNDU1R2hCUGhoTXJoUlViV2tRNTVCS2NDSFlVYzE2Slp2cUFzQ0hhRU0zZXNDbjJNVzNIdEtORnhrOEFydEVvN0xQdGVPNlp4ZnpXekhreXFXaWt6cTkycy1wZw?oc=5",
+        "source": "Google News AI 数学推理",
+        "published": "2026-10-12T04:27:02Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "苹果HomeView智能家居产品或将发布",
-        "summary": "报道称苹果新智能家居产品定名HomeView，并已接近公布发布日期。",
-        "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-        "source": "TechCrunch",
-        "published": "2026-10-11T21:14:40Z",
+        "title": "新能源车出口退税率将下调",
+        "summary": "报道显示，新能源汽车增值税出口退税率将下调至9%，相关政策明年4月起实施。",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGlBMlVRYW9XMVJnb1lmc0k4Y1QxUzNmdXFTMUVwWThYQUthSTFweHUwYXNiQkVBYU1Cc1pDYUE2RjJPZGNDLU5sZ0tjb0dhSUgySUFDc0ZzMEFVbC1rTGNfcXVjWHo5NnloVjJKLTVfX0wyVUMyWmNyQWx6am1Nd0xR?oc=5",
+        "source": "China Daily",
+        "published": "2026-10-13T01:25:18Z",
         "category": "tech"
       },
       {
-        "title": "NASA公开超800GB阿耳忒弥斯二号数据",
-        "summary": "NASA上线阿耳忒弥斯二号科学数据，包含逾1.1万张照片和视频及超过8小时音频。",
-        "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-        "source": "The Verge",
-        "published": "2026-10-11T15:34:40Z",
+        "title": "Meta发布前沿模型Muse Wonder",
+        "summary": "Meta推出Muse Wonder及Muse Wonder Full，称其在复杂任务和编码方面具备更强能力。",
+        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "source": "TechCrunch",
+        "published": "2026-10-12T17:56:56Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot JetBrains新增控制与聊天功能",
-        "summary": "更新支持默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
-        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "published": "2026-10-10T18:53:39Z",
+        "title": "GitHub推出Copilot入门指南",
+        "summary": "GitHub介绍如何通过自定义指令、技能、代理和MCP服务器，让Copilot理解代码库。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+        "source": "GitHub Blog",
+        "published": "2026-10-12T17:43:59Z",
         "category": "github"
       },
       {
-        "title": "CodeQL 2.27.2增强多语言分析",
-        "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
-        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "title": "GitHub预览提交推送者归属功能",
+        "summary": "GitHub公开预览提交归属功能，记录并在界面和API中展示提交的认证推送者。",
+        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
         "source": "GitHub Changelog",
-        "published": "2026-10-09T21:32:54Z",
+        "published": "2026-10-12T16:30:11Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "量子处理器实现费米-哈伯德准粒子碰撞",
-      "summary": "研究人员在21格点、42量子比特处理器上实现准粒子散射，并测得传输概率。",
-      "url": "https://arxiv.org/abs/2610.13946v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-09T17:59:06Z",
-      "category": "physics"
-    },
-    {
-      "title": "核钟首次实现连续运行",
-      "summary": "研究团队报告钍-229核钟首次运行，推动高精度计时与基础物理研究。",
-      "url": "https://www.nature.com/articles/d41586-026-03060-9",
+      "title": "量子硬件从混沌走向有序",
+      "summary": "《自然》论文报道利用自适应电路研究量子硬件中的秩序形成。",
+      "url": "https://www.nature.com/articles/s41567-026-03470-6",
       "source": "Nature 量子物理",
-      "published": "2026-10-07T00:00:00Z",
+      "published": "2026-10-09T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI公布AI数学研究进展",
-      "summary": "OpenAI发布前沿模型解决数学开放问题的结果，并公开Lean形式化证明与研究细节。",
+      "title": "芯片操控光子量子斯格明子",
+      "summary": "研究展示芯片介导的光子量子斯格明子操控，探索拓扑量子态应用。",
+      "url": "https://www.nature.com/articles/s41567-026-03487-x",
+      "source": "Nature 量子物理",
+      "published": "2026-10-12T00:00:00Z",
+      "category": "physics"
+    },
+    {
+      "title": "OpenAI分享AI数学研究进展",
+      "summary": "OpenAI发布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
       "source": "OpenAI 官方新闻",
       "published": "2026-10-06T12:00:00Z",
       "category": "ai"
     },
     {
-      "title": "丘成桐数学与AI实验室联盟成立",
-      "summary": "清华大学成立数学与人工智能实验室联盟，推动数学研究与AI技术融合。",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5",
-      "source": "北京市人民政府门户网站",
-      "published": "2026-10-12T00:28:00Z",
+      "title": "清华成立数学与AI实验室联盟",
+      "summary": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动数学与AI融合研究。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OY3hQNDU1R2hCUGhoTXJoUlViV2tRNTVCS2NDSFlVYzE2Slp2cUFzQ0hhRU0zZXNDbjJNVzNIdEtORnhrOEFydEVvN0xQdGVPNlp4ZnpXekhreXFXaWt6cTkycy1wZw?oc=5",
+      "source": "Google News AI 数学推理",
+      "published": "2026-10-12T04:27:02Z",
       "category": "ai"
     },
     {
-      "title": "苹果HomeView智能家居产品或将发布",
-      "summary": "报道称苹果新智能家居产品定名HomeView，并已接近公布发布日期。",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "title": "新能源车出口退税率将下调",
+      "summary": "报道显示，新能源汽车增值税出口退税率将下调至9%，相关政策明年4月起实施。",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGlBMlVRYW9XMVJnb1lmc0k4Y1QxUzNmdXFTMUVwWThYQUthSTFweHUwYXNiQkVBYU1Cc1pDYUE2RjJPZGNDLU5sZ0tjb0dhSUgySUFDc0ZzMEFVbC1rTGNfcXVjWHo5NnloVjJKLTVfX0wyVUMyWmNyQWx6am1Nd0xR?oc=5",
+      "source": "China Daily",
+      "published": "2026-10-13T01:25:18Z",
+      "category": "tech"
+    },
+    {
+      "title": "Meta发布前沿模型Muse Wonder",
+      "summary": "Meta推出Muse Wonder及Muse Wonder Full，称其在复杂任务和编码方面具备更强能力。",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "source": "TechCrunch",
-      "published": "2026-10-11T21:14:40Z",
+      "published": "2026-10-12T17:56:56Z",
       "category": "tech"
     },
     {
-      "title": "NASA公开超800GB阿耳忒弥斯二号数据",
-      "summary": "NASA上线阿耳忒弥斯二号科学数据，包含逾1.1万张照片和视频及超过8小时音频。",
-      "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-      "source": "The Verge",
-      "published": "2026-10-11T15:34:40Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub Copilot JetBrains新增控制与聊天功能",
-      "summary": "更新支持默认模型和MCP服务器控制，并改进诊断、聊天导航及账户管理。",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "published": "2026-10-10T18:53:39Z",
+      "title": "GitHub推出Copilot入门指南",
+      "summary": "GitHub介绍如何通过自定义指令、技能、代理和MCP服务器，让Copilot理解代码库。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "source": "GitHub Blog",
+      "published": "2026-10-12T17:43:59Z",
       "category": "github"
     },
     {
-      "title": "CodeQL 2.27.2增强多语言分析",
-      "summary": "新版本加入C++正则表达式解析器，并改进C++、Go、Rust和JavaScript分析。",
-      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "title": "GitHub预览提交推送者归属功能",
+      "summary": "GitHub公开预览提交归属功能，记录并在界面和API中展示提交的认证推送者。",
+      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
       "source": "GitHub Changelog",
-      "published": "2026-10-09T21:32:54Z",
+      "published": "2026-10-12T16:30:11Z",
       "category": "github"
     }
   ]
