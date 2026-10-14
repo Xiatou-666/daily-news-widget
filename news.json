@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-13T03:57:28.653801+00:00",
+  "updated_at": "2026-10-14T02:12:31.590209+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子硬件从混沌走向有序",
-        "summary": "《自然》论文报道利用自适应电路研究量子硬件中的秩序形成。",
-        "url": "https://www.nature.com/articles/s41567-026-03470-6",
-        "source": "Nature 量子物理",
-        "published": "2026-10-09T00:00:00Z",
-        "category": "physics"
+        "title": "中国科大量子存储器与光纤网络高效互联",
+        "summary": "中国科大报道实现离子阱量子存储器与光纤网络的高效互联。",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhLUN0amxQVmdUdXdkbjB3TWlyZ3VQbVkya2Ntd25EYlQyaUFydTA0cjFEcXZWTXlJRGhWeTlMUHNvMUZHcjlyVWFySzROc0o0WkVaVFhPYw?oc=5",
+        "source": "中国科大新闻网",
+        "published": "2026-10-13T08:15:00Z",
+        "category": "前沿物理"
       },
       {
-        "title": "芯片操控光子量子斯格明子",
-        "summary": "研究展示芯片介导的光子量子斯格明子操控，探索拓扑量子态应用。",
-        "url": "https://www.nature.com/articles/s41567-026-03487-x",
+        "title": "从单原子走向可制造的硅量子处理器",
+        "summary": "Nature旗下期刊刊文，讨论从单原子到可制造硅量子处理器的发展。",
+        "url": "https://www.nature.com/articles/s41565-026-02300-3",
         "source": "Nature 量子物理",
-        "published": "2026-10-12T00:00:00Z",
-        "category": "physics"
+        "published": "2026-10-13T00:00:00Z",
+        "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI分享AI数学研究进展",
-        "summary": "OpenAI发布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "title": "Higgsfield将AI视频延长至10分钟以上",
+        "summary": "据OpenAI介绍，Higgsfield借助GPT-6 Astra将视频从1分钟延长至10分钟以上，并结合图像与语音模型支持创作。",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
         "source": "OpenAI 官方新闻",
-        "published": "2026-10-06T12:00:00Z",
-        "category": "ai"
+        "published": "2026-10-13T12:00:00Z",
+        "category": "人工智能"
       },
       {
-        "title": "清华成立数学与AI实验室联盟",
-        "summary": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动数学与AI融合研究。",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OY3hQNDU1R2hCUGhoTXJoUlViV2tRNTVCS2NDSFlVYzE2Slp2cUFzQ0hhRU0zZXNDbjJNVzNIdEtORnhrOEFydEVvN0xQdGVPNlp4ZnpXekhreXFXaWt6cTkycy1wZw?oc=5",
-        "source": "Google News AI 数学推理",
-        "published": "2026-10-12T04:27:02Z",
-        "category": "ai"
+        "title": "OpenAI数学解题能力主张引学界争议",
+        "summary": "报道关注OpenAI声称模型可攻克数学难题所引发的学界争议；相关主张受到质疑，不宜视为已获公认的数学突破。",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZTI0ajBaeGxWUTZBeUd5d2VrVFBaUWRuSTk2b1BPRDdDWVh6c0dKaTY0NFZzWENPZGtTa0sycjFqdWNsZWdGZXkyYkV4bnltY3pSdnRRbGxKYjVGb1VQLWYwaDdLZw?oc=5",
+        "source": "东方财富",
+        "published": "2026-10-13T14:54:08Z",
+        "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "新能源车出口退税率将下调",
-        "summary": "报道显示，新能源汽车增值税出口退税率将下调至9%，相关政策明年4月起实施。",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGlBMlVRYW9XMVJnb1lmc0k4Y1QxUzNmdXFTMUVwWThYQUthSTFweHUwYXNiQkVBYU1Cc1pDYUE2RjJPZGNDLU5sZ0tjb0dhSUgySUFDc0ZzMEFVbC1rTGNfcXVjWHo5NnloVjJKLTVfX0wyVUMyWmNyQWx6am1Nd0xR?oc=5",
-        "source": "China Daily",
-        "published": "2026-10-13T01:25:18Z",
-        "category": "tech"
+        "title": "PRIMA视觉芯片首次植入斯塔加特病患者",
+        "summary": "Science Corporation首次为斯塔加特病患者植入PRIMA视觉恢复芯片，公司介绍其与新型脑机接口研发的关联。",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "source": "TechCrunch",
+        "published": "2026-10-13T23:13:31Z",
+        "category": "科技发展"
       },
       {
-        "title": "Meta发布前沿模型Muse Wonder",
-        "summary": "Meta推出Muse Wonder及Muse Wonder Full，称其在复杂任务和编码方面具备更强能力。",
-        "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "title": "Helix Carbon拟回收高炉污染降低炼铁成本",
+        "summary": "Helix Carbon称，可通过资源化利用高炉污染物降低钢铁业排放，并降低炼铁成本、改善利润。",
+        "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
         "source": "TechCrunch",
-        "published": "2026-10-12T17:56:56Z",
-        "category": "tech"
+        "published": "2026-10-13T21:15:00Z",
+        "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub推出Copilot入门指南",
-        "summary": "GitHub介绍如何通过自定义指令、技能、代理和MCP服务器，让Copilot理解代码库。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-        "source": "GitHub Blog",
-        "published": "2026-10-12T17:43:59Z",
-        "category": "github"
+        "title": "GitHub改进应用权限与管理",
+        "summary": "GitHub Apps新增管理与最小权限改进，帮助开发者迁移传统个人访问令牌，并减少对敏感权限的请求。",
+        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "source": "GitHub Changelog",
+        "published": "2026-10-13T23:17:55Z",
+        "category": "GitHub/开源"
       },
       {
-        "title": "GitHub预览提交推送者归属功能",
-        "summary": "GitHub公开预览提交归属功能，记录并在界面和API中展示提交的认证推送者。",
-        "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
-        "source": "GitHub Changelog",
-        "published": "2026-10-12T16:30:11Z",
-        "category": "github"
+        "title": "GitHub密钥检测模型提速降噪",
+        "summary": "GitHub介绍上下文感知密钥分类器：加权接受率提升11.5%，扫描执行时间中位数减少86%。",
+        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+        "source": "GitHub Blog",
+        "published": "2026-10-13T17:56:33Z",
+        "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "量子硬件从混沌走向有序",
-      "summary": "《自然》论文报道利用自适应电路研究量子硬件中的秩序形成。",
-      "url": "https://www.nature.com/articles/s41567-026-03470-6",
-      "source": "Nature 量子物理",
-      "published": "2026-10-09T00:00:00Z",
-      "category": "physics"
+      "title": "中国科大量子存储器与光纤网络高效互联",
+      "summary": "中国科大报道实现离子阱量子存储器与光纤网络的高效互联。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhLUN0amxQVmdUdXdkbjB3TWlyZ3VQbVkya2Ntd25EYlQyaUFydTA0cjFEcXZWTXlJRGhWeTlMUHNvMUZHcjlyVWFySzROc0o0WkVaVFhPYw?oc=5",
+      "source": "中国科大新闻网",
+      "published": "2026-10-13T08:15:00Z",
+      "category": "前沿物理"
     },
     {
-      "title": "芯片操控光子量子斯格明子",
-      "summary": "研究展示芯片介导的光子量子斯格明子操控，探索拓扑量子态应用。",
-      "url": "https://www.nature.com/articles/s41567-026-03487-x",
+      "title": "从单原子走向可制造的硅量子处理器",
+      "summary": "Nature旗下期刊刊文，讨论从单原子到可制造硅量子处理器的发展。",
+      "url": "https://www.nature.com/articles/s41565-026-02300-3",
       "source": "Nature 量子物理",
-      "published": "2026-10-12T00:00:00Z",
-      "category": "physics"
+      "published": "2026-10-13T00:00:00Z",
+      "category": "前沿物理"
     },
     {
-      "title": "OpenAI分享AI数学研究进展",
-      "summary": "OpenAI发布前沿模型在数学开放问题上的新结果，并分享Lean形式化证明与研究细节。",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "Higgsfield将AI视频延长至10分钟以上",
+      "summary": "据OpenAI介绍，Higgsfield借助GPT-6 Astra将视频从1分钟延长至10分钟以上，并结合图像与语音模型支持创作。",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "source": "OpenAI 官方新闻",
-      "published": "2026-10-06T12:00:00Z",
-      "category": "ai"
+      "published": "2026-10-13T12:00:00Z",
+      "category": "人工智能"
     },
     {
-      "title": "清华成立数学与AI实验室联盟",
-      "summary": "丘成桐数学与人工智能实验室联盟在清华大学成立，推动数学与AI融合研究。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OY3hQNDU1R2hCUGhoTXJoUlViV2tRNTVCS2NDSFlVYzE2Slp2cUFzQ0hhRU0zZXNDbjJNVzNIdEtORnhrOEFydEVvN0xQdGVPNlp4ZnpXekhreXFXaWt6cTkycy1wZw?oc=5",
-      "source": "Google News AI 数学推理",
-      "published": "2026-10-12T04:27:02Z",
-      "category": "ai"
+      "title": "OpenAI数学解题能力主张引学界争议",
+      "summary": "报道关注OpenAI声称模型可攻克数学难题所引发的学界争议；相关主张受到质疑，不宜视为已获公认的数学突破。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZTI0ajBaeGxWUTZBeUd5d2VrVFBaUWRuSTk2b1BPRDdDWVh6c0dKaTY0NFZzWENPZGtTa0sycjFqdWNsZWdGZXkyYkV4bnltY3pSdnRRbGxKYjVGb1VQLWYwaDdLZw?oc=5",
+      "source": "东方财富",
+      "published": "2026-10-13T14:54:08Z",
+      "category": "人工智能"
     },
     {
-      "title": "新能源车出口退税率将下调",
-      "summary": "报道显示，新能源汽车增值税出口退税率将下调至9%，相关政策明年4月起实施。",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGlBMlVRYW9XMVJnb1lmc0k4Y1QxUzNmdXFTMUVwWThYQUthSTFweHUwYXNiQkVBYU1Cc1pDYUE2RjJPZGNDLU5sZ0tjb0dhSUgySUFDc0ZzMEFVbC1rTGNfcXVjWHo5NnloVjJKLTVfX0wyVUMyWmNyQWx6am1Nd0xR?oc=5",
-      "source": "China Daily",
-      "published": "2026-10-13T01:25:18Z",
-      "category": "tech"
-    },
-    {
-      "title": "Meta发布前沿模型Muse Wonder",
-      "summary": "Meta推出Muse Wonder及Muse Wonder Full，称其在复杂任务和编码方面具备更强能力。",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "title": "PRIMA视觉芯片首次植入斯塔加特病患者",
+      "summary": "Science Corporation首次为斯塔加特病患者植入PRIMA视觉恢复芯片，公司介绍其与新型脑机接口研发的关联。",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
       "source": "TechCrunch",
-      "published": "2026-10-12T17:56:56Z",
-      "category": "tech"
+      "published": "2026-10-13T23:13:31Z",
+      "category": "科技发展"
     },
     {
-      "title": "GitHub推出Copilot入门指南",
-      "summary": "GitHub介绍如何通过自定义指令、技能、代理和MCP服务器，让Copilot理解代码库。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "source": "GitHub Blog",
-      "published": "2026-10-12T17:43:59Z",
-      "category": "github"
+      "title": "Helix Carbon拟回收高炉污染降低炼铁成本",
+      "summary": "Helix Carbon称，可通过资源化利用高炉污染物降低钢铁业排放，并降低炼铁成本、改善利润。",
+      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "source": "TechCrunch",
+      "published": "2026-10-13T21:15:00Z",
+      "category": "科技发展"
     },
     {
-      "title": "GitHub预览提交推送者归属功能",
-      "summary": "GitHub公开预览提交归属功能，记录并在界面和API中展示提交的认证推送者。",
-      "url": "https://github.blog/changelog/2026-10-12-push-attribution-public-preview",
+      "title": "GitHub改进应用权限与管理",
+      "summary": "GitHub Apps新增管理与最小权限改进，帮助开发者迁移传统个人访问令牌，并减少对敏感权限的请求。",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
       "source": "GitHub Changelog",
-      "published": "2026-10-12T16:30:11Z",
-      "category": "github"
+      "published": "2026-10-13T23:17:55Z",
+      "category": "GitHub/开源"
+    },
+    {
+      "title": "GitHub密钥检测模型提速降噪",
+      "summary": "GitHub介绍上下文感知密钥分类器：加权接受率提升11.5%，扫描执行时间中位数减少86%。",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "source": "GitHub Blog",
+      "published": "2026-10-13T17:56:33Z",
+      "category": "GitHub/开源"
     }
   ]
 }
