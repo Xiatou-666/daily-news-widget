@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-14T02:12:31.590209+00:00",
+  "updated_at": "2026-10-15T01:53:46.219345+00:00",
   "categories": {
     "physics": [
       {
-        "title": "中国科大量子存储器与光纤网络高效互联",
-        "summary": "中国科大报道实现离子阱量子存储器与光纤网络的高效互联。",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhLUN0amxQVmdUdXdkbjB3TWlyZ3VQbVkya2Ntd25EYlQyaUFydTA0cjFEcXZWTXlJRGhWeTlMUHNvMUZHcjlyVWFySzROc0o0WkVaVFhPYw?oc=5",
-        "source": "中国科大新闻网",
-        "published": "2026-10-13T08:15:00Z",
+        "title": "猫态腔助力搜寻银河系暗光子",
+        "summary": "预印本研究重新分析超导量子电路平台的既有数据，利用量子增强方法搜寻可能由暗物质衰变或湮灭产生的银河系暗光子背景。",
+        "url": "https://arxiv.org/abs/2610.19751v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-14T08:08:04Z",
         "category": "前沿物理"
       },
       {
-        "title": "从单原子走向可制造的硅量子处理器",
-        "summary": "Nature旗下期刊刊文，讨论从单原子到可制造硅量子处理器的发展。",
-        "url": "https://www.nature.com/articles/s41565-026-02300-3",
-        "source": "Nature 量子物理",
-        "published": "2026-10-13T00:00:00Z",
+        "title": "纠缠双光子增强光纤应变传感",
+        "summary": "研究人员在预印本中展示全光纤谐振器的量子增强探测，借助纠缠双光子干涉，直接测量应变引起的光学相位变化。",
+        "url": "https://arxiv.org/abs/2610.19752v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-14T08:08:45Z",
         "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "Higgsfield将AI视频延长至10分钟以上",
-        "summary": "据OpenAI介绍，Higgsfield借助GPT-6 Astra将视频从1分钟延长至10分钟以上，并结合图像与语音模型支持创作。",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-13T12:00:00Z",
+        "title": "OpenAI数学解题主张引学界质疑",
+        "summary": "新浪网报道，OpenAI关于模型可攻克数学难题的说法引发学界质疑；相关解答不宜直接视为已获验证的数学突破。",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVTc5SWVCZG5JRk80RmhaeEhyTG1MNDNwbXRRUzRXZ3hJeGcyTGxVZ0Y5enZiazh1REQ3Y0d6MGgySzIzc2NOV0dXUEloN0ZBa0RZZzQ0eE9nZlBlRktJSTJ1eDRXM3NTSEs4RUk3Yw?oc=5",
+        "source": "新浪网",
+        "published": "2026-10-14T23:23:00Z",
         "category": "人工智能"
       },
       {
-        "title": "OpenAI数学解题能力主张引学界争议",
-        "summary": "报道关注OpenAI声称模型可攻克数学难题所引发的学界争议；相关主张受到质疑，不宜视为已获公认的数学突破。",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZTI0ajBaeGxWUTZBeUd5d2VrVFBaUWRuSTk2b1BPRDdDWVh6c0dKaTY0NFZzWENPZGtTa0sycjFqdWNsZWdGZXkyYkV4bnltY3pSdnRRbGxKYjVGb1VQLWYwaDdLZw?oc=5",
-        "source": "东方财富",
-        "published": "2026-10-13T14:54:08Z",
+        "title": "HiRO-ACEv2以3公里分辨率模拟极端天气",
+        "summary": "AllenAI在Hugging Face博客介绍HiRO-ACEv2，称其可用较低成本实现3公里分辨率的极端天气模拟。",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "source": "Hugging Face Blog",
+        "published": "2026-10-14T16:12:42Z",
         "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "PRIMA视觉芯片首次植入斯塔加特病患者",
-        "summary": "Science Corporation首次为斯塔加特病患者植入PRIMA视觉恢复芯片，公司介绍其与新型脑机接口研发的关联。",
-        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-        "source": "TechCrunch",
-        "published": "2026-10-13T23:13:31Z",
+        "title": "微软与日本警方协助打击诈骗网络",
+        "summary": "微软称，与日本警察厅合作调查并协助捣毁一个诈骗服务市场，相关网络涉及逾十亿条诈骗信息。",
+        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+        "source": "The Verge",
+        "published": "2026-10-14T20:03:43Z",
         "category": "科技发展"
       },
       {
-        "title": "Helix Carbon拟回收高炉污染降低炼铁成本",
-        "summary": "Helix Carbon称，可通过资源化利用高炉污染物降低钢铁业排放，并降低炼铁成本、改善利润。",
-        "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+        "title": "培养微型人肠道用于药物测试",
+        "summary": "Intero Biosystems向药企销售实验室培养的人肠道，探索替代动物测试，并计划扩大生产及类器官技术应用。",
+        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
         "source": "TechCrunch",
-        "published": "2026-10-13T21:15:00Z",
+        "published": "2026-10-14T23:00:00Z",
         "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub改进应用权限与管理",
-        "summary": "GitHub Apps新增管理与最小权限改进，帮助开发者迁移传统个人访问令牌，并减少对敏感权限的请求。",
-        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "title": "GitHub Actions工作流锁文件开启公测",
+        "summary": "工作流依赖锁文件进入公开预览，覆盖Free、Team及企业云计划，针对标签和分支可能移动的依赖管理问题。",
+        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
         "source": "GitHub Changelog",
-        "published": "2026-10-13T23:17:55Z",
+        "published": "2026-10-14T13:49:15Z",
         "category": "GitHub/开源"
       },
       {
-        "title": "GitHub密钥检测模型提速降噪",
-        "summary": "GitHub介绍上下文感知密钥分类器：加权接受率提升11.5%，扫描执行时间中位数减少86%。",
-        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+        "title": "GitHub星标历史请求从2500次降至24次",
+        "summary": "GitHub介绍新版仓库星标历史API：提供趋势而不返回个人身份信息，同时避免无界数据库计算，并大幅减少请求次数。",
+        "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
         "source": "GitHub Blog",
-        "published": "2026-10-13T17:56:33Z",
+        "published": "2026-10-14T19:11:33Z",
         "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "中国科大量子存储器与光纤网络高效互联",
-      "summary": "中国科大报道实现离子阱量子存储器与光纤网络的高效互联。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhLUN0amxQVmdUdXdkbjB3TWlyZ3VQbVkya2Ntd25EYlQyaUFydTA0cjFEcXZWTXlJRGhWeTlMUHNvMUZHcjlyVWFySzROc0o0WkVaVFhPYw?oc=5",
-      "source": "中国科大新闻网",
-      "published": "2026-10-13T08:15:00Z",
+      "title": "猫态腔助力搜寻银河系暗光子",
+      "summary": "预印本研究重新分析超导量子电路平台的既有数据，利用量子增强方法搜寻可能由暗物质衰变或湮灭产生的银河系暗光子背景。",
+      "url": "https://arxiv.org/abs/2610.19751v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-14T08:08:04Z",
       "category": "前沿物理"
     },
     {
-      "title": "从单原子走向可制造的硅量子处理器",
-      "summary": "Nature旗下期刊刊文，讨论从单原子到可制造硅量子处理器的发展。",
-      "url": "https://www.nature.com/articles/s41565-026-02300-3",
-      "source": "Nature 量子物理",
-      "published": "2026-10-13T00:00:00Z",
+      "title": "纠缠双光子增强光纤应变传感",
+      "summary": "研究人员在预印本中展示全光纤谐振器的量子增强探测，借助纠缠双光子干涉，直接测量应变引起的光学相位变化。",
+      "url": "https://arxiv.org/abs/2610.19752v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-14T08:08:45Z",
       "category": "前沿物理"
     },
     {
-      "title": "Higgsfield将AI视频延长至10分钟以上",
-      "summary": "据OpenAI介绍，Higgsfield借助GPT-6 Astra将视频从1分钟延长至10分钟以上，并结合图像与语音模型支持创作。",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-13T12:00:00Z",
+      "title": "OpenAI数学解题主张引学界质疑",
+      "summary": "新浪网报道，OpenAI关于模型可攻克数学难题的说法引发学界质疑；相关解答不宜直接视为已获验证的数学突破。",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVTc5SWVCZG5JRk80RmhaeEhyTG1MNDNwbXRRUzRXZ3hJeGcyTGxVZ0Y5enZiazh1REQ3Y0d6MGgySzIzc2NOV0dXUEloN0ZBa0RZZzQ0eE9nZlBlRktJSTJ1eDRXM3NTSEs4RUk3Yw?oc=5",
+      "source": "新浪网",
+      "published": "2026-10-14T23:23:00Z",
       "category": "人工智能"
     },
     {
-      "title": "OpenAI数学解题能力主张引学界争议",
-      "summary": "报道关注OpenAI声称模型可攻克数学难题所引发的学界争议；相关主张受到质疑，不宜视为已获公认的数学突破。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yZTI0ajBaeGxWUTZBeUd5d2VrVFBaUWRuSTk2b1BPRDdDWVh6c0dKaTY0NFZzWENPZGtTa0sycjFqdWNsZWdGZXkyYkV4bnltY3pSdnRRbGxKYjVGb1VQLWYwaDdLZw?oc=5",
-      "source": "东方财富",
-      "published": "2026-10-13T14:54:08Z",
+      "title": "HiRO-ACEv2以3公里分辨率模拟极端天气",
+      "summary": "AllenAI在Hugging Face博客介绍HiRO-ACEv2，称其可用较低成本实现3公里分辨率的极端天气模拟。",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face Blog",
+      "published": "2026-10-14T16:12:42Z",
       "category": "人工智能"
     },
     {
-      "title": "PRIMA视觉芯片首次植入斯塔加特病患者",
-      "summary": "Science Corporation首次为斯塔加特病患者植入PRIMA视觉恢复芯片，公司介绍其与新型脑机接口研发的关联。",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "published": "2026-10-13T23:13:31Z",
+      "title": "微软与日本警方协助打击诈骗网络",
+      "summary": "微软称，与日本警察厅合作调查并协助捣毁一个诈骗服务市场，相关网络涉及逾十亿条诈骗信息。",
+      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "source": "The Verge",
+      "published": "2026-10-14T20:03:43Z",
       "category": "科技发展"
     },
     {
-      "title": "Helix Carbon拟回收高炉污染降低炼铁成本",
-      "summary": "Helix Carbon称，可通过资源化利用高炉污染物降低钢铁业排放，并降低炼铁成本、改善利润。",
-      "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
+      "title": "培养微型人肠道用于药物测试",
+      "summary": "Intero Biosystems向药企销售实验室培养的人肠道，探索替代动物测试，并计划扩大生产及类器官技术应用。",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
       "source": "TechCrunch",
-      "published": "2026-10-13T21:15:00Z",
+      "published": "2026-10-14T23:00:00Z",
       "category": "科技发展"
     },
     {
-      "title": "GitHub改进应用权限与管理",
-      "summary": "GitHub Apps新增管理与最小权限改进，帮助开发者迁移传统个人访问令牌，并减少对敏感权限的请求。",
-      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "title": "GitHub Actions工作流锁文件开启公测",
+      "summary": "工作流依赖锁文件进入公开预览，覆盖Free、Team及企业云计划，针对标签和分支可能移动的依赖管理问题。",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
       "source": "GitHub Changelog",
-      "published": "2026-10-13T23:17:55Z",
+      "published": "2026-10-14T13:49:15Z",
       "category": "GitHub/开源"
     },
     {
-      "title": "GitHub密钥检测模型提速降噪",
-      "summary": "GitHub介绍上下文感知密钥分类器：加权接受率提升11.5%，扫描执行时间中位数减少86%。",
-      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "title": "GitHub星标历史请求从2500次降至24次",
+      "summary": "GitHub介绍新版仓库星标历史API：提供趋势而不返回个人身份信息，同时避免无界数据库计算，并大幅减少请求次数。",
+      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
       "source": "GitHub Blog",
-      "published": "2026-10-13T17:56:33Z",
+      "published": "2026-10-14T19:11:33Z",
       "category": "GitHub/开源"
     }
   ]
