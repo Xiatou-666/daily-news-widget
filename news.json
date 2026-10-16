@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-15T01:53:46.219345+00:00",
+  "updated_at": "2026-10-16T01:43:04.233517+00:00",
   "categories": {
     "physics": [
       {
-        "title": "猫态腔助力搜寻银河系暗光子",
-        "summary": "预印本研究重新分析超导量子电路平台的既有数据，利用量子增强方法搜寻可能由暗物质衰变或湮灭产生的银河系暗光子背景。",
-        "url": "https://arxiv.org/abs/2610.19751v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-14T08:08:04Z",
+        "title": "谷歌Willow芯片验证魔态培育",
+        "summary": "据报道，谷歌Willow芯片验证魔态培育，量子态错误率降低约40倍。",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jRENjRUN4NWVTVHdKRGpFRDRvZ04yb1daTml6dXVqc3c5U3I0RVRQcEpvRkdVTEhOcG5fdDBrLXJQNVZQZ1FQa0pDckl3ay0tQUxqRjBOMjdHYXF4RFFVd2l3?oc=5",
+        "source": "观点网",
+        "published": "2026-10-15T23:10:29Z",
         "category": "前沿物理"
       },
       {
-        "title": "纠缠双光子增强光纤应变传感",
-        "summary": "研究人员在预印本中展示全光纤谐振器的量子增强探测，借助纠缠双光子干涉，直接测量应变引起的光学相位变化。",
-        "url": "https://arxiv.org/abs/2610.19752v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-14T08:08:45Z",
+        "title": "自旋量子比特阵列实现同步高保真门",
+        "summary": "研究展示在自旋量子比特阵列中，同时执行高保真单量子比特门。",
+        "url": "https://www.nature.com/articles/s41567-026-03466-2",
+        "source": "Nature 量子物理",
+        "published": "2026-10-15T00:00:00Z",
         "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI数学解题主张引学界质疑",
-        "summary": "新浪网报道，OpenAI关于模型可攻克数学难题的说法引发学界质疑；相关解答不宜直接视为已获验证的数学突破。",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVTc5SWVCZG5JRk80RmhaeEhyTG1MNDNwbXRRUzRXZ3hJeGcyTGxVZ0Y5enZiazh1REQ3Y0d6MGgySzIzc2NOV0dXUEloN0ZBa0RZZzQ0eE9nZlBlRktJSTJ1eDRXM3NTSEs4RUk3Yw?oc=5",
-        "source": "新浪网",
-        "published": "2026-10-14T23:23:00Z",
+        "title": "OpenAI推出Rosalind学术计划",
+        "summary": "向符合条件的学术实验室提供GPT-Rosalind及相关工具的资助访问，支持生命科学研究。",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-15T19:00:00Z",
         "category": "人工智能"
       },
       {
-        "title": "HiRO-ACEv2以3公里分辨率模拟极端天气",
-        "summary": "AllenAI在Hugging Face博客介绍HiRO-ACEv2，称其可用较低成本实现3公里分辨率的极端天气模拟。",
-        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-        "source": "Hugging Face Blog",
-        "published": "2026-10-14T16:12:42Z",
+        "title": "书生-S2助力三维Ghys猜想证明",
+        "summary": "据报道，上海AI实验室书生-S2大模型参与前沿数学研究，助力三维Ghys猜想证明并通过形式化验证。",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11cHo3cUxyTE9aUEdvM3NucmsyOXRmVWgxeEhRX2FZMHowX3g1LVFlcTc5SnZQVkdVWmY5eGF4bVNRVWxGMFBfRUNIek92czlUUncwVVJ4WFlpbWZxb2JpYk1SM0VhUkRCMkgyNF94SEUzZw?oc=5",
+        "source": "雷峰网",
+        "published": "2026-10-15T07:14:00Z",
         "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "微软与日本警方协助打击诈骗网络",
-        "summary": "微软称，与日本警察厅合作调查并协助捣毁一个诈骗服务市场，相关网络涉及逾十亿条诈骗信息。",
-        "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-        "source": "The Verge",
-        "published": "2026-10-14T20:03:43Z",
+        "title": "特斯拉展示可短暂腾空的新Roadster",
+        "summary": "特斯拉在得州演示新款Roadster，利用推进器跃过多辆汽车，包括Cybercab、Cybertruck和Semi。",
+        "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "source": "TechCrunch",
+        "published": "2026-10-16T01:17:43Z",
         "category": "科技发展"
       },
       {
-        "title": "培养微型人肠道用于药物测试",
-        "summary": "Intero Biosystems向药企销售实验室培养的人肠道，探索替代动物测试，并计划扩大生产及类器官技术应用。",
-        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-        "source": "TechCrunch",
-        "published": "2026-10-14T23:00:00Z",
+        "title": "冷冻储存猪肾复温后恢复功能",
+        "summary": "科学家称，降至零下150℃并储存数月的猪肾首次在复温后恢复功能，希望未来在人类器官上复现。",
+        "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-15T08:43:24Z",
         "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub Actions工作流锁文件开启公测",
-        "summary": "工作流依赖锁文件进入公开预览，覆盖Free、Team及企业云计划，针对标签和分支可能移动的依赖管理问题。",
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+        "title": "GitHub拉取请求AI扫描正式可用",
+        "summary": "AI Scan正式开放，可检测拉取请求变更中的漏洞，补充CodeQL尚未覆盖的语言和框架。",
+        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
         "source": "GitHub Changelog",
-        "published": "2026-10-14T13:49:15Z",
+        "published": "2026-10-15T15:04:51Z",
         "category": "GitHub/开源"
       },
       {
-        "title": "GitHub星标历史请求从2500次降至24次",
-        "summary": "GitHub介绍新版仓库星标历史API：提供趋势而不返回个人身份信息，同时避免无界数据库计算，并大幅减少请求次数。",
-        "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-        "source": "GitHub Blog",
-        "published": "2026-10-14T19:11:33Z",
+        "title": "GitHub智能体自动修复正式可用",
+        "summary": "代码扫描告警的智能体自动修复功能正式开放，可探索代码库相关文件并提出修复方案。",
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+        "source": "GitHub Changelog",
+        "published": "2026-10-15T13:49:20Z",
         "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "猫态腔助力搜寻银河系暗光子",
-      "summary": "预印本研究重新分析超导量子电路平台的既有数据，利用量子增强方法搜寻可能由暗物质衰变或湮灭产生的银河系暗光子背景。",
-      "url": "https://arxiv.org/abs/2610.19751v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-14T08:08:04Z",
+      "title": "谷歌Willow芯片验证魔态培育",
+      "summary": "据报道，谷歌Willow芯片验证魔态培育，量子态错误率降低约40倍。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jRENjRUN4NWVTVHdKRGpFRDRvZ04yb1daTml6dXVqc3c5U3I0RVRQcEpvRkdVTEhOcG5fdDBrLXJQNVZQZ1FQa0pDckl3ay0tQUxqRjBOMjdHYXF4RFFVd2l3?oc=5",
+      "source": "观点网",
+      "published": "2026-10-15T23:10:29Z",
       "category": "前沿物理"
     },
     {
-      "title": "纠缠双光子增强光纤应变传感",
-      "summary": "研究人员在预印本中展示全光纤谐振器的量子增强探测，借助纠缠双光子干涉，直接测量应变引起的光学相位变化。",
-      "url": "https://arxiv.org/abs/2610.19752v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-14T08:08:45Z",
+      "title": "自旋量子比特阵列实现同步高保真门",
+      "summary": "研究展示在自旋量子比特阵列中，同时执行高保真单量子比特门。",
+      "url": "https://www.nature.com/articles/s41567-026-03466-2",
+      "source": "Nature 量子物理",
+      "published": "2026-10-15T00:00:00Z",
       "category": "前沿物理"
     },
     {
-      "title": "OpenAI数学解题主张引学界质疑",
-      "summary": "新浪网报道，OpenAI关于模型可攻克数学难题的说法引发学界质疑；相关解答不宜直接视为已获验证的数学突破。",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVTc5SWVCZG5JRk80RmhaeEhyTG1MNDNwbXRRUzRXZ3hJeGcyTGxVZ0Y5enZiazh1REQ3Y0d6MGgySzIzc2NOV0dXUEloN0ZBa0RZZzQ0eE9nZlBlRktJSTJ1eDRXM3NTSEs4RUk3Yw?oc=5",
-      "source": "新浪网",
-      "published": "2026-10-14T23:23:00Z",
+      "title": "OpenAI推出Rosalind学术计划",
+      "summary": "向符合条件的学术实验室提供GPT-Rosalind及相关工具的资助访问，支持生命科学研究。",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-15T19:00:00Z",
       "category": "人工智能"
     },
     {
-      "title": "HiRO-ACEv2以3公里分辨率模拟极端天气",
-      "summary": "AllenAI在Hugging Face博客介绍HiRO-ACEv2，称其可用较低成本实现3公里分辨率的极端天气模拟。",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face Blog",
-      "published": "2026-10-14T16:12:42Z",
+      "title": "书生-S2助力三维Ghys猜想证明",
+      "summary": "据报道，上海AI实验室书生-S2大模型参与前沿数学研究，助力三维Ghys猜想证明并通过形式化验证。",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11cHo3cUxyTE9aUEdvM3NucmsyOXRmVWgxeEhRX2FZMHowX3g1LVFlcTc5SnZQVkdVWmY5eGF4bVNRVWxGMFBfRUNIek92czlUUncwVVJ4WFlpbWZxb2JpYk1SM0VhUkRCMkgyNF94SEUzZw?oc=5",
+      "source": "雷峰网",
+      "published": "2026-10-15T07:14:00Z",
       "category": "人工智能"
     },
     {
-      "title": "微软与日本警方协助打击诈骗网络",
-      "summary": "微软称，与日本警察厅合作调查并协助捣毁一个诈骗服务市场，相关网络涉及逾十亿条诈骗信息。",
-      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-      "source": "The Verge",
-      "published": "2026-10-14T20:03:43Z",
-      "category": "科技发展"
-    },
-    {
-      "title": "培养微型人肠道用于药物测试",
-      "summary": "Intero Biosystems向药企销售实验室培养的人肠道，探索替代动物测试，并计划扩大生产及类器官技术应用。",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "title": "特斯拉展示可短暂腾空的新Roadster",
+      "summary": "特斯拉在得州演示新款Roadster，利用推进器跃过多辆汽车，包括Cybercab、Cybertruck和Semi。",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
       "source": "TechCrunch",
-      "published": "2026-10-14T23:00:00Z",
+      "published": "2026-10-16T01:17:43Z",
       "category": "科技发展"
     },
     {
-      "title": "GitHub Actions工作流锁文件开启公测",
-      "summary": "工作流依赖锁文件进入公开预览，覆盖Free、Team及企业云计划，针对标签和分支可能移动的依赖管理问题。",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "title": "冷冻储存猪肾复温后恢复功能",
+      "summary": "科学家称，降至零下150℃并储存数月的猪肾首次在复温后恢复功能，希望未来在人类器官上复现。",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-15T08:43:24Z",
+      "category": "科技发展"
+    },
+    {
+      "title": "GitHub拉取请求AI扫描正式可用",
+      "summary": "AI Scan正式开放，可检测拉取请求变更中的漏洞，补充CodeQL尚未覆盖的语言和框架。",
+      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
       "source": "GitHub Changelog",
-      "published": "2026-10-14T13:49:15Z",
+      "published": "2026-10-15T15:04:51Z",
       "category": "GitHub/开源"
     },
     {
-      "title": "GitHub星标历史请求从2500次降至24次",
-      "summary": "GitHub介绍新版仓库星标历史API：提供趋势而不返回个人身份信息，同时避免无界数据库计算，并大幅减少请求次数。",
-      "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "source": "GitHub Blog",
-      "published": "2026-10-14T19:11:33Z",
+      "title": "GitHub智能体自动修复正式可用",
+      "summary": "代码扫描告警的智能体自动修复功能正式开放，可探索代码库相关文件并提出修复方案。",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+      "source": "GitHub Changelog",
+      "published": "2026-10-15T13:49:20Z",
       "category": "GitHub/开源"
     }
   ]
