@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-17T01:36:18.023334+00:00",
+  "updated_at": "2026-10-18T01:34:51.134415+00:00",
   "categories": {
     "physics": [
       {
-        "title": "大语言模型发现先进量子电路",
-        "summary": "研究探索利用大语言模型优化量子电路，重点应对可逆性约束与量子算法资源成本。",
-        "url": "https://arxiv.org/abs/2610.22367v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-15T17:59:20Z",
+        "title": "工程化隧穿实现受保护猫三能级子空间",
+        "summary": "研究报告通过工程化量子隧穿，实现受保护的猫态三能级流形。",
+        "url": "https://www.nature.com/articles/s41467-026-78631-5",
+        "source": "Nature 量子物理",
+        "published": "2026-10-17",
         "category": "physics"
       },
       {
-        "title": "量子LDPC态在局域噪声下的稳定性",
-        "summary": "研究分析量子低密度奇偶校验码混合态在局域泡利噪声下的信息结构稳定性。",
-        "url": "https://arxiv.org/abs/2610.22357v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-15T17:58:40Z",
+        "title": "压电纳米机械谐振器实现毫秒声子寿命",
+        "summary": "研究报告在压电纳米机械谐振器中实现毫秒级声子寿命。",
+        "url": "https://www.nature.com/articles/s41565-026-02289-9",
+        "source": "Nature 量子物理",
+        "published": "2026-10-16",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI与Anthropic资助数学研究",
-        "summary": "报道称OpenAI与Anthropic将投入资金和算力支持数学家，推动人工智能辅助数学研究。",
+        "title": "OpenAI与Anthropic联手资助数学研究",
+        "summary": "媒体称双方将投入资金和算力支持数学家开展研究，具体安排以原报道为准。",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZk8yMGlWMUtiSnl4Mk5NcVlTNEYxcVNYamNUVDJMLWxaa1ltUmZEc3k0dG0tMEN2ZUpKcmxOeXA4WGcxSFFBTQ?oc=5",
         "source": "Google News OpenAI 数学",
-        "published": "Fri, 16 Oct 2026 04:29:51 GMT",
+        "published": "2026-10-16T04:29:51Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI推出学术研究计划",
-        "summary": "OpenAI发布Rosalind Academic Plan，为符合条件的学术实验室提供GPT-Rosalind及相关工具，支持生命科学研究。",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-        "source": "OpenAI 官方新闻",
-        "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+        "title": "DeepMind用AI加速抗菌肽搜索",
+        "summary": "Google DeepMind介绍用Antigravity for Science加速新型抗菌肽发现。",
+        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+        "source": "Google DeepMind Blog",
+        "published": "2026-10-15T16:08:03Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "苹果发布折叠屏iPhone Duo",
-        "summary": "苹果公布折叠屏iPhone Duo，配备5.4英寸外屏和7.6英寸内屏，并采用电源键Touch ID。",
-        "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-        "source": "The Verge",
-        "published": "2026-10-16T19:36:26-04:00",
+        "title": "理想汽车芯片子公司完成首轮融资",
+        "summary": "报道称理想汽车芯片子公司完成首轮融资16.25亿元，车企持续加码芯片布局。",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWndvREIwRS0zLVN5ek5feG9SUDNTRUJId1d6ZWVTcHZIUVFteHBtUnYzN3JjOU9neEN4UzhOYjQtTi1GQnNHbmhnclVldWc1ZnQxOHBLUjd0c0RqM1ZMUmxXbl9FMVFrYW1LU0lERTQwYlRsRlJTTjZENVZwdw?oc=5",
+        "source": "Google News 科技发展",
+        "published": "2026-10-18T01:25:00Z",
         "category": "tech"
       },
       {
-        "title": "视网膜植入物帮助恢复视力",
-        "summary": "PRIMA系统结合视网膜植入物与摄像眼镜，已在欧洲获批，用于帮助黄斑变性患者恢复部分视力。",
-        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-        "source": "MIT Technology Review",
-        "published": "Fri, 16 Oct 2026 09:00:00 +0000",
+        "title": "Meta删除引发抓取争议的条款",
+        "summary": "Meta更新商业条款，删除允许抓取网站内容用于AI训练的相关表述。",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "source": "TechCrunch",
+        "published": "2026-10-17T21:31:32Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub开源许可证合规功能上线",
-        "summary": "GitHub Enterprise Cloud现可通过基于规则集的检查，集中管理依赖项许可证合规。",
+        "title": "GitHub开源许可证合规功能正式可用",
+        "summary": "GitHub Enterprise Cloud现可通过基于规则的检查集中管理依赖许可证合规。",
         "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
         "source": "GitHub Changelog",
-        "published": "Fri, 16 Oct 2026 14:00:32 +0000",
+        "published": "2026-10-16T14:00:32Z",
         "category": "github"
       },
       {
-        "title": "GitHub推出拉取请求AI扫描",
-        "summary": "GitHub的AI Scan for pull requests正式可用，用于发现CodeQL尚未覆盖的拉取请求漏洞。",
-        "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+        "title": "GitHub代码扫描智能修复正式发布",
+        "summary": "Agentic autofix可跨代码库分析代码扫描告警并提出修复方案，现已正式可用。",
+        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
         "source": "GitHub Changelog",
-        "published": "Thu, 15 Oct 2026 15:04:51 +0000",
+        "published": "2026-10-15T13:49:20Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "大语言模型发现先进量子电路",
-      "summary": "研究探索利用大语言模型优化量子电路，重点应对可逆性约束与量子算法资源成本。",
-      "url": "https://arxiv.org/abs/2610.22367v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-15T17:59:20Z",
+      "title": "工程化隧穿实现受保护猫三能级子空间",
+      "summary": "研究报告通过工程化量子隧穿，实现受保护的猫态三能级流形。",
+      "url": "https://www.nature.com/articles/s41467-026-78631-5",
+      "source": "Nature 量子物理",
+      "published": "2026-10-17",
       "category": "physics"
     },
     {
-      "title": "量子LDPC态在局域噪声下的稳定性",
-      "summary": "研究分析量子低密度奇偶校验码混合态在局域泡利噪声下的信息结构稳定性。",
-      "url": "https://arxiv.org/abs/2610.22357v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-15T17:58:40Z",
+      "title": "压电纳米机械谐振器实现毫秒声子寿命",
+      "summary": "研究报告在压电纳米机械谐振器中实现毫秒级声子寿命。",
+      "url": "https://www.nature.com/articles/s41565-026-02289-9",
+      "source": "Nature 量子物理",
+      "published": "2026-10-16",
       "category": "physics"
     },
     {
-      "title": "OpenAI与Anthropic资助数学研究",
-      "summary": "报道称OpenAI与Anthropic将投入资金和算力支持数学家，推动人工智能辅助数学研究。",
+      "title": "OpenAI与Anthropic联手资助数学研究",
+      "summary": "媒体称双方将投入资金和算力支持数学家开展研究，具体安排以原报道为准。",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZk8yMGlWMUtiSnl4Mk5NcVlTNEYxcVNYamNUVDJMLWxaa1ltUmZEc3k0dG0tMEN2ZUpKcmxOeXA4WGcxSFFBTQ?oc=5",
       "source": "Google News OpenAI 数学",
-      "published": "Fri, 16 Oct 2026 04:29:51 GMT",
+      "published": "2026-10-16T04:29:51Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI推出学术研究计划",
-      "summary": "OpenAI发布Rosalind Academic Plan，为符合条件的学术实验室提供GPT-Rosalind及相关工具，支持生命科学研究。",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI 官方新闻",
-      "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "title": "DeepMind用AI加速抗菌肽搜索",
+      "summary": "Google DeepMind介绍用Antigravity for Science加速新型抗菌肽发现。",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "source": "Google DeepMind Blog",
+      "published": "2026-10-15T16:08:03Z",
       "category": "ai"
     },
     {
-      "title": "苹果发布折叠屏iPhone Duo",
-      "summary": "苹果公布折叠屏iPhone Duo，配备5.4英寸外屏和7.6英寸内屏，并采用电源键Touch ID。",
-      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-      "source": "The Verge",
-      "published": "2026-10-16T19:36:26-04:00",
+      "title": "理想汽车芯片子公司完成首轮融资",
+      "summary": "报道称理想汽车芯片子公司完成首轮融资16.25亿元，车企持续加码芯片布局。",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWndvREIwRS0zLVN5ek5feG9SUDNTRUJId1d6ZWVTcHZIUVFteHBtUnYzN3JjOU9neEN4UzhOYjQtTi1GQnNHbmhnclVldWc1ZnQxOHBLUjd0c0RqM1ZMUmxXbl9FMVFrYW1LU0lERTQwYlRsRlJTTjZENVZwdw?oc=5",
+      "source": "Google News 科技发展",
+      "published": "2026-10-18T01:25:00Z",
       "category": "tech"
     },
     {
-      "title": "视网膜植入物帮助恢复视力",
-      "summary": "PRIMA系统结合视网膜植入物与摄像眼镜，已在欧洲获批，用于帮助黄斑变性患者恢复部分视力。",
-      "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "source": "MIT Technology Review",
-      "published": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "title": "Meta删除引发抓取争议的条款",
+      "summary": "Meta更新商业条款，删除允许抓取网站内容用于AI训练的相关表述。",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
+      "published": "2026-10-17T21:31:32Z",
       "category": "tech"
     },
     {
-      "title": "GitHub开源许可证合规功能上线",
-      "summary": "GitHub Enterprise Cloud现可通过基于规则集的检查，集中管理依赖项许可证合规。",
+      "title": "GitHub开源许可证合规功能正式可用",
+      "summary": "GitHub Enterprise Cloud现可通过基于规则的检查集中管理依赖许可证合规。",
       "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
       "source": "GitHub Changelog",
-      "published": "Fri, 16 Oct 2026 14:00:32 +0000",
+      "published": "2026-10-16T14:00:32Z",
       "category": "github"
     },
     {
-      "title": "GitHub推出拉取请求AI扫描",
-      "summary": "GitHub的AI Scan for pull requests正式可用，用于发现CodeQL尚未覆盖的拉取请求漏洞。",
-      "url": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+      "title": "GitHub代码扫描智能修复正式发布",
+      "summary": "Agentic autofix可跨代码库分析代码扫描告警并提出修复方案，现已正式可用。",
+      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
       "source": "GitHub Changelog",
-      "published": "Thu, 15 Oct 2026 15:04:51 +0000",
+      "published": "2026-10-15T13:49:20Z",
       "category": "github"
     }
   ]
