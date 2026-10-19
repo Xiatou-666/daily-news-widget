@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-18T01:34:51.134415+00:00",
+  "updated_at": "2026-10-19T01:49:02.501970+00:00",
   "categories": {
     "physics": [
       {
-        "title": "工程化隧穿实现受保护猫三能级子空间",
-        "summary": "研究报告通过工程化量子隧穿，实现受保护的猫态三能级流形。",
-        "url": "https://www.nature.com/articles/s41467-026-78631-5",
-        "source": "Nature 量子物理",
-        "published": "2026-10-17",
-        "category": "physics"
+        "title": "科学家观测到无能隙临界拓扑态",
+        "summary": "新浪报道，科学家观测到无能隙临界拓扑态，为拓扑物态研究提供新实验线索。",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWpDQkF2ZlJPS3prdFdrb3Q0Vi1LbnFjRUdhS1N6aVVacGNNNGJkMGQxbk1pVFV2OFNEcGtZSEprLWp4SXNRU3JJUTVzVXF2OWo4a2N4MDRxNGhwaWQwR2JwNU42eklmVGVuR2pibFRpUG5BanhZeDJOekdpQ0dWS2ZsTQ?oc=5",
+        "source": "新浪网",
+        "published": "2026-10-18T23:53:00Z",
+        "category": "前沿物理"
       },
       {
-        "title": "压电纳米机械谐振器实现毫秒声子寿命",
-        "summary": "研究报告在压电纳米机械谐振器中实现毫秒级声子寿命。",
-        "url": "https://www.nature.com/articles/s41565-026-02289-9",
-        "source": "Nature 量子物理",
-        "published": "2026-10-16",
-        "category": "physics"
+        "title": "四台大型望远镜观测子阵列落成",
+        "summary": "中国科技网报道，由四台大型望远镜组成的观测子阵列落成。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WXYxWlJrSXdtVlJsM0lDLTFveXBPazBlbVdVeUFaUzU4aUZzb1hxWjhNTlo3NzNwV2lJRWJwTVJJZHFUZ3NsRlgzc0dBZ0hjQjgyaFQ5QzQ1U1dxWkxROGI4bXJEdmh0aGpqZkdQZDA?oc=5",
+        "source": "中国科技网",
+        "published": "2026-10-19T00:05:34Z",
+        "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI与Anthropic联手资助数学研究",
-        "summary": "媒体称双方将投入资金和算力支持数学家开展研究，具体安排以原报道为准。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZk8yMGlWMUtiSnl4Mk5NcVlTNEYxcVNYamNUVDJMLWxaa1ltUmZEc3k0dG0tMEN2ZUpKcmxOeXA4WGcxSFFBTQ?oc=5",
-        "source": "Google News OpenAI 数学",
-        "published": "2026-10-16T04:29:51Z",
-        "category": "ai"
+        "title": "DeepMind数学研究成果登Science",
+        "summary": "据澎湃新闻报道，DeepMind利用AI研究一道延续56年的数学难题，相关成果发表于Science。",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94YWVsczlaTFR1ZVVnV3lyNlIxUlMtb09Fd0hNZ2RjcTE4ZUlfTDBEdEdZU0xwQXB0aEthM1REVW80cDJBZGVRY2hBSm1ORnNLeEtTa2xEZEtfR1AyVmszRg?oc=5",
+        "source": "澎湃新闻",
+        "published": "2026-10-17T23:41:00Z",
+        "category": "人工智能"
       },
       {
-        "title": "DeepMind用AI加速抗菌肽搜索",
-        "summary": "Google DeepMind介绍用Antigravity for Science加速新型抗菌肽发现。",
-        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-        "source": "Google DeepMind Blog",
-        "published": "2026-10-15T16:08:03Z",
-        "category": "ai"
+        "title": "Replit将OpenAI设为默认模型供应商",
+        "summary": "Replit首席执行官澄清，OpenAI将取代Anthropic成为默认模型供应商，但用户仍可使用Claude。",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "source": "TechCrunch",
+        "published": "2026-10-17T18:48:08Z",
+        "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "理想汽车芯片子公司完成首轮融资",
-        "summary": "报道称理想汽车芯片子公司完成首轮融资16.25亿元，车企持续加码芯片布局。",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWndvREIwRS0zLVN5ek5feG9SUDNTRUJId1d6ZWVTcHZIUVFteHBtUnYzN3JjOU9neEN4UzhOYjQtTi1GQnNHbmhnclVldWc1ZnQxOHBLUjd0c0RqM1ZMUmxXbl9FMVFrYW1LU0lERTQwYlRsRlJTTjZENVZwdw?oc=5",
-        "source": "Google News 科技发展",
-        "published": "2026-10-18T01:25:00Z",
-        "category": "tech"
+        "title": "华为麒麟9050系列芯片量产",
+        "summary": "据观点网报道，华为麒麟9050系列芯片量产，麒麟芯片终端累计发货量超过一亿。",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yc0FCVmRZZHN4R25pVGtjM1ViNDJYWDlMRTVRT05LaUkzSEF0YjhVVndKalBfLXFzNGZJY3dFd0lDS1pVa3FYcUNDSFhvUXRDMDNWSmJrY0pPbngyNDdvTkN3?oc=5",
+        "source": "观点网",
+        "published": "2026-10-19T01:07:43Z",
+        "category": "科技发展"
       },
       {
-        "title": "Meta删除引发抓取争议的条款",
-        "summary": "Meta更新商业条款，删除允许抓取网站内容用于AI训练的相关表述。",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "source": "TechCrunch",
-        "published": "2026-10-17T21:31:32Z",
-        "category": "tech"
+        "title": "美国议员提出电子游戏所有权法案",
+        "summary": "法案拟要求联邦贸易委员会制定规则，保障消费者付费购买游戏后获得所有权，而非仅获使用许可；尚未通过。",
+        "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+        "source": "The Verge",
+        "published": "2026-10-18T16:27:51Z",
+        "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub开源许可证合规功能正式可用",
-        "summary": "GitHub Enterprise Cloud现可通过基于规则的检查集中管理依赖许可证合规。",
-        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-        "source": "GitHub Changelog",
-        "published": "2026-10-16T14:00:32Z",
-        "category": "github"
+        "title": "OpenSpace开源太空生态发布",
+        "summary": "OpenSpace开源太空生态正式发布，开源计算星座面向全球开放共建。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81X3NlS2RFQnptQXYtYjg1c1hmMmN1RURRblpQOEdQMTZXOGhsank2SWRtVmkwR0dFMi1neUg2aGRWSXd3Skg1dUpLdl9EdF9lU0J6b0p4NWt6Q1lpbGx6ek15VjJOSC12RHpEbXNRRUk?oc=5",
+        "source": "中国科技网",
+        "published": "2026-10-18T13:43:16Z",
+        "category": "GitHub/开源"
       },
       {
-        "title": "GitHub代码扫描智能修复正式发布",
-        "summary": "Agentic autofix可跨代码库分析代码扫描告警并提出修复方案，现已正式可用。",
-        "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-        "source": "GitHub Changelog",
-        "published": "2026-10-15T13:49:20Z",
-        "category": "github"
+        "title": "Husk 2.0让iPhone运行安卓游戏",
+        "summary": "据凤凰网科技报道，开源项目Husk 2.0公布，可让iPhone运行Android游戏，支持超过150款应用。",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oc2xScnkxOWN2eVh3cWpBa3I5QVZRdU9xOExSQTlWbktUay1BVmRmMm1LdUhWSHdRRGk0bmE2Z3JhMFV0NjFwMzBHa2Q?oc=5",
+        "source": "凤凰网科技",
+        "published": "2026-10-18T11:11:56Z",
+        "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "工程化隧穿实现受保护猫三能级子空间",
-      "summary": "研究报告通过工程化量子隧穿，实现受保护的猫态三能级流形。",
-      "url": "https://www.nature.com/articles/s41467-026-78631-5",
-      "source": "Nature 量子物理",
-      "published": "2026-10-17",
-      "category": "physics"
+      "title": "科学家观测到无能隙临界拓扑态",
+      "summary": "新浪报道，科学家观测到无能隙临界拓扑态，为拓扑物态研究提供新实验线索。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWpDQkF2ZlJPS3prdFdrb3Q0Vi1LbnFjRUdhS1N6aVVacGNNNGJkMGQxbk1pVFV2OFNEcGtZSEprLWp4SXNRU3JJUTVzVXF2OWo4a2N4MDRxNGhwaWQwR2JwNU42eklmVGVuR2pibFRpUG5BanhZeDJOekdpQ0dWS2ZsTQ?oc=5",
+      "source": "新浪网",
+      "published": "2026-10-18T23:53:00Z",
+      "category": "前沿物理"
     },
     {
-      "title": "压电纳米机械谐振器实现毫秒声子寿命",
-      "summary": "研究报告在压电纳米机械谐振器中实现毫秒级声子寿命。",
-      "url": "https://www.nature.com/articles/s41565-026-02289-9",
-      "source": "Nature 量子物理",
-      "published": "2026-10-16",
-      "category": "physics"
+      "title": "四台大型望远镜观测子阵列落成",
+      "summary": "中国科技网报道，由四台大型望远镜组成的观测子阵列落成。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WXYxWlJrSXdtVlJsM0lDLTFveXBPazBlbVdVeUFaUzU4aUZzb1hxWjhNTlo3NzNwV2lJRWJwTVJJZHFUZ3NsRlgzc0dBZ0hjQjgyaFQ5QzQ1U1dxWkxROGI4bXJEdmh0aGpqZkdQZDA?oc=5",
+      "source": "中国科技网",
+      "published": "2026-10-19T00:05:34Z",
+      "category": "前沿物理"
     },
     {
-      "title": "OpenAI与Anthropic联手资助数学研究",
-      "summary": "媒体称双方将投入资金和算力支持数学家开展研究，具体安排以原报道为准。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUZk8yMGlWMUtiSnl4Mk5NcVlTNEYxcVNYamNUVDJMLWxaa1ltUmZEc3k0dG0tMEN2ZUpKcmxOeXA4WGcxSFFBTQ?oc=5",
-      "source": "Google News OpenAI 数学",
-      "published": "2026-10-16T04:29:51Z",
-      "category": "ai"
+      "title": "DeepMind数学研究成果登Science",
+      "summary": "据澎湃新闻报道，DeepMind利用AI研究一道延续56年的数学难题，相关成果发表于Science。",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94YWVsczlaTFR1ZVVnV3lyNlIxUlMtb09Fd0hNZ2RjcTE4ZUlfTDBEdEdZU0xwQXB0aEthM1REVW80cDJBZGVRY2hBSm1ORnNLeEtTa2xEZEtfR1AyVmszRg?oc=5",
+      "source": "澎湃新闻",
+      "published": "2026-10-17T23:41:00Z",
+      "category": "人工智能"
     },
     {
-      "title": "DeepMind用AI加速抗菌肽搜索",
-      "summary": "Google DeepMind介绍用Antigravity for Science加速新型抗菌肽发现。",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind Blog",
-      "published": "2026-10-15T16:08:03Z",
-      "category": "ai"
-    },
-    {
-      "title": "理想汽车芯片子公司完成首轮融资",
-      "summary": "报道称理想汽车芯片子公司完成首轮融资16.25亿元，车企持续加码芯片布局。",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nWndvREIwRS0zLVN5ek5feG9SUDNTRUJId1d6ZWVTcHZIUVFteHBtUnYzN3JjOU9neEN4UzhOYjQtTi1GQnNHbmhnclVldWc1ZnQxOHBLUjd0c0RqM1ZMUmxXbl9FMVFrYW1LU0lERTQwYlRsRlJTTjZENVZwdw?oc=5",
-      "source": "Google News 科技发展",
-      "published": "2026-10-18T01:25:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "Meta删除引发抓取争议的条款",
-      "summary": "Meta更新商业条款，删除允许抓取网站内容用于AI训练的相关表述。",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Replit将OpenAI设为默认模型供应商",
+      "summary": "Replit首席执行官澄清，OpenAI将取代Anthropic成为默认模型供应商，但用户仍可使用Claude。",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
-      "published": "2026-10-17T21:31:32Z",
-      "category": "tech"
+      "published": "2026-10-17T18:48:08Z",
+      "category": "人工智能"
     },
     {
-      "title": "GitHub开源许可证合规功能正式可用",
-      "summary": "GitHub Enterprise Cloud现可通过基于规则的检查集中管理依赖许可证合规。",
-      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
-      "source": "GitHub Changelog",
-      "published": "2026-10-16T14:00:32Z",
-      "category": "github"
+      "title": "华为麒麟9050系列芯片量产",
+      "summary": "据观点网报道，华为麒麟9050系列芯片量产，麒麟芯片终端累计发货量超过一亿。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yc0FCVmRZZHN4R25pVGtjM1ViNDJYWDlMRTVRT05LaUkzSEF0YjhVVndKalBfLXFzNGZJY3dFd0lDS1pVa3FYcUNDSFhvUXRDMDNWSmJrY0pPbngyNDdvTkN3?oc=5",
+      "source": "观点网",
+      "published": "2026-10-19T01:07:43Z",
+      "category": "科技发展"
     },
     {
-      "title": "GitHub代码扫描智能修复正式发布",
-      "summary": "Agentic autofix可跨代码库分析代码扫描告警并提出修复方案，现已正式可用。",
-      "url": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-      "source": "GitHub Changelog",
-      "published": "2026-10-15T13:49:20Z",
-      "category": "github"
+      "title": "美国议员提出电子游戏所有权法案",
+      "summary": "法案拟要求联邦贸易委员会制定规则，保障消费者付费购买游戏后获得所有权，而非仅获使用许可；尚未通过。",
+      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "source": "The Verge",
+      "published": "2026-10-18T16:27:51Z",
+      "category": "科技发展"
+    },
+    {
+      "title": "OpenSpace开源太空生态发布",
+      "summary": "OpenSpace开源太空生态正式发布，开源计算星座面向全球开放共建。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81X3NlS2RFQnptQXYtYjg1c1hmMmN1RURRblpQOEdQMTZXOGhsank2SWRtVmkwR0dFMi1neUg2aGRWSXd3Skg1dUpLdl9EdF9lU0J6b0p4NWt6Q1lpbGx6ek15VjJOSC12RHpEbXNRRUk?oc=5",
+      "source": "中国科技网",
+      "published": "2026-10-18T13:43:16Z",
+      "category": "GitHub/开源"
+    },
+    {
+      "title": "Husk 2.0让iPhone运行安卓游戏",
+      "summary": "据凤凰网科技报道，开源项目Husk 2.0公布，可让iPhone运行Android游戏，支持超过150款应用。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oc2xScnkxOWN2eVh3cWpBa3I5QVZRdU9xOExSQTlWbktUay1BVmRmMm1LdUhWSHdRRGk0bmE2Z3JhMFV0NjFwMzBHa2Q?oc=5",
+      "source": "凤凰网科技",
+      "published": "2026-10-18T11:11:56Z",
+      "category": "GitHub/开源"
     }
   ]
 }
