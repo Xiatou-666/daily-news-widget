@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-19T01:49:02.501970+00:00",
+  "updated_at": "2026-10-20T02:10:40.618199+00:00",
   "categories": {
     "physics": [
       {
-        "title": "科学家观测到无能隙临界拓扑态",
-        "summary": "新浪报道，科学家观测到无能隙临界拓扑态，为拓扑物态研究提供新实验线索。",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWpDQkF2ZlJPS3prdFdrb3Q0Vi1LbnFjRUdhS1N6aVVacGNNNGJkMGQxbk1pVFV2OFNEcGtZSEprLWp4SXNRU3JJUTVzVXF2OWo4a2N4MDRxNGhwaWQwR2JwNU42eklmVGVuR2pibFRpUG5BanhZeDJOekdpQ0dWS2ZsTQ?oc=5",
-        "source": "新浪网",
-        "published": "2026-10-18T23:53:00Z",
-        "category": "前沿物理"
+        "title": "多光子系统量子相位首次测量",
+        "summary": "研究团队通过结合均匀测量与量子态层析，测量了最多15个粒子系统的量子相位。",
+        "url": "https://arxiv.org/abs/2610.25727v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-19T03:30:38Z",
+        "category": "physics"
       },
       {
-        "title": "四台大型望远镜观测子阵列落成",
-        "summary": "中国科技网报道，由四台大型望远镜组成的观测子阵列落成。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WXYxWlJrSXdtVlJsM0lDLTFveXBPazBlbVdVeUFaUzU4aUZzb1hxWjhNTlo3NzNwV2lJRWJwTVJJZHFUZ3NsRlgzc0dBZ0hjQjgyaFQ5QzQ1U1dxWkxROGI4bXJEdmh0aGpqZkdQZDA?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-19T00:05:34Z",
-        "category": "前沿物理"
+        "title": "高效分子哈密顿量块编码方法",
+        "summary": "研究提出SVD-THC方法，为不同分子构型集合构建更高效的量子哈密顿量块编码电路。",
+        "url": "https://arxiv.org/abs/2610.25968v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-19T08:01:08Z",
+        "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "DeepMind数学研究成果登Science",
-        "summary": "据澎湃新闻报道，DeepMind利用AI研究一道延续56年的数学难题，相关成果发表于Science。",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94YWVsczlaTFR1ZVVnV3lyNlIxUlMtb09Fd0hNZ2RjcTE4ZUlfTDBEdEdZU0xwQXB0aEthM1REVW80cDJBZGVRY2hBSm1ORnNLeEtTa2xEZEtfR1AyVmszRg?oc=5",
-        "source": "澎湃新闻",
-        "published": "2026-10-17T23:41:00Z",
-        "category": "人工智能"
+        "title": "OpenAI提升低资源语言编程能力",
+        "summary": "OpenAI介绍面向低资源编程语言的ChatGPT改进，并发布软件工程、SQLite和COBOL迁移评测。",
+        "url": "https://openai.com/index/low-resource-programming-languages",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-19T12:00:00Z",
+        "category": "ai"
       },
       {
-        "title": "Replit将OpenAI设为默认模型供应商",
-        "summary": "Replit首席执行官澄清，OpenAI将取代Anthropic成为默认模型供应商，但用户仍可使用Claude。",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "source": "TechCrunch",
-        "published": "2026-10-17T18:48:08Z",
-        "category": "人工智能"
+        "title": "生成式AI助力原子力显微超分辨成像",
+        "summary": "中国科学院介绍生成式人工智能赋能原子力显微镜超分辨成像的研究进展。",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pS3QyVHRWbk5oX0hOT0c4bTJsQzhQdmJUMVgtY0hwckptQmhndDkxY2hWeXJIRUpUb1hKeE5aZUVHckE3MVVTRHUzaTBBZGFTUjVwTmFLVGFYMGFjMjNJUFhJNGI?oc=5",
+        "source": "Google News 人工智能",
+        "published": "2026-10-20T01:13:15Z",
+        "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "华为麒麟9050系列芯片量产",
-        "summary": "据观点网报道，华为麒麟9050系列芯片量产，麒麟芯片终端累计发货量超过一亿。",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yc0FCVmRZZHN4R25pVGtjM1ViNDJYWDlMRTVRT05LaUkzSEF0YjhVVndKalBfLXFzNGZJY3dFd0lDS1pVa3FYcUNDSFhvUXRDMDNWSmJrY0pPbngyNDdvTkN3?oc=5",
-        "source": "观点网",
-        "published": "2026-10-19T01:07:43Z",
-        "category": "科技发展"
+        "title": "亚马逊推出TorchNeuron挑战CUDA",
+        "summary": "亚马逊发布TorchNeuron开发工具，旨在让PyTorch应用更容易运行在Trainium等替代芯片上。",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "source": "TechCrunch",
+        "published": "2026-10-19T20:09:24Z",
+        "category": "tech"
       },
       {
-        "title": "美国议员提出电子游戏所有权法案",
-        "summary": "法案拟要求联邦贸易委员会制定规则，保障消费者付费购买游戏后获得所有权，而非仅获使用许可；尚未通过。",
-        "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+        "title": "亚马逊将资助印第安纳州核电站",
+        "summary": "亚马逊与X-energy及AEP签署协议，拟资助建设一座最高提供960兆瓦电力的核能设施。",
+        "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
         "source": "The Verge",
-        "published": "2026-10-18T16:27:51Z",
-        "category": "科技发展"
+        "published": "2026-10-19T15:44:20Z",
+        "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "OpenSpace开源太空生态发布",
-        "summary": "OpenSpace开源太空生态正式发布，开源计算星座面向全球开放共建。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81X3NlS2RFQnptQXYtYjg1c1hmMmN1RURRblpQOEdQMTZXOGhsank2SWRtVmkwR0dFMi1neUg2aGRWSXd3Skg1dUpLdl9EdF9lU0J6b0p4NWt6Q1lpbGx6ek15VjJOSC12RHpEbXNRRUk?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-18T13:43:16Z",
-        "category": "GitHub/开源"
+        "title": "GitHub推出Copilot模型策略API",
+        "summary": "GitHub新增REST API，可查询和更新企业、团队、应用及组织的Copilot模型策略。",
+        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "source": "GitHub Changelog",
+        "published": "2026-10-19T21:32:18Z",
+        "category": "github"
       },
       {
-        "title": "Husk 2.0让iPhone运行安卓游戏",
-        "summary": "据凤凰网科技报道，开源项目Husk 2.0公布，可让iPhone运行Android游戏，支持超过150款应用。",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oc2xScnkxOWN2eVh3cWpBa3I5QVZRdU9xOExSQTlWbktUay1BVmRmMm1LdUhWSHdRRGk0bmE2Z3JhMFV0NjFwMzBHa2Q?oc=5",
-        "source": "凤凰网科技",
-        "published": "2026-10-18T11:11:56Z",
-        "category": "GitHub/开源"
+        "title": "GitHub Copilot支持跨应用续接会话",
+        "summary": "Copilot应用会话可转移至VS Code，并保留对话、代码变更和工作上下文。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+        "source": "GitHub Blog",
+        "published": "2026-10-19T18:47:22Z",
+        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "科学家观测到无能隙临界拓扑态",
-      "summary": "新浪报道，科学家观测到无能隙临界拓扑态，为拓扑物态研究提供新实验线索。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdWpDQkF2ZlJPS3prdFdrb3Q0Vi1LbnFjRUdhS1N6aVVacGNNNGJkMGQxbk1pVFV2OFNEcGtZSEprLWp4SXNRU3JJUTVzVXF2OWo4a2N4MDRxNGhwaWQwR2JwNU42eklmVGVuR2pibFRpUG5BanhZeDJOekdpQ0dWS2ZsTQ?oc=5",
-      "source": "新浪网",
-      "published": "2026-10-18T23:53:00Z",
-      "category": "前沿物理"
+      "title": "多光子系统量子相位首次测量",
+      "summary": "研究团队通过结合均匀测量与量子态层析，测量了最多15个粒子系统的量子相位。",
+      "url": "https://arxiv.org/abs/2610.25727v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-19T03:30:38Z",
+      "category": "physics"
     },
     {
-      "title": "四台大型望远镜观测子阵列落成",
-      "summary": "中国科技网报道，由四台大型望远镜组成的观测子阵列落成。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WXYxWlJrSXdtVlJsM0lDLTFveXBPazBlbVdVeUFaUzU4aUZzb1hxWjhNTlo3NzNwV2lJRWJwTVJJZHFUZ3NsRlgzc0dBZ0hjQjgyaFQ5QzQ1U1dxWkxROGI4bXJEdmh0aGpqZkdQZDA?oc=5",
-      "source": "中国科技网",
-      "published": "2026-10-19T00:05:34Z",
-      "category": "前沿物理"
+      "title": "高效分子哈密顿量块编码方法",
+      "summary": "研究提出SVD-THC方法，为不同分子构型集合构建更高效的量子哈密顿量块编码电路。",
+      "url": "https://arxiv.org/abs/2610.25968v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-19T08:01:08Z",
+      "category": "physics"
     },
     {
-      "title": "DeepMind数学研究成果登Science",
-      "summary": "据澎湃新闻报道，DeepMind利用AI研究一道延续56年的数学难题，相关成果发表于Science。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94YWVsczlaTFR1ZVVnV3lyNlIxUlMtb09Fd0hNZ2RjcTE4ZUlfTDBEdEdZU0xwQXB0aEthM1REVW80cDJBZGVRY2hBSm1ORnNLeEtTa2xEZEtfR1AyVmszRg?oc=5",
-      "source": "澎湃新闻",
-      "published": "2026-10-17T23:41:00Z",
-      "category": "人工智能"
+      "title": "OpenAI提升低资源语言编程能力",
+      "summary": "OpenAI介绍面向低资源编程语言的ChatGPT改进，并发布软件工程、SQLite和COBOL迁移评测。",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-19T12:00:00Z",
+      "category": "ai"
     },
     {
-      "title": "Replit将OpenAI设为默认模型供应商",
-      "summary": "Replit首席执行官澄清，OpenAI将取代Anthropic成为默认模型供应商，但用户仍可使用Claude。",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "生成式AI助力原子力显微超分辨成像",
+      "summary": "中国科学院介绍生成式人工智能赋能原子力显微镜超分辨成像的研究进展。",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pS3QyVHRWbk5oX0hOT0c4bTJsQzhQdmJUMVgtY0hwckptQmhndDkxY2hWeXJIRUpUb1hKeE5aZUVHckE3MVVTRHUzaTBBZGFTUjVwTmFLVGFYMGFjMjNJUFhJNGI?oc=5",
+      "source": "Google News 人工智能",
+      "published": "2026-10-20T01:13:15Z",
+      "category": "ai"
+    },
+    {
+      "title": "亚马逊推出TorchNeuron挑战CUDA",
+      "summary": "亚马逊发布TorchNeuron开发工具，旨在让PyTorch应用更容易运行在Trainium等替代芯片上。",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
       "source": "TechCrunch",
-      "published": "2026-10-17T18:48:08Z",
-      "category": "人工智能"
+      "published": "2026-10-19T20:09:24Z",
+      "category": "tech"
     },
     {
-      "title": "华为麒麟9050系列芯片量产",
-      "summary": "据观点网报道，华为麒麟9050系列芯片量产，麒麟芯片终端累计发货量超过一亿。",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yc0FCVmRZZHN4R25pVGtjM1ViNDJYWDlMRTVRT05LaUkzSEF0YjhVVndKalBfLXFzNGZJY3dFd0lDS1pVa3FYcUNDSFhvUXRDMDNWSmJrY0pPbngyNDdvTkN3?oc=5",
-      "source": "观点网",
-      "published": "2026-10-19T01:07:43Z",
-      "category": "科技发展"
-    },
-    {
-      "title": "美国议员提出电子游戏所有权法案",
-      "summary": "法案拟要求联邦贸易委员会制定规则，保障消费者付费购买游戏后获得所有权，而非仅获使用许可；尚未通过。",
-      "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "title": "亚马逊将资助印第安纳州核电站",
+      "summary": "亚马逊与X-energy及AEP签署协议，拟资助建设一座最高提供960兆瓦电力的核能设施。",
+      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
       "source": "The Verge",
-      "published": "2026-10-18T16:27:51Z",
-      "category": "科技发展"
+      "published": "2026-10-19T15:44:20Z",
+      "category": "tech"
     },
     {
-      "title": "OpenSpace开源太空生态发布",
-      "summary": "OpenSpace开源太空生态正式发布，开源计算星座面向全球开放共建。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81X3NlS2RFQnptQXYtYjg1c1hmMmN1RURRblpQOEdQMTZXOGhsank2SWRtVmkwR0dFMi1neUg2aGRWSXd3Skg1dUpLdl9EdF9lU0J6b0p4NWt6Q1lpbGx6ek15VjJOSC12RHpEbXNRRUk?oc=5",
-      "source": "中国科技网",
-      "published": "2026-10-18T13:43:16Z",
-      "category": "GitHub/开源"
+      "title": "GitHub推出Copilot模型策略API",
+      "summary": "GitHub新增REST API，可查询和更新企业、团队、应用及组织的Copilot模型策略。",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog",
+      "published": "2026-10-19T21:32:18Z",
+      "category": "github"
     },
     {
-      "title": "Husk 2.0让iPhone运行安卓游戏",
-      "summary": "据凤凰网科技报道，开源项目Husk 2.0公布，可让iPhone运行Android游戏，支持超过150款应用。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oc2xScnkxOWN2eVh3cWpBa3I5QVZRdU9xOExSQTlWbktUay1BVmRmMm1LdUhWSHdRRGk0bmE2Z3JhMFV0NjFwMzBHa2Q?oc=5",
-      "source": "凤凰网科技",
-      "published": "2026-10-18T11:11:56Z",
-      "category": "GitHub/开源"
+      "title": "GitHub Copilot支持跨应用续接会话",
+      "summary": "Copilot应用会话可转移至VS Code，并保留对话、代码变更和工作上下文。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub Blog",
+      "published": "2026-10-19T18:47:22Z",
+      "category": "github"
     }
   ]
 }
