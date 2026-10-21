@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-20T02:10:40.618199+00:00",
+  "updated_at": "2026-10-21T02:05:37.912428+00:00",
   "categories": {
     "physics": [
       {
-        "title": "多光子系统量子相位首次测量",
-        "summary": "研究团队通过结合均匀测量与量子态层析，测量了最多15个粒子系统的量子相位。",
-        "url": "https://arxiv.org/abs/2610.25727v1",
+        "title": "非阿贝尔晶格出现边界敏感量子序",
+        "summary": "研究发现，非阿贝尔晶格可在边界场诱导下形成欧氏空间没有的新型体相有序。",
+        "url": "https://arxiv.org/abs/2610.26859v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-19T03:30:38Z",
+        "published": "2026-10-19T17:59:58Z",
         "category": "physics"
       },
       {
-        "title": "高效分子哈密顿量块编码方法",
-        "summary": "研究提出SVD-THC方法，为不同分子构型集合构建更高效的量子哈密顿量块编码电路。",
-        "url": "https://arxiv.org/abs/2610.25968v1",
+        "title": "量子算法求解大规模有限时域控制",
+        "summary": "研究提出量子算法，直接处理状态—协态最优性方程，以求解大规模连续时间线性二次调节问题。",
+        "url": "https://arxiv.org/abs/2610.26843v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-19T08:01:08Z",
+        "published": "2026-10-19T17:58:57Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI提升低资源语言编程能力",
-        "summary": "OpenAI介绍面向低资源编程语言的ChatGPT改进，并发布软件工程、SQLite和COBOL迁移评测。",
-        "url": "https://openai.com/index/low-resource-programming-languages",
+        "title": "OpenAI收购生物科技公司Orchestra Bio",
+        "summary": "OpenAI将引入Orchestra Bio的团队与技术，用于推进生命科学研发、药物开发及新疗法研究。",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
         "source": "OpenAI 官方新闻",
-        "published": "2026-10-19T12:00:00Z",
+        "published": "2026-10-20T00:00:00Z",
         "category": "ai"
       },
       {
-        "title": "生成式AI助力原子力显微超分辨成像",
-        "summary": "中国科学院介绍生成式人工智能赋能原子力显微镜超分辨成像的研究进展。",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pS3QyVHRWbk5oX0hOT0c4bTJsQzhQdmJUMVgtY0hwckptQmhndDkxY2hWeXJIRUpUb1hKeE5aZUVHckE3MVVTRHUzaTBBZGFTUjVwTmFLVGFYMGFjMjNJUFhJNGI?oc=5",
-        "source": "Google News 人工智能",
-        "published": "2026-10-20T01:13:15Z",
+        "title": "陶哲轩等讨论AI与数学研究规范",
+        "summary": "邓煜与陶哲轩对谈AI与数学，强调透明展示推理过程，并呼吁数学家更早参与AI研发。",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWURCVzViYk14RGxyUmFnblFXazdCX0R0Y0VYN2xNU0pCdlZoYldGQ0xZRUpvSGZFYmd3ak9TWUEzRmpQeF9mQnFXMl9GRGo2d24tN1hnLWlCcFdoZ2pXdWhpUDE0UEVjV2JaZV9DdGRqUEJ4RVYxVXVHQTdUb0dyYWU5aw?oc=5",
+        "source": "新浪网",
+        "published": "2026-10-21T00:10:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "亚马逊推出TorchNeuron挑战CUDA",
-        "summary": "亚马逊发布TorchNeuron开发工具，旨在让PyTorch应用更容易运行在Trainium等替代芯片上。",
-        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "title": "特斯拉与SpaceX成立委员会评估合并",
+        "summary": "马斯克称两家公司已成立特别委员会，由独立董事组成，以评估潜在合并方案。",
+        "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
         "source": "TechCrunch",
-        "published": "2026-10-19T20:09:24Z",
+        "published": "2026-10-20T22:57:57Z",
         "category": "tech"
       },
       {
-        "title": "亚马逊将资助印第安纳州核电站",
-        "summary": "亚马逊与X-energy及AEP签署协议，拟资助建设一座最高提供960兆瓦电力的核能设施。",
-        "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-        "source": "The Verge",
-        "published": "2026-10-19T15:44:20Z",
+        "title": "谷歌将个性化Gemini带入汽车",
+        "summary": "Gemini将在Android Auto及内置Google服务的汽车中调用邮箱、日历、地图等信息，提供更个性化回答。",
+        "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+        "source": "TechCrunch",
+        "published": "2026-10-20T20:00:00Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub推出Copilot模型策略API",
-        "summary": "GitHub新增REST API，可查询和更新企业、团队、应用及组织的Copilot模型策略。",
-        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "title": "GitHub预览包防火墙",
+        "summary": "GitHub推出包防火墙公开预览版，旨在阻止软件包安装阶段的恶意攻击及凭据窃取。",
+        "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
         "source": "GitHub Changelog",
-        "published": "2026-10-19T21:32:18Z",
+        "published": "2026-10-20T16:11:53Z",
         "category": "github"
       },
       {
-        "title": "GitHub Copilot支持跨应用续接会话",
-        "summary": "Copilot应用会话可转移至VS Code，并保留对话、代码变更和工作上下文。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-        "source": "GitHub Blog",
-        "published": "2026-10-19T18:47:22Z",
+        "title": "DeepSeek开源内部推理框架",
+        "summary": "DeepSeek宣布全面开源内部AI推理框架，相关报道指其兼容英伟达和华为昇腾芯片。",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRE1MbXd4OHF5R3RUS3dyZGNweDJUR0R3X2t6WE12VjNCaVRWLVZGSnNkaU9keU94WlJlRWVsWDhpLVBqZzhpQ3djN3hDYXRXN1l3?oc=5",
+        "source": "电子工程专辑",
+        "published": "2026-10-20T12:48:00Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "多光子系统量子相位首次测量",
-      "summary": "研究团队通过结合均匀测量与量子态层析，测量了最多15个粒子系统的量子相位。",
-      "url": "https://arxiv.org/abs/2610.25727v1",
+      "title": "非阿贝尔晶格出现边界敏感量子序",
+      "summary": "研究发现，非阿贝尔晶格可在边界场诱导下形成欧氏空间没有的新型体相有序。",
+      "url": "https://arxiv.org/abs/2610.26859v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-19T03:30:38Z",
+      "published": "2026-10-19T17:59:58Z",
       "category": "physics"
     },
     {
-      "title": "高效分子哈密顿量块编码方法",
-      "summary": "研究提出SVD-THC方法，为不同分子构型集合构建更高效的量子哈密顿量块编码电路。",
-      "url": "https://arxiv.org/abs/2610.25968v1",
+      "title": "量子算法求解大规模有限时域控制",
+      "summary": "研究提出量子算法，直接处理状态—协态最优性方程，以求解大规模连续时间线性二次调节问题。",
+      "url": "https://arxiv.org/abs/2610.26843v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-19T08:01:08Z",
+      "published": "2026-10-19T17:58:57Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI提升低资源语言编程能力",
-      "summary": "OpenAI介绍面向低资源编程语言的ChatGPT改进，并发布软件工程、SQLite和COBOL迁移评测。",
-      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "OpenAI收购生物科技公司Orchestra Bio",
+      "summary": "OpenAI将引入Orchestra Bio的团队与技术，用于推进生命科学研发、药物开发及新疗法研究。",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
       "source": "OpenAI 官方新闻",
-      "published": "2026-10-19T12:00:00Z",
+      "published": "2026-10-20T00:00:00Z",
       "category": "ai"
     },
     {
-      "title": "生成式AI助力原子力显微超分辨成像",
-      "summary": "中国科学院介绍生成式人工智能赋能原子力显微镜超分辨成像的研究进展。",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pS3QyVHRWbk5oX0hOT0c4bTJsQzhQdmJUMVgtY0hwckptQmhndDkxY2hWeXJIRUpUb1hKeE5aZUVHckE3MVVTRHUzaTBBZGFTUjVwTmFLVGFYMGFjMjNJUFhJNGI?oc=5",
-      "source": "Google News 人工智能",
-      "published": "2026-10-20T01:13:15Z",
+      "title": "陶哲轩等讨论AI与数学研究规范",
+      "summary": "邓煜与陶哲轩对谈AI与数学，强调透明展示推理过程，并呼吁数学家更早参与AI研发。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWURCVzViYk14RGxyUmFnblFXazdCX0R0Y0VYN2xNU0pCdlZoYldGQ0xZRUpvSGZFYmd3ak9TWUEzRmpQeF9mQnFXMl9GRGo2d24tN1hnLWlCcFdoZ2pXdWhpUDE0UEVjV2JaZV9DdGRqUEJ4RVYxVXVHQTdUb0dyYWU5aw?oc=5",
+      "source": "新浪网",
+      "published": "2026-10-21T00:10:00Z",
       "category": "ai"
     },
     {
-      "title": "亚马逊推出TorchNeuron挑战CUDA",
-      "summary": "亚马逊发布TorchNeuron开发工具，旨在让PyTorch应用更容易运行在Trainium等替代芯片上。",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "title": "特斯拉与SpaceX成立委员会评估合并",
+      "summary": "马斯克称两家公司已成立特别委员会，由独立董事组成，以评估潜在合并方案。",
+      "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
       "source": "TechCrunch",
-      "published": "2026-10-19T20:09:24Z",
+      "published": "2026-10-20T22:57:57Z",
       "category": "tech"
     },
     {
-      "title": "亚马逊将资助印第安纳州核电站",
-      "summary": "亚马逊与X-energy及AEP签署协议，拟资助建设一座最高提供960兆瓦电力的核能设施。",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "source": "The Verge",
-      "published": "2026-10-19T15:44:20Z",
+      "title": "谷歌将个性化Gemini带入汽车",
+      "summary": "Gemini将在Android Auto及内置Google服务的汽车中调用邮箱、日历、地图等信息，提供更个性化回答。",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:00:00Z",
       "category": "tech"
     },
     {
-      "title": "GitHub推出Copilot模型策略API",
-      "summary": "GitHub新增REST API，可查询和更新企业、团队、应用及组织的Copilot模型策略。",
-      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "title": "GitHub预览包防火墙",
+      "summary": "GitHub推出包防火墙公开预览版，旨在阻止软件包安装阶段的恶意攻击及凭据窃取。",
+      "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
       "source": "GitHub Changelog",
-      "published": "2026-10-19T21:32:18Z",
+      "published": "2026-10-20T16:11:53Z",
       "category": "github"
     },
     {
-      "title": "GitHub Copilot支持跨应用续接会话",
-      "summary": "Copilot应用会话可转移至VS Code，并保留对话、代码变更和工作上下文。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "source": "GitHub Blog",
-      "published": "2026-10-19T18:47:22Z",
+      "title": "DeepSeek开源内部推理框架",
+      "summary": "DeepSeek宣布全面开源内部AI推理框架，相关报道指其兼容英伟达和华为昇腾芯片。",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRE1MbXd4OHF5R3RUS3dyZGNweDJUR0R3X2t6WE12VjNCaVRWLVZGSnNkaU9keU94WlJlRWVsWDhpLVBqZzhpQ3djN3hDYXRXN1l3?oc=5",
+      "source": "电子工程专辑",
+      "published": "2026-10-20T12:48:00Z",
       "category": "github"
     }
   ]
