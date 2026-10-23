@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-22T01:57:42.225221+00:00",
+  "updated_at": "2026-10-23T02:01:19.702503+00:00",
   "categories": {
     "physics": [
       {
-        "title": "Quantum-Enhanced Matterwave In",
-        "summary": "We propose a quantum-enhanced matter-wave interferometry protocol based on fract",
-        "url": "https://arxiv.org/abs/2610.29562v1",
+        "title": "阿秒光场纠缠认证方法",
+        "summary": "研究提出可实验验证的可分性测试，并用光电子干涉直接认证阿秒极紫外辐射中的纠缠。",
+        "url": "https://arxiv.org/abs/2610.31187v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-21T10:55:22Z",
+        "published": "2026-10-22T12:38:52Z",
         "category": "physics"
       },
       {
-        "title": "Splitting Probability in Monit",
-        "summary": "We consider a continuous-time quantum walk stroboscopically subjected to project",
-        "url": "https://arxiv.org/abs/2610.29547v1",
+        "title": "量子气体中实现超漏",
+        "summary": "研究利用光学超晶格选择性输运超流体，实现超流成分相干约瑟夫森输运并抑制正常流动。",
+        "url": "https://arxiv.org/abs/2610.31185v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-21T10:34:26Z",
+        "published": "2026-10-22T12:35:00Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "【理响中国·幸福有“理”】AI拼才会赢，闯出数智新未来 - ",
-        "summary": "【理响中国·幸福有“理”】AI拼才会赢，闯出数智新未来 &nbsp;&nbsp; 光明网理论",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBES1Z1ZDBPSWV5M3U0QU1uYXg0SE1Id2VDaWY0NEwyQ2xTdEhLYkVjM19taFQxbVZqVEdoaDltaVBxcUNYQTM2OVBVWXc3a3ZCQlhNcl8xdU1xalE4Z1J0RXJoQQ?oc=5",
-        "source": "Google News 人工智能",
-        "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+        "title": "OpenAI推出 Decisions API",
+        "summary": "OpenAI发布面向应用的 Decisions API，主打更快速、聚焦且低成本的决策能力。",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-22T19:00:00Z",
         "category": "ai"
       },
       {
-        "title": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 ",
-        "summary": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 &nbsp;&nbsp; BBC",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUkZ3SWJuSkk4eHNSaFVTUzFGQXYwVktNWFNlemVYQVVtQjRyY1NFdkVBMGlod0N1UEYyTXNpYUlmcThBdkdaR1hrclhXTmhKM2hBODJCVUk5YWlnSXVJSy1lTWRBSkXSAWxBVV95cUxNbHhpZF9CRnFHb0QtNWtfdUZSQWJTaEhqeTZlT1c4QVFZVmh5MUcwVngwTEh4UjZ2WkVZdGtkR1lYWUNvbU1ZTzJFVWs1eHBzZDlmLTMtdXRmQmJCdFRVR2VaYVEyTjlxUG1UV3k?oc=5",
-        "source": "Google News 人工智能",
-        "published": "Tue, 20 Oct 2026 08:03:59 GMT",
+        "title": "AI智能体助力生物数据研究",
+        "summary": "OpenAI与合作方使用分布式AI智能体分析数百万脑细胞数据，寻找潜在生物学研究线索。",
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-21T04:50:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "新能源、新智造：“十大科技前瞻”聚焦未来 - 新华网",
-        "summary": "新能源、新智造：“十大科技前瞻”聚焦未来 &nbsp;&nbsp; 新华网",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMTJib3g0dzB0Ynp4elZXVVJKa1k3elZqbE1kcDlKM3pWaGdpWmg5alJzYTlrUmgwcEg4QTBpcEhMVVpUUDdSZ3hFd25IYmEzUktCZ2tKdDJRelZ5MmZKalVxYW9HVVllM0lkSGYtcE8tVUJtNGVua1VLMWNLUQ?oc=5",
-        "source": "Google News 科技发展",
-        "published": "Wed, 21 Oct 2026 23:21:01 GMT",
+        "title": "FCC首次封禁含外国监控芯片设备",
+        "summary": "美国联邦通信委员会首次依据新权限，阻止两款含其认定外国监控芯片的设备进入市场。",
+        "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+        "source": "The Verge",
+        "published": "2026-10-22T16:23:48-04:00",
         "category": "tech"
       },
       {
-        "title": "国家能源局发文推动煤电与新能源融合发展 - 北京市人民政府门",
-        "summary": "国家能源局发文推动煤电与新能源融合发展 &nbsp;&nbsp; 北京市人民政府门户网站",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RNHMzTW8xWlhBUzZJem16MThhdTZRTDluRUE0NDNneGROaGZtWDJzcVE1bl91VXNlUHJxbGtoVEVBbmUxVElVRVpHZkNNamZzUkV2R3dnOElmNHVJWWNfRFNIZnNKa3d3bjN0aFFJS3dCQjFsRXVn?oc=5",
-        "source": "Google News 科技发展",
-        "published": "Thu, 22 Oct 2026 01:20:00 GMT",
+        "title": "三季度全球PC出货量降21%",
+        "summary": "Counterpoint数据显示，受内存涨价影响，2026年第三季度全球PC出货量同比下降21%。",
+        "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+        "source": "The Verge",
+        "published": "2026-10-22T17:30:39-04:00",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "The bridge to agent-scale Git ",
-        "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-r",
-        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "source": "GitHub Blog",
-        "published": "Wed, 21 Oct 2026 16:00:00 +0000",
+        "title": "Copilot用量指标支持自定义智能体",
+        "summary": "GitHub用量指标API现可显示组织创建的技能、自定义智能体、MCP服务器、斜杠命令和插件名称。",
+        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "source": "GitHub Changelog",
+        "published": "2026-10-22T22:19:17Z",
         "category": "github"
       },
       {
-        "title": "How 3 Java Champions are using",
-        "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accele",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+        "title": "GitHub迁移大部分仓库至Azure",
+        "summary": "GitHub介绍其基础设施迁移：已将99.99999%的仓库副本迁至Azure，并以多种机制扩展读取能力。",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
         "source": "GitHub Blog",
-        "published": "Tue, 20 Oct 2026 16:05:03 +0000",
+        "published": "2026-10-21T16:00:00Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "Quantum-Enhanced Matterwave In",
-      "summary": "We propose a quantum-enhanced matter-wave interferometry protocol based on fract",
-      "url": "https://arxiv.org/abs/2610.29562v1",
+      "title": "阿秒光场纠缠认证方法",
+      "summary": "研究提出可实验验证的可分性测试，并用光电子干涉直接认证阿秒极紫外辐射中的纠缠。",
+      "url": "https://arxiv.org/abs/2610.31187v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-21T10:55:22Z",
+      "published": "2026-10-22T12:38:52Z",
       "category": "physics"
     },
     {
-      "title": "Splitting Probability in Monit",
-      "summary": "We consider a continuous-time quantum walk stroboscopically subjected to project",
-      "url": "https://arxiv.org/abs/2610.29547v1",
+      "title": "量子气体中实现超漏",
+      "summary": "研究利用光学超晶格选择性输运超流体，实现超流成分相干约瑟夫森输运并抑制正常流动。",
+      "url": "https://arxiv.org/abs/2610.31185v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-21T10:34:26Z",
+      "published": "2026-10-22T12:35:00Z",
       "category": "physics"
     },
     {
-      "title": "【理响中国·幸福有“理”】AI拼才会赢，闯出数智新未来 - ",
-      "summary": "【理响中国·幸福有“理”】AI拼才会赢，闯出数智新未来 &nbsp;&nbsp; 光明网理论",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBES1Z1ZDBPSWV5M3U0QU1uYXg0SE1Id2VDaWY0NEwyQ2xTdEhLYkVjM19taFQxbVZqVEdoaDltaVBxcUNYQTM2OVBVWXc3a3ZCQlhNcl8xdU1xalE4Z1J0RXJoQQ?oc=5",
-      "source": "Google News 人工智能",
-      "published": "Thu, 22 Oct 2026 01:00:00 GMT",
+      "title": "OpenAI推出 Decisions API",
+      "summary": "OpenAI发布面向应用的 Decisions API，主打更快速、聚焦且低成本的决策能力。",
+      "url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-22T19:00:00Z",
       "category": "ai"
     },
     {
-      "title": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 ",
-      "summary": "美国下令政府系统禁用DeepSeek：中美AI竞争继续升温 &nbsp;&nbsp; BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xUkZ3SWJuSkk4eHNSaFVTUzFGQXYwVktNWFNlemVYQVVtQjRyY1NFdkVBMGlod0N1UEYyTXNpYUlmcThBdkdaR1hrclhXTmhKM2hBODJCVUk5YWlnSXVJSy1lTWRBSkXSAWxBVV95cUxNbHhpZF9CRnFHb0QtNWtfdUZSQWJTaEhqeTZlT1c4QVFZVmh5MUcwVngwTEh4UjZ2WkVZdGtkR1lYWUNvbU1ZTzJFVWs1eHBzZDlmLTMtdXRmQmJCdFRVR2VaYVEyTjlxUG1UV3k?oc=5",
-      "source": "Google News 人工智能",
-      "published": "Tue, 20 Oct 2026 08:03:59 GMT",
+      "title": "AI智能体助力生物数据研究",
+      "summary": "OpenAI与合作方使用分布式AI智能体分析数百万脑细胞数据，寻找潜在生物学研究线索。",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-21T04:50:00Z",
       "category": "ai"
     },
     {
-      "title": "新能源、新智造：“十大科技前瞻”聚焦未来 - 新华网",
-      "summary": "新能源、新智造：“十大科技前瞻”聚焦未来 &nbsp;&nbsp; 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMTJib3g0dzB0Ynp4elZXVVJKa1k3elZqbE1kcDlKM3pWaGdpWmg5alJzYTlrUmgwcEg4QTBpcEhMVVpUUDdSZ3hFd25IYmEzUktCZ2tKdDJRelZ5MmZKalVxYW9HVVllM0lkSGYtcE8tVUJtNGVua1VLMWNLUQ?oc=5",
-      "source": "Google News 科技发展",
-      "published": "Wed, 21 Oct 2026 23:21:01 GMT",
+      "title": "FCC首次封禁含外国监控芯片设备",
+      "summary": "美国联邦通信委员会首次依据新权限，阻止两款含其认定外国监控芯片的设备进入市场。",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "source": "The Verge",
+      "published": "2026-10-22T16:23:48-04:00",
       "category": "tech"
     },
     {
-      "title": "国家能源局发文推动煤电与新能源融合发展 - 北京市人民政府门",
-      "summary": "国家能源局发文推动煤电与新能源融合发展 &nbsp;&nbsp; 北京市人民政府门户网站",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RNHMzTW8xWlhBUzZJem16MThhdTZRTDluRUE0NDNneGROaGZtWDJzcVE1bl91VXNlUHJxbGtoVEVBbmUxVElVRVpHZkNNamZzUkV2R3dnOElmNHVJWWNfRFNIZnNKa3d3bjN0aFFJS3dCQjFsRXVn?oc=5",
-      "source": "Google News 科技发展",
-      "published": "Thu, 22 Oct 2026 01:20:00 GMT",
+      "title": "三季度全球PC出货量降21%",
+      "summary": "Counterpoint数据显示，受内存涨价影响，2026年第三季度全球PC出货量同比下降21%。",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "source": "The Verge",
+      "published": "2026-10-22T17:30:39-04:00",
       "category": "tech"
     },
     {
-      "title": "The bridge to agent-scale Git ",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-r",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub Blog",
-      "published": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "title": "Copilot用量指标支持自定义智能体",
+      "summary": "GitHub用量指标API现可显示组织创建的技能、自定义智能体、MCP服务器、斜杠命令和插件名称。",
+      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "source": "GitHub Changelog",
+      "published": "2026-10-22T22:19:17Z",
       "category": "github"
     },
     {
-      "title": "How 3 Java Champions are using",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accele",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "title": "GitHub迁移大部分仓库至Azure",
+      "summary": "GitHub介绍其基础设施迁移：已将99.99999%的仓库副本迁至Azure，并以多种机制扩展读取能力。",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "source": "GitHub Blog",
-      "published": "Tue, 20 Oct 2026 16:05:03 +0000",
+      "published": "2026-10-21T16:00:00Z",
       "category": "github"
     }
   ]
