@@ -1,72 +1,72 @@
 {
-  "updated_at": "2026-10-23T02:01:19.702503+00:00",
+  "updated_at": "2026-10-24T02:01:18.139479+00:00",
   "categories": {
     "physics": [
       {
-        "title": "阿秒光场纠缠认证方法",
-        "summary": "研究提出可实验验证的可分性测试，并用光电子干涉直接认证阿秒极紫外辐射中的纠缠。",
-        "url": "https://arxiv.org/abs/2610.31187v1",
+        "title": "量子参数估计存在“真实值”禁行结果",
+        "summary": "研究探讨量子参数估计与测量前独立存在的唯一真实值之间的兼容条件，并提出一般化估计框架。",
+        "url": "https://arxiv.org/abs/2610.31632v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-22T12:38:52Z",
+        "published": "2026-10-22T17:49:03Z",
         "category": "physics"
       },
       {
-        "title": "量子气体中实现超漏",
-        "summary": "研究利用光学超晶格选择性输运超流体，实现超流成分相干约瑟夫森输运并抑制正常流动。",
-        "url": "https://arxiv.org/abs/2610.31185v1",
+        "title": "量子模拟筛选固体氧化物电池材料",
+        "summary": "研究提出端到端量子计算框架，用于评估强关联氧电极材料的氧空位形成能、迁移势垒和电子电导率。",
+        "url": "https://arxiv.org/abs/2610.31591v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-22T12:35:00Z",
+        "published": "2026-10-22T17:26:29Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI推出 Decisions API",
-        "summary": "OpenAI发布面向应用的 Decisions API，主打更快速、聚焦且低成本的决策能力。",
-        "url": "https://openai.com/index/decisions-api",
+        "title": "OpenAI强化前沿模型训练环境安全",
+        "summary": "OpenAI介绍前沿模型训练与评估环境的隔离措施，包括离线环境和高算力红队测试。",
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "source": "OpenAI 官方新闻",
-        "published": "2026-10-22T19:00:00Z",
+        "published": "2026-10-23T10:00:00Z",
         "category": "ai"
       },
       {
-        "title": "AI智能体助力生物数据研究",
-        "summary": "OpenAI与合作方使用分布式AI智能体分析数百万脑细胞数据，寻找潜在生物学研究线索。",
-        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-21T04:50:00Z",
+        "title": "AI辅助研究构想工具LitPivot发布",
+        "summary": "LitPivot通过动态语境化分析文献版图，帮助研究人员发展和评估新的研究想法。",
+        "url": "https://huggingface.co/blog/allenai/litpivot",
+        "source": "Hugging Face Blog",
+        "published": "2026-10-23T16:15:50Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "FCC首次封禁含外国监控芯片设备",
-        "summary": "美国联邦通信委员会首次依据新权限，阻止两款含其认定外国监控芯片的设备进入市场。",
-        "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-        "source": "The Verge",
-        "published": "2026-10-22T16:23:48-04:00",
+        "title": "OpenAI前沿模型改用无互联网训练",
+        "summary": "OpenAI称将通过离线环境和缓存、索引内容训练前沿模型，以降低实时互联网带来的安全风险。",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T23:05:49Z",
         "category": "tech"
       },
       {
-        "title": "三季度全球PC出货量降21%",
-        "summary": "Counterpoint数据显示，受内存涨价影响，2026年第三季度全球PC出货量同比下降21%。",
-        "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-        "source": "The Verge",
-        "published": "2026-10-22T17:30:39-04:00",
+        "title": "核聚变公司获8500万美元政府资助",
+        "summary": "Commonwealth Fusion Systems获得联邦政府8500万美元，用于研发适用于聚变电站的先进导体。",
+        "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+        "source": "TechCrunch",
+        "published": "2026-10-23T16:20:28Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Copilot用量指标支持自定义智能体",
-        "summary": "GitHub用量指标API现可显示组织创建的技能、自定义智能体、MCP服务器、斜杠命令和插件名称。",
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+        "title": "GitHub Copilot用量统计支持OpenCode",
+        "summary": "Copilot用量指标API新增对OpenCode等工具模型用量的统计，帮助组织完善开发者使用报告。",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
-        "published": "2026-10-22T22:19:17Z",
+        "published": "2026-10-23T23:42:03Z",
         "category": "github"
       },
       {
         "title": "GitHub迁移大部分仓库至Azure",
-        "summary": "GitHub介绍其基础设施迁移：已将99.99999%的仓库副本迁至Azure，并以多种机制扩展读取能力。",
+        "summary": "GitHub介绍其将99.99999%的仓库副本迁移至Azure，并计划用分片仲裁和对象存储提升读取扩展性。",
         "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
         "source": "GitHub Blog",
         "published": "2026-10-21T16:00:00Z",
@@ -76,64 +76,64 @@
   },
   "items": [
     {
-      "title": "阿秒光场纠缠认证方法",
-      "summary": "研究提出可实验验证的可分性测试，并用光电子干涉直接认证阿秒极紫外辐射中的纠缠。",
-      "url": "https://arxiv.org/abs/2610.31187v1",
+      "title": "量子参数估计存在“真实值”禁行结果",
+      "summary": "研究探讨量子参数估计与测量前独立存在的唯一真实值之间的兼容条件，并提出一般化估计框架。",
+      "url": "https://arxiv.org/abs/2610.31632v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-22T12:38:52Z",
+      "published": "2026-10-22T17:49:03Z",
       "category": "physics"
     },
     {
-      "title": "量子气体中实现超漏",
-      "summary": "研究利用光学超晶格选择性输运超流体，实现超流成分相干约瑟夫森输运并抑制正常流动。",
-      "url": "https://arxiv.org/abs/2610.31185v1",
+      "title": "量子模拟筛选固体氧化物电池材料",
+      "summary": "研究提出端到端量子计算框架，用于评估强关联氧电极材料的氧空位形成能、迁移势垒和电子电导率。",
+      "url": "https://arxiv.org/abs/2610.31591v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-22T12:35:00Z",
+      "published": "2026-10-22T17:26:29Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI推出 Decisions API",
-      "summary": "OpenAI发布面向应用的 Decisions API，主打更快速、聚焦且低成本的决策能力。",
-      "url": "https://openai.com/index/decisions-api",
+      "title": "OpenAI强化前沿模型训练环境安全",
+      "summary": "OpenAI介绍前沿模型训练与评估环境的隔离措施，包括离线环境和高算力红队测试。",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI 官方新闻",
-      "published": "2026-10-22T19:00:00Z",
+      "published": "2026-10-23T10:00:00Z",
       "category": "ai"
     },
     {
-      "title": "AI智能体助力生物数据研究",
-      "summary": "OpenAI与合作方使用分布式AI智能体分析数百万脑细胞数据，寻找潜在生物学研究线索。",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-21T04:50:00Z",
+      "title": "AI辅助研究构想工具LitPivot发布",
+      "summary": "LitPivot通过动态语境化分析文献版图，帮助研究人员发展和评估新的研究想法。",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face Blog",
+      "published": "2026-10-23T16:15:50Z",
       "category": "ai"
     },
     {
-      "title": "FCC首次封禁含外国监控芯片设备",
-      "summary": "美国联邦通信委员会首次依据新权限，阻止两款含其认定外国监控芯片的设备进入市场。",
-      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
-      "source": "The Verge",
-      "published": "2026-10-22T16:23:48-04:00",
+      "title": "OpenAI前沿模型改用无互联网训练",
+      "summary": "OpenAI称将通过离线环境和缓存、索引内容训练前沿模型，以降低实时互联网带来的安全风险。",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:05:49Z",
       "category": "tech"
     },
     {
-      "title": "三季度全球PC出货量降21%",
-      "summary": "Counterpoint数据显示，受内存涨价影响，2026年第三季度全球PC出货量同比下降21%。",
-      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-      "source": "The Verge",
-      "published": "2026-10-22T17:30:39-04:00",
+      "title": "核聚变公司获8500万美元政府资助",
+      "summary": "Commonwealth Fusion Systems获得联邦政府8500万美元，用于研发适用于聚变电站的先进导体。",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "source": "TechCrunch",
+      "published": "2026-10-23T16:20:28Z",
       "category": "tech"
     },
     {
-      "title": "Copilot用量指标支持自定义智能体",
-      "summary": "GitHub用量指标API现可显示组织创建的技能、自定义智能体、MCP服务器、斜杠命令和插件名称。",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
+      "title": "GitHub Copilot用量统计支持OpenCode",
+      "summary": "Copilot用量指标API新增对OpenCode等工具模型用量的统计，帮助组织完善开发者使用报告。",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
-      "published": "2026-10-22T22:19:17Z",
+      "published": "2026-10-23T23:42:03Z",
       "category": "github"
     },
     {
       "title": "GitHub迁移大部分仓库至Azure",
-      "summary": "GitHub介绍其基础设施迁移：已将99.99999%的仓库副本迁至Azure，并以多种机制扩展读取能力。",
+      "summary": "GitHub介绍其将99.99999%的仓库副本迁移至Azure，并计划用分片仲裁和对象存储提升读取扩展性。",
       "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
       "source": "GitHub Blog",
       "published": "2026-10-21T16:00:00Z",
