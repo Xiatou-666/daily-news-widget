@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-24T02:01:18.139479+00:00",
+  "updated_at": "2026-10-25T01:44:14.422143+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子参数估计存在“真实值”禁行结果",
-        "summary": "研究探讨量子参数估计与测量前独立存在的唯一真实值之间的兼容条件，并提出一般化估计框架。",
-        "url": "https://arxiv.org/abs/2610.31632v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-22T17:49:03Z",
+        "title": "单原子核磁共振实现局域探测",
+        "summary": "Nature发表单原子核磁共振研究，展示利用局域探针对单个原子开展核磁共振测量的方法。",
+        "url": "https://www.nature.com/articles/s41467-026-78801-5",
+        "source": "Nature 量子物理",
+        "published": "2026-10-24T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "量子模拟筛选固体氧化物电池材料",
-        "summary": "研究提出端到端量子计算框架，用于评估强关联氧电极材料的氧空位形成能、迁移势垒和电子电导率。",
-        "url": "https://arxiv.org/abs/2610.31591v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-22T17:26:29Z",
+        "title": "NASA加速2028年月球着陆器研发",
+        "summary": "NASA与Blue Origin、SpaceX简化未来载人登月着陆器设计和任务流程，推进2028年月球任务准备。",
+        "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+        "source": "NASA 新闻",
+        "published": "2026-10-23T22:39:39Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI强化前沿模型训练环境安全",
-        "summary": "OpenAI介绍前沿模型训练与评估环境的隔离措施，包括离线环境和高算力红队测试。",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-23T10:00:00Z",
+        "title": "AI数学讨论持续升温",
+        "summary": "近期报道聚焦AI对数学研究和数学家工作的影响，相关学者围绕解题能力、研究方向与数学教育展开讨论。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmWDFWYTkzQnVKTTdpRnFEcVc4VU5JdngyWk5MUU5vdE1UaHk5OTl2UElhOWwwXzdiVWYzT1ZiNGdNS0Z3NnJpXw?oc=5",
+        "source": "Google News AI 数学推理",
+        "published": "Sun, 25 Oct 2026 01:30:00 GMT",
         "category": "ai"
       },
       {
-        "title": "AI辅助研究构想工具LitPivot发布",
-        "summary": "LitPivot通过动态语境化分析文献版图，帮助研究人员发展和评估新的研究想法。",
-        "url": "https://huggingface.co/blog/allenai/litpivot",
-        "source": "Hugging Face Blog",
-        "published": "2026-10-23T16:15:50Z",
+        "title": "OpenAI参与建设AI生物安全实验室",
+        "summary": "财联社报道称，OpenAI与Anthropic等机构将参与全球首个AI生物安全实验室建设。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
+        "source": "Google News 人工智能",
+        "published": "Sat, 24 Oct 2026 07:49:11 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "OpenAI前沿模型改用无互联网训练",
-        "summary": "OpenAI称将通过离线环境和缓存、索引内容训练前沿模型，以降低实时互联网带来的安全风险。",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "source": "TechCrunch",
-        "published": "2026-10-23T23:05:49Z",
+        "title": "宾夕法尼亚州要求AI广告标注",
+        "summary": "宾夕法尼亚州通过法律，要求对显著修改或由AI生成的图片、视频、音频和文字广告进行标注。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "source": "The Verge",
+        "published": "2026-10-24T14:32:44-04:00",
         "category": "tech"
       },
       {
-        "title": "核聚变公司获8500万美元政府资助",
-        "summary": "Commonwealth Fusion Systems获得联邦政府8500万美元，用于研发适用于聚变电站的先进导体。",
-        "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+        "title": "OpenAI称将停止使用实时互联网训练",
+        "summary": "TechCrunch报道，OpenAI将不再使用实时互联网训练AI模型，并称此举与相关风险有关。",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
         "source": "TechCrunch",
-        "published": "2026-10-23T16:20:28Z",
+        "published": "2026-10-23T23:05:49Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot用量统计支持OpenCode",
-        "summary": "Copilot用量指标API新增对OpenCode等工具模型用量的统计，帮助组织完善开发者使用报告。",
+        "title": "GitHub Copilot用量统计支持更多工具",
+        "summary": "GitHub更新用量指标API，可统计包括OpenCode在内的更多开发工具产生的Copilot模型使用量。",
         "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "published": "2026-10-23T23:42:03Z",
         "category": "github"
       },
       {
-        "title": "GitHub迁移大部分仓库至Azure",
-        "summary": "GitHub介绍其将99.99999%的仓库副本迁移至Azure，并计划用分片仲裁和对象存储提升读取扩展性。",
-        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "source": "GitHub Blog",
-        "published": "2026-10-21T16:00:00Z",
+        "title": "GitHub Teams集成Copilot协作编程",
+        "summary": "GitHub在Teams推出新应用，将通知与Copilot结合，帮助团队在对话中处理问题并生成修复代码。",
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "source": "GitHub Changelog",
+        "published": "2026-10-23T21:29:58Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "量子参数估计存在“真实值”禁行结果",
-      "summary": "研究探讨量子参数估计与测量前独立存在的唯一真实值之间的兼容条件，并提出一般化估计框架。",
-      "url": "https://arxiv.org/abs/2610.31632v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-22T17:49:03Z",
+      "title": "单原子核磁共振实现局域探测",
+      "summary": "Nature发表单原子核磁共振研究，展示利用局域探针对单个原子开展核磁共振测量的方法。",
+      "url": "https://www.nature.com/articles/s41467-026-78801-5",
+      "source": "Nature 量子物理",
+      "published": "2026-10-24T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "量子模拟筛选固体氧化物电池材料",
-      "summary": "研究提出端到端量子计算框架，用于评估强关联氧电极材料的氧空位形成能、迁移势垒和电子电导率。",
-      "url": "https://arxiv.org/abs/2610.31591v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-22T17:26:29Z",
+      "title": "NASA加速2028年月球着陆器研发",
+      "summary": "NASA与Blue Origin、SpaceX简化未来载人登月着陆器设计和任务流程，推进2028年月球任务准备。",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "source": "NASA 新闻",
+      "published": "2026-10-23T22:39:39Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI强化前沿模型训练环境安全",
-      "summary": "OpenAI介绍前沿模型训练与评估环境的隔离措施，包括离线环境和高算力红队测试。",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-23T10:00:00Z",
+      "title": "AI数学讨论持续升温",
+      "summary": "近期报道聚焦AI对数学研究和数学家工作的影响，相关学者围绕解题能力、研究方向与数学教育展开讨论。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmWDFWYTkzQnVKTTdpRnFEcVc4VU5JdngyWk5MUU5vdE1UaHk5OTl2UElhOWwwXzdiVWYzT1ZiNGdNS0Z3NnJpXw?oc=5",
+      "source": "Google News AI 数学推理",
+      "published": "Sun, 25 Oct 2026 01:30:00 GMT",
       "category": "ai"
     },
     {
-      "title": "AI辅助研究构想工具LitPivot发布",
-      "summary": "LitPivot通过动态语境化分析文献版图，帮助研究人员发展和评估新的研究想法。",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face Blog",
-      "published": "2026-10-23T16:15:50Z",
+      "title": "OpenAI参与建设AI生物安全实验室",
+      "summary": "财联社报道称，OpenAI与Anthropic等机构将参与全球首个AI生物安全实验室建设。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
+      "source": "Google News 人工智能",
+      "published": "Sat, 24 Oct 2026 07:49:11 GMT",
       "category": "ai"
     },
     {
-      "title": "OpenAI前沿模型改用无互联网训练",
-      "summary": "OpenAI称将通过离线环境和缓存、索引内容训练前沿模型，以降低实时互联网带来的安全风险。",
+      "title": "宾夕法尼亚州要求AI广告标注",
+      "summary": "宾夕法尼亚州通过法律，要求对显著修改或由AI生成的图片、视频、音频和文字广告进行标注。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge",
+      "published": "2026-10-24T14:32:44-04:00",
+      "category": "tech"
+    },
+    {
+      "title": "OpenAI称将停止使用实时互联网训练",
+      "summary": "TechCrunch报道，OpenAI将不再使用实时互联网训练AI模型，并称此举与相关风险有关。",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
       "source": "TechCrunch",
       "published": "2026-10-23T23:05:49Z",
       "category": "tech"
     },
     {
-      "title": "核聚变公司获8500万美元政府资助",
-      "summary": "Commonwealth Fusion Systems获得联邦政府8500万美元，用于研发适用于聚变电站的先进导体。",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "source": "TechCrunch",
-      "published": "2026-10-23T16:20:28Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub Copilot用量统计支持OpenCode",
-      "summary": "Copilot用量指标API新增对OpenCode等工具模型用量的统计，帮助组织完善开发者使用报告。",
+      "title": "GitHub Copilot用量统计支持更多工具",
+      "summary": "GitHub更新用量指标API，可统计包括OpenCode在内的更多开发工具产生的Copilot模型使用量。",
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "published": "2026-10-23T23:42:03Z",
       "category": "github"
     },
     {
-      "title": "GitHub迁移大部分仓库至Azure",
-      "summary": "GitHub介绍其将99.99999%的仓库副本迁移至Azure，并计划用分片仲裁和对象存储提升读取扩展性。",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub Blog",
-      "published": "2026-10-21T16:00:00Z",
+      "title": "GitHub Teams集成Copilot协作编程",
+      "summary": "GitHub在Teams推出新应用，将通知与Copilot结合，帮助团队在对话中处理问题并生成修复代码。",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "published": "2026-10-23T21:29:58Z",
       "category": "github"
     }
   ]
