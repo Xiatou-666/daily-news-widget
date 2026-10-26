@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-10-25T01:44:14.422143+00:00",
+  "updated_at": "2026-10-26T01:49:11.978521+00:00",
   "categories": {
     "physics": [
       {
-        "title": "单原子核磁共振实现局域探测",
-        "summary": "Nature发表单原子核磁共振研究，展示利用局域探针对单个原子开展核磁共振测量的方法。",
-        "url": "https://www.nature.com/articles/s41467-026-78801-5",
-        "source": "Nature 量子物理",
-        "published": "2026-10-24T00:00:00Z",
+        "title": "超导处理器实现纠缠逻辑量子比特",
+        "summary": "研究团队在120个超导量子比特处理器上实现逻辑量子比特纠缠，逻辑贝尔态保真度超过93%。",
+        "url": "https://arxiv.org/abs/2610.32347v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-23T08:40:47Z",
         "category": "physics"
       },
       {
-        "title": "NASA加速2028年月球着陆器研发",
-        "summary": "NASA与Blue Origin、SpaceX简化未来载人登月着陆器设计和任务流程，推进2028年月球任务准备。",
+        "title": "NASA加速2028年月球着陆器研制",
+        "summary": "NASA与蓝色起源、SpaceX优化载人着陆器设计和任务流程，为2028年月球任务做准备。",
         "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
         "source": "NASA 新闻",
         "published": "2026-10-23T22:39:39Z",
@@ -21,52 +21,52 @@
     ],
     "ai": [
       {
-        "title": "AI数学讨论持续升温",
-        "summary": "近期报道聚焦AI对数学研究和数学家工作的影响，相关学者围绕解题能力、研究方向与数学教育展开讨论。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmWDFWYTkzQnVKTTdpRnFEcVc4VU5JdngyWk5MUU5vdE1UaHk5OTl2UElhOWwwXzdiVWYzT1ZiNGdNS0Z3NnJpXw?oc=5",
-        "source": "Google News AI 数学推理",
-        "published": "Sun, 25 Oct 2026 01:30:00 GMT",
+        "title": "报道称OpenAI与GPT-6攻克数学难题",
+        "summary": "媒体称张益唐相关未竟难题由人类与GPT-6协作推进两周，证明文本已缩至5页；相关说法仍待核验。",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSF9Lbk5MUTBadndXV2ZGOFRMYmk5NUU4T1JjWlhNWDJEbGNOeVA1RlhrTjFyNHBPd1JtcXRnRDN0TTNSVElqNDBfZUpqQWZqZG54YWcyYWp5NHAzaG9BcC1GYUgxa2VHT0J0TWdUV0QtWWhvS1hVcHJBSERydkUwck1Hbw?oc=5",
+        "source": "Google News OpenAI 数学",
+        "published": "2026-10-25T07:43:00Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI参与建设AI生物安全实验室",
-        "summary": "财联社报道称，OpenAI与Anthropic等机构将参与全球首个AI生物安全实验室建设。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
-        "source": "Google News 人工智能",
-        "published": "Sat, 24 Oct 2026 07:49:11 GMT",
+        "title": "学者讨论国产AI进入前沿数学",
+        "summary": "报道聚焦国产AI参与前沿数学研究，讨论解题能力之外，数学研究方法与科研价值的变化。",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUVNncUh1SDh3NUR1U0JOYURlb2Z1ci13TXpkNFVSOWZhQjdHc1QyQ3FaVTVyVTAxR0dkZHItT0dIYWpuaUttNTNmZlNkSDJuMmlIOV9CTWd0Wjl1VUc2MXVUMXlwZw?oc=5",
+        "source": "Google News AI 数学推理",
+        "published": "2026-10-25T06:13:11Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "宾夕法尼亚州要求AI广告标注",
-        "summary": "宾夕法尼亚州通过法律，要求对显著修改或由AI生成的图片、视频、音频和文字广告进行标注。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "title": "iFixit拆解iPhone Duo并评估可维修性",
+        "summary": "iFixit拆解苹果折叠屏iPhone Duo，关注折痕隐藏设计与铰链问题，并给出5分制可维修性评分。",
+        "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
         "source": "The Verge",
-        "published": "2026-10-24T14:32:44-04:00",
+        "published": "2026-10-25T21:40:27Z",
         "category": "tech"
       },
       {
-        "title": "OpenAI称将停止使用实时互联网训练",
-        "summary": "TechCrunch报道，OpenAI将不再使用实时互联网训练AI模型，并称此举与相关风险有关。",
-        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "title": "两项PHP漏洞曾威胁互联网稳定",
+        "summary": "报道指出，PHP中的两项严重漏洞曾威胁大量网站运行，也凸显广泛使用软件的供应链风险。",
+        "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
         "source": "TechCrunch",
-        "published": "2026-10-23T23:05:49Z",
+        "published": "2026-10-24T15:30:00Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot用量统计支持更多工具",
-        "summary": "GitHub更新用量指标API，可统计包括OpenCode在内的更多开发工具产生的Copilot模型使用量。",
+        "title": "GitHub使用指标API接入OpenCode数据",
+        "summary": "Copilot使用指标API现可统计包括OpenCode在内的更多开发工具模型使用情况。",
         "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "published": "2026-10-23T23:42:03Z",
         "category": "github"
       },
       {
-        "title": "GitHub Teams集成Copilot协作编程",
-        "summary": "GitHub在Teams推出新应用，将通知与Copilot结合，帮助团队在对话中处理问题并生成修复代码。",
+        "title": "GitHub在Teams中推出Copilot",
+        "summary": "GitHub Teams应用整合通知与Copilot，帮助团队直接在对话中处理问题并生成代码修复。",
         "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
         "source": "GitHub Changelog",
         "published": "2026-10-23T21:29:58Z",
@@ -76,64 +76,64 @@
   },
   "items": [
     {
-      "title": "单原子核磁共振实现局域探测",
-      "summary": "Nature发表单原子核磁共振研究，展示利用局域探针对单个原子开展核磁共振测量的方法。",
-      "url": "https://www.nature.com/articles/s41467-026-78801-5",
-      "source": "Nature 量子物理",
-      "published": "2026-10-24T00:00:00Z",
+      "title": "超导处理器实现纠缠逻辑量子比特",
+      "summary": "研究团队在120个超导量子比特处理器上实现逻辑量子比特纠缠，逻辑贝尔态保真度超过93%。",
+      "url": "https://arxiv.org/abs/2610.32347v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-23T08:40:47Z",
       "category": "physics"
     },
     {
-      "title": "NASA加速2028年月球着陆器研发",
-      "summary": "NASA与Blue Origin、SpaceX简化未来载人登月着陆器设计和任务流程，推进2028年月球任务准备。",
+      "title": "NASA加速2028年月球着陆器研制",
+      "summary": "NASA与蓝色起源、SpaceX优化载人着陆器设计和任务流程，为2028年月球任务做准备。",
       "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "source": "NASA 新闻",
       "published": "2026-10-23T22:39:39Z",
       "category": "physics"
     },
     {
-      "title": "AI数学讨论持续升温",
-      "summary": "近期报道聚焦AI对数学研究和数学家工作的影响，相关学者围绕解题能力、研究方向与数学教育展开讨论。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmWDFWYTkzQnVKTTdpRnFEcVc4VU5JdngyWk5MUU5vdE1UaHk5OTl2UElhOWwwXzdiVWYzT1ZiNGdNS0Z3NnJpXw?oc=5",
+      "title": "报道称OpenAI与GPT-6攻克数学难题",
+      "summary": "媒体称张益唐相关未竟难题由人类与GPT-6协作推进两周，证明文本已缩至5页；相关说法仍待核验。",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSF9Lbk5MUTBadndXV2ZGOFRMYmk5NUU4T1JjWlhNWDJEbGNOeVA1RlhrTjFyNHBPd1JtcXRnRDN0TTNSVElqNDBfZUpqQWZqZG54YWcyYWp5NHAzaG9BcC1GYUgxa2VHT0J0TWdUV0QtWWhvS1hVcHJBSERydkUwck1Hbw?oc=5",
+      "source": "Google News OpenAI 数学",
+      "published": "2026-10-25T07:43:00Z",
+      "category": "ai"
+    },
+    {
+      "title": "学者讨论国产AI进入前沿数学",
+      "summary": "报道聚焦国产AI参与前沿数学研究，讨论解题能力之外，数学研究方法与科研价值的变化。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUVNncUh1SDh3NUR1U0JOYURlb2Z1ci13TXpkNFVSOWZhQjdHc1QyQ3FaVTVyVTAxR0dkZHItT0dIYWpuaUttNTNmZlNkSDJuMmlIOV9CTWd0Wjl1VUc2MXVUMXlwZw?oc=5",
       "source": "Google News AI 数学推理",
-      "published": "Sun, 25 Oct 2026 01:30:00 GMT",
+      "published": "2026-10-25T06:13:11Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI参与建设AI生物安全实验室",
-      "summary": "财联社报道称，OpenAI与Anthropic等机构将参与全球首个AI生物安全实验室建设。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
-      "source": "Google News 人工智能",
-      "published": "Sat, 24 Oct 2026 07:49:11 GMT",
-      "category": "ai"
-    },
-    {
-      "title": "宾夕法尼亚州要求AI广告标注",
-      "summary": "宾夕法尼亚州通过法律，要求对显著修改或由AI生成的图片、视频、音频和文字广告进行标注。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "title": "iFixit拆解iPhone Duo并评估可维修性",
+      "summary": "iFixit拆解苹果折叠屏iPhone Duo，关注折痕隐藏设计与铰链问题，并给出5分制可维修性评分。",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
       "source": "The Verge",
-      "published": "2026-10-24T14:32:44-04:00",
+      "published": "2026-10-25T21:40:27Z",
       "category": "tech"
     },
     {
-      "title": "OpenAI称将停止使用实时互联网训练",
-      "summary": "TechCrunch报道，OpenAI将不再使用实时互联网训练AI模型，并称此举与相关风险有关。",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "title": "两项PHP漏洞曾威胁互联网稳定",
+      "summary": "报道指出，PHP中的两项严重漏洞曾威胁大量网站运行，也凸显广泛使用软件的供应链风险。",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
       "source": "TechCrunch",
-      "published": "2026-10-23T23:05:49Z",
+      "published": "2026-10-24T15:30:00Z",
       "category": "tech"
     },
     {
-      "title": "GitHub Copilot用量统计支持更多工具",
-      "summary": "GitHub更新用量指标API，可统计包括OpenCode在内的更多开发工具产生的Copilot模型使用量。",
+      "title": "GitHub使用指标API接入OpenCode数据",
+      "summary": "Copilot使用指标API现可统计包括OpenCode在内的更多开发工具模型使用情况。",
       "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
       "source": "GitHub Changelog",
       "published": "2026-10-23T23:42:03Z",
       "category": "github"
     },
     {
-      "title": "GitHub Teams集成Copilot协作编程",
-      "summary": "GitHub在Teams推出新应用，将通知与Copilot结合，帮助团队在对话中处理问题并生成修复代码。",
+      "title": "GitHub在Teams中推出Copilot",
+      "summary": "GitHub Teams应用整合通知与Copilot，帮助团队直接在对话中处理问题并生成代码修复。",
       "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
       "source": "GitHub Changelog",
       "published": "2026-10-23T21:29:58Z",
