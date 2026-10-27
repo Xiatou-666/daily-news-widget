@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-26T01:49:11.978521+00:00",
+  "updated_at": "2026-10-27T02:28:05.743862+00:00",
   "categories": {
     "physics": [
       {
-        "title": "超导处理器实现纠缠逻辑量子比特",
-        "summary": "研究团队在120个超导量子比特处理器上实现逻辑量子比特纠缠，逻辑贝尔态保真度超过93%。",
-        "url": "https://arxiv.org/abs/2610.32347v1",
+        "title": "量子系统表征实现资源优化",
+        "summary": "研究提出双层风险测试架构：轻量探针持续筛查，仅在检测到显著变化时启动完整表征。",
+        "url": "https://arxiv.org/abs/2610.34003v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-23T08:40:47Z",
+        "published": "2026-10-25T02:33:16Z",
         "category": "physics"
       },
       {
-        "title": "NASA加速2028年月球着陆器研制",
-        "summary": "NASA与蓝色起源、SpaceX优化载人着陆器设计和任务流程，为2028年月球任务做准备。",
-        "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-        "source": "NASA 新闻",
-        "published": "2026-10-23T22:39:39Z",
+        "title": "多体量子传感器中的隐藏费舍尔信息",
+        "summary": "研究提出矩量费舍尔信息层级，用于衡量集体自旋测量可获取的量子费舍尔信息比例及读出复杂度。",
+        "url": "https://arxiv.org/abs/2610.33893v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-24T20:08:14Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "报道称OpenAI与GPT-6攻克数学难题",
-        "summary": "媒体称张益唐相关未竟难题由人类与GPT-6协作推进两周，证明文本已缩至5页；相关说法仍待核验。",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSF9Lbk5MUTBadndXV2ZGOFRMYmk5NUU4T1JjWlhNWDJEbGNOeVA1RlhrTjFyNHBPd1JtcXRnRDN0TTNSVElqNDBfZUpqQWZqZG54YWcyYWp5NHAzaG9BcC1GYUgxa2VHT0J0TWdUV0QtWWhvS1hVcHJBSERydkUwck1Hbw?oc=5",
-        "source": "Google News OpenAI 数学",
-        "published": "2026-10-25T07:43:00Z",
+        "title": "OpenAI公布数学、计算机与物理新成果",
+        "summary": "OpenAI介绍围绕Kakeya猜想、指数时间假说和量子色动力学的模型成果，并强调由学术界验证和拓展。",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-26T14:30:00Z",
         "category": "ai"
       },
       {
-        "title": "学者讨论国产AI进入前沿数学",
-        "summary": "报道聚焦国产AI参与前沿数学研究，讨论解题能力之外，数学研究方法与科研价值的变化。",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUVNncUh1SDh3NUR1U0JOYURlb2Z1ci13TXpkNFVSOWZhQjdHc1QyQ3FaVTVyVTAxR0dkZHItT0dIYWpuaUttNTNmZlNkSDJuMmlIOV9CTWd0Wjl1VUc2MXVUMXlwZw?oc=5",
-        "source": "Google News AI 数学推理",
-        "published": "2026-10-25T06:13:11Z",
+        "title": "OpenAI发布GPT-6.1 Terra",
+        "summary": "OpenAI推出GPT-6.1 Terra，定位为面向大众的快速计算机操作模型。",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-26T00:00:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "iFixit拆解iPhone Duo并评估可维修性",
-        "summary": "iFixit拆解苹果折叠屏iPhone Duo，关注折痕隐藏设计与铰链问题，并给出5分制可维修性评分。",
-        "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-        "source": "The Verge",
-        "published": "2026-10-25T21:40:27Z",
+        "title": "Anthropic正式提交IPO申请",
+        "summary": "Anthropic提交上市申请文件，披露收入增长、持续亏损、企业客户采用情况及维持创始人控制权的治理结构。",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "source": "TechCrunch",
+        "published": "2026-10-26T14:35:22Z",
         "category": "tech"
       },
       {
-        "title": "两项PHP漏洞曾威胁互联网稳定",
-        "summary": "报道指出，PHP中的两项严重漏洞曾威胁大量网站运行，也凸显广泛使用软件的供应链风险。",
-        "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-        "source": "TechCrunch",
-        "published": "2026-10-24T15:30:00Z",
+        "title": "苹果iOS 27.2支持iPhone使用Apple Pencil",
+        "summary": "苹果发布iOS 27.2，为iPhone Duo增加Apple Pencil支持，并加入面向视频通话的Edge Light功能。",
+        "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+        "source": "The Verge",
+        "published": "2026-10-26T14:53:15-04:00",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub使用指标API接入OpenCode数据",
-        "summary": "Copilot使用指标API现可统计包括OpenCode在内的更多开发工具模型使用情况。",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+        "title": "GPT-6.1 Terra上线GitHub Copilot",
+        "summary": "GitHub宣布GPT-6.1 Terra在Copilot中全面可用，面向日常代理式编程和终端操作，成本低于GPT-6.1 Sol。",
+        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
         "source": "GitHub Changelog",
-        "published": "2026-10-23T23:42:03Z",
+        "published": "2026-10-26T19:15:53+00:00",
         "category": "github"
       },
       {
-        "title": "GitHub在Teams中推出Copilot",
-        "summary": "GitHub Teams应用整合通知与Copilot，帮助团队直接在对话中处理问题并生成代码修复。",
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "source": "GitHub Changelog",
-        "published": "2026-10-23T21:29:58Z",
+        "title": "GitHub推进面向代理规模的基础设施",
+        "summary": "GitHub介绍将99.99999%的代码仓库迁移至Azure，并通过按引用仲裁和对象存储提升读取扩展能力。",
+        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+        "source": "GitHub Blog",
+        "published": "2026-10-21T16:00:00+00:00",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "超导处理器实现纠缠逻辑量子比特",
-      "summary": "研究团队在120个超导量子比特处理器上实现逻辑量子比特纠缠，逻辑贝尔态保真度超过93%。",
-      "url": "https://arxiv.org/abs/2610.32347v1",
+      "title": "量子系统表征实现资源优化",
+      "summary": "研究提出双层风险测试架构：轻量探针持续筛查，仅在检测到显著变化时启动完整表征。",
+      "url": "https://arxiv.org/abs/2610.34003v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-23T08:40:47Z",
+      "published": "2026-10-25T02:33:16Z",
       "category": "physics"
     },
     {
-      "title": "NASA加速2028年月球着陆器研制",
-      "summary": "NASA与蓝色起源、SpaceX优化载人着陆器设计和任务流程，为2028年月球任务做准备。",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "source": "NASA 新闻",
-      "published": "2026-10-23T22:39:39Z",
+      "title": "多体量子传感器中的隐藏费舍尔信息",
+      "summary": "研究提出矩量费舍尔信息层级，用于衡量集体自旋测量可获取的量子费舍尔信息比例及读出复杂度。",
+      "url": "https://arxiv.org/abs/2610.33893v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-24T20:08:14Z",
       "category": "physics"
     },
     {
-      "title": "报道称OpenAI与GPT-6攻克数学难题",
-      "summary": "媒体称张益唐相关未竟难题由人类与GPT-6协作推进两周，证明文本已缩至5页；相关说法仍待核验。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSF9Lbk5MUTBadndXV2ZGOFRMYmk5NUU4T1JjWlhNWDJEbGNOeVA1RlhrTjFyNHBPd1JtcXRnRDN0TTNSVElqNDBfZUpqQWZqZG54YWcyYWp5NHAzaG9BcC1GYUgxa2VHT0J0TWdUV0QtWWhvS1hVcHJBSERydkUwck1Hbw?oc=5",
-      "source": "Google News OpenAI 数学",
-      "published": "2026-10-25T07:43:00Z",
+      "title": "OpenAI公布数学、计算机与物理新成果",
+      "summary": "OpenAI介绍围绕Kakeya猜想、指数时间假说和量子色动力学的模型成果，并强调由学术界验证和拓展。",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-26T14:30:00Z",
       "category": "ai"
     },
     {
-      "title": "学者讨论国产AI进入前沿数学",
-      "summary": "报道聚焦国产AI参与前沿数学研究，讨论解题能力之外，数学研究方法与科研价值的变化。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyUVNncUh1SDh3NUR1U0JOYURlb2Z1ci13TXpkNFVSOWZhQjdHc1QyQ3FaVTVyVTAxR0dkZHItT0dIYWpuaUttNTNmZlNkSDJuMmlIOV9CTWd0Wjl1VUc2MXVUMXlwZw?oc=5",
-      "source": "Google News AI 数学推理",
-      "published": "2026-10-25T06:13:11Z",
+      "title": "OpenAI发布GPT-6.1 Terra",
+      "summary": "OpenAI推出GPT-6.1 Terra，定位为面向大众的快速计算机操作模型。",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-26T00:00:00Z",
       "category": "ai"
     },
     {
-      "title": "iFixit拆解iPhone Duo并评估可维修性",
-      "summary": "iFixit拆解苹果折叠屏iPhone Duo，关注折痕隐藏设计与铰链问题，并给出5分制可维修性评分。",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "source": "The Verge",
-      "published": "2026-10-25T21:40:27Z",
-      "category": "tech"
-    },
-    {
-      "title": "两项PHP漏洞曾威胁互联网稳定",
-      "summary": "报道指出，PHP中的两项严重漏洞曾威胁大量网站运行，也凸显广泛使用软件的供应链风险。",
-      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "title": "Anthropic正式提交IPO申请",
+      "summary": "Anthropic提交上市申请文件，披露收入增长、持续亏损、企业客户采用情况及维持创始人控制权的治理结构。",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
       "source": "TechCrunch",
-      "published": "2026-10-24T15:30:00Z",
+      "published": "2026-10-26T14:35:22Z",
       "category": "tech"
     },
     {
-      "title": "GitHub使用指标API接入OpenCode数据",
-      "summary": "Copilot使用指标API现可统计包括OpenCode在内的更多开发工具模型使用情况。",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "title": "苹果iOS 27.2支持iPhone使用Apple Pencil",
+      "summary": "苹果发布iOS 27.2，为iPhone Duo增加Apple Pencil支持，并加入面向视频通话的Edge Light功能。",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "source": "The Verge",
+      "published": "2026-10-26T14:53:15-04:00",
+      "category": "tech"
+    },
+    {
+      "title": "GPT-6.1 Terra上线GitHub Copilot",
+      "summary": "GitHub宣布GPT-6.1 Terra在Copilot中全面可用，面向日常代理式编程和终端操作，成本低于GPT-6.1 Sol。",
+      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
       "source": "GitHub Changelog",
-      "published": "2026-10-23T23:42:03Z",
+      "published": "2026-10-26T19:15:53+00:00",
       "category": "github"
     },
     {
-      "title": "GitHub在Teams中推出Copilot",
-      "summary": "GitHub Teams应用整合通知与Copilot，帮助团队直接在对话中处理问题并生成代码修复。",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "source": "GitHub Changelog",
-      "published": "2026-10-23T21:29:58Z",
+      "title": "GitHub推进面向代理规模的基础设施",
+      "summary": "GitHub介绍将99.99999%的代码仓库迁移至Azure，并通过按引用仲裁和对象存储提升读取扩展能力。",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub Blog",
+      "published": "2026-10-21T16:00:00+00:00",
       "category": "github"
     }
   ]
