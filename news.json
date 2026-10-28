@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-27T02:28:05.743862+00:00",
+  "updated_at": "2026-10-28T02:37:07.325605+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子系统表征实现资源优化",
-        "summary": "研究提出双层风险测试架构：轻量探针持续筛查，仅在检测到显著变化时启动完整表征。",
-        "url": "https://arxiv.org/abs/2610.34003v1",
+        "title": "集体泵浦迪克超辐射获得精确解析描述",
+        "summary": "预印本研究集体衰减与非相干泵浦下的双能级发射体，推导出迪克态布居拉普拉斯变换的精确有限连分式。",
+        "url": "https://arxiv.org/abs/2610.37665v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-25T02:33:16Z",
+        "published": "2026-10-27T17:59:34Z",
         "category": "physics"
       },
       {
-        "title": "多体量子传感器中的隐藏费舍尔信息",
-        "summary": "研究提出矩量费舍尔信息层级，用于衡量集体自旋测量可获取的量子费舍尔信息比例及读出复杂度。",
-        "url": "https://arxiv.org/abs/2610.33893v1",
+        "title": "研究厘清量子传感异常点的优势边界",
+        "summary": "预印本指出：在具有唯一稳态和非零弛豫隙的有限维林德布拉德系统中，异常点不改善弱扰动可靠检测所需观测时间的标度。",
+        "url": "https://arxiv.org/abs/2610.37660v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-24T20:08:14Z",
+        "published": "2026-10-27T17:59:06Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI公布数学、计算机与物理新成果",
-        "summary": "OpenAI介绍围绕Kakeya猜想、指数时间假说和量子色动力学的模型成果，并强调由学术界验证和拓展。",
+        "title": "OpenAI分享数学与物理模型研究结果",
+        "summary": "OpenAI公布模型在挂谷猜想、指数时间假设和量子色动力学上的研究结果，并说明研究者如何核验与开展后续工作。",
         "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
         "source": "OpenAI 官方新闻",
         "published": "2026-10-26T14:30:00Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI发布GPT-6.1 Terra",
-        "summary": "OpenAI推出GPT-6.1 Terra，定位为面向大众的快速计算机操作模型。",
-        "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-26T00:00:00Z",
+        "title": "上海交大团队构建生物状态转变预测框架",
+        "summary": "上海交大陈洛南团队及合作者构建AI赋能框架CauTrigger，用于复杂生物动态过程的状态转变预测。",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qY2h6ZV9jR2Y2Y2FUd0FycWpTOHRRaDVRRVRjcnpNUFpZbTZmQllMTm4wZlR5TlY0VkF5SjVvNngyUkcyOEFSV2tOX05WMUdHZWY2Y0RXOVRsaFNkclhr?oc=5",
+        "source": "上海交通大学新闻网",
+        "published": "2026-10-27T08:46:17Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Anthropic正式提交IPO申请",
-        "summary": "Anthropic提交上市申请文件，披露收入增长、持续亏损、企业客户采用情况及维持创始人控制权的治理结构。",
-        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "source": "TechCrunch",
-        "published": "2026-10-26T14:35:22Z",
+        "title": "固态变压器有望支撑AI用电增长",
+        "summary": "《麻省理工科技评论》探讨固态变压器如何应对电力需求上升，以及传统变压器供应紧张带来的电网升级需求。",
+        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-27T09:00:00Z",
         "category": "tech"
       },
       {
-        "title": "苹果iOS 27.2支持iPhone使用Apple Pencil",
-        "summary": "苹果发布iOS 27.2，为iPhone Duo增加Apple Pencil支持，并加入面向视频通话的Edge Light功能。",
-        "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+        "title": "iPhone Duo内屏破损引发铰链疑问",
+        "summary": "部分用户称新购iPhone Duo内屏在铰链上方出现裂纹或显示异常。The Verge分析铰链可能的影响，故障原因尚未确定。",
+        "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
         "source": "The Verge",
-        "published": "2026-10-26T14:53:15-04:00",
+        "published": "2026-10-27T22:55:05Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GPT-6.1 Terra上线GitHub Copilot",
-        "summary": "GitHub宣布GPT-6.1 Terra在Copilot中全面可用，面向日常代理式编程和终端操作，成本低于GPT-6.1 Sol。",
-        "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+        "title": "GitHub Copilot支持服务间认证",
+        "summary": "该功能进入公开预览，面向安装在组织中的GitHub Apps，支持基于Copilot SDK构建的服务与智能体进行服务间认证。",
+        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
         "source": "GitHub Changelog",
-        "published": "2026-10-26T19:15:53+00:00",
+        "published": "2026-10-27T21:36:55Z",
         "category": "github"
       },
       {
-        "title": "GitHub推进面向代理规模的基础设施",
-        "summary": "GitHub介绍将99.99999%的代码仓库迁移至Azure，并通过按引用仲裁和对象存储提升读取扩展能力。",
-        "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-        "source": "GitHub Blog",
-        "published": "2026-10-21T16:00:00+00:00",
+        "title": "Copilot辅助权限功能正式可用",
+        "summary": "辅助权限功能在GitHub Copilot CLI、Copilot应用和VS Code中正式可用，涉及运行命令、访问文件系统路径等权限请求。",
+        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+        "source": "GitHub Changelog",
+        "published": "2026-10-26T22:31:30Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "量子系统表征实现资源优化",
-      "summary": "研究提出双层风险测试架构：轻量探针持续筛查，仅在检测到显著变化时启动完整表征。",
-      "url": "https://arxiv.org/abs/2610.34003v1",
+      "title": "集体泵浦迪克超辐射获得精确解析描述",
+      "summary": "预印本研究集体衰减与非相干泵浦下的双能级发射体，推导出迪克态布居拉普拉斯变换的精确有限连分式。",
+      "url": "https://arxiv.org/abs/2610.37665v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-25T02:33:16Z",
+      "published": "2026-10-27T17:59:34Z",
       "category": "physics"
     },
     {
-      "title": "多体量子传感器中的隐藏费舍尔信息",
-      "summary": "研究提出矩量费舍尔信息层级，用于衡量集体自旋测量可获取的量子费舍尔信息比例及读出复杂度。",
-      "url": "https://arxiv.org/abs/2610.33893v1",
+      "title": "研究厘清量子传感异常点的优势边界",
+      "summary": "预印本指出：在具有唯一稳态和非零弛豫隙的有限维林德布拉德系统中，异常点不改善弱扰动可靠检测所需观测时间的标度。",
+      "url": "https://arxiv.org/abs/2610.37660v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-24T20:08:14Z",
+      "published": "2026-10-27T17:59:06Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI公布数学、计算机与物理新成果",
-      "summary": "OpenAI介绍围绕Kakeya猜想、指数时间假说和量子色动力学的模型成果，并强调由学术界验证和拓展。",
+      "title": "OpenAI分享数学与物理模型研究结果",
+      "summary": "OpenAI公布模型在挂谷猜想、指数时间假设和量子色动力学上的研究结果，并说明研究者如何核验与开展后续工作。",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
       "source": "OpenAI 官方新闻",
       "published": "2026-10-26T14:30:00Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI发布GPT-6.1 Terra",
-      "summary": "OpenAI推出GPT-6.1 Terra，定位为面向大众的快速计算机操作模型。",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-26T00:00:00Z",
+      "title": "上海交大团队构建生物状态转变预测框架",
+      "summary": "上海交大陈洛南团队及合作者构建AI赋能框架CauTrigger，用于复杂生物动态过程的状态转变预测。",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qY2h6ZV9jR2Y2Y2FUd0FycWpTOHRRaDVRRVRjcnpNUFpZbTZmQllMTm4wZlR5TlY0VkF5SjVvNngyUkcyOEFSV2tOX05WMUdHZWY2Y0RXOVRsaFNkclhr?oc=5",
+      "source": "上海交通大学新闻网",
+      "published": "2026-10-27T08:46:17Z",
       "category": "ai"
     },
     {
-      "title": "Anthropic正式提交IPO申请",
-      "summary": "Anthropic提交上市申请文件，披露收入增长、持续亏损、企业客户采用情况及维持创始人控制权的治理结构。",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:35:22Z",
+      "title": "固态变压器有望支撑AI用电增长",
+      "summary": "《麻省理工科技评论》探讨固态变压器如何应对电力需求上升，以及传统变压器供应紧张带来的电网升级需求。",
+      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "source": "MIT Technology Review",
+      "published": "2026-10-27T09:00:00Z",
       "category": "tech"
     },
     {
-      "title": "苹果iOS 27.2支持iPhone使用Apple Pencil",
-      "summary": "苹果发布iOS 27.2，为iPhone Duo增加Apple Pencil支持，并加入面向视频通话的Edge Light功能。",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "title": "iPhone Duo内屏破损引发铰链疑问",
+      "summary": "部分用户称新购iPhone Duo内屏在铰链上方出现裂纹或显示异常。The Verge分析铰链可能的影响，故障原因尚未确定。",
+      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
       "source": "The Verge",
-      "published": "2026-10-26T14:53:15-04:00",
+      "published": "2026-10-27T22:55:05Z",
       "category": "tech"
     },
     {
-      "title": "GPT-6.1 Terra上线GitHub Copilot",
-      "summary": "GitHub宣布GPT-6.1 Terra在Copilot中全面可用，面向日常代理式编程和终端操作，成本低于GPT-6.1 Sol。",
-      "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
+      "title": "GitHub Copilot支持服务间认证",
+      "summary": "该功能进入公开预览，面向安装在组织中的GitHub Apps，支持基于Copilot SDK构建的服务与智能体进行服务间认证。",
+      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
       "source": "GitHub Changelog",
-      "published": "2026-10-26T19:15:53+00:00",
+      "published": "2026-10-27T21:36:55Z",
       "category": "github"
     },
     {
-      "title": "GitHub推进面向代理规模的基础设施",
-      "summary": "GitHub介绍将99.99999%的代码仓库迁移至Azure，并通过按引用仲裁和对象存储提升读取扩展能力。",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub Blog",
-      "published": "2026-10-21T16:00:00+00:00",
+      "title": "Copilot辅助权限功能正式可用",
+      "summary": "辅助权限功能在GitHub Copilot CLI、Copilot应用和VS Code中正式可用，涉及运行命令、访问文件系统路径等权限请求。",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "source": "GitHub Changelog",
+      "published": "2026-10-26T22:31:30Z",
       "category": "github"
     }
   ]
