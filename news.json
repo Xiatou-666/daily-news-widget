@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-28T02:37:07.325605+00:00",
+  "updated_at": "2026-10-29T02:56:16.380829+00:00",
   "categories": {
     "physics": [
       {
-        "title": "集体泵浦迪克超辐射获得精确解析描述",
-        "summary": "预印本研究集体衰减与非相干泵浦下的双能级发射体，推导出迪克态布居拉普拉斯变换的精确有限连分式。",
-        "url": "https://arxiv.org/abs/2610.37665v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-27T17:59:34Z",
+        "title": "单分子自旋—光子接口研究发表",
+        "summary": "《自然》发表单分子自旋—光子接口研究，聚焦分子自旋与光子的连接。",
+        "url": "https://www.nature.com/articles/s41586-026-11147-6",
+        "source": "Nature 量子物理",
+        "published": "2026-10-28T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "研究厘清量子传感异常点的优势边界",
-        "summary": "预印本指出：在具有唯一稳态和非零弛豫隙的有限维林德布拉德系统中，异常点不改善弱扰动可靠检测所需观测时间的标度。",
-        "url": "https://arxiv.org/abs/2610.37660v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-27T17:59:06Z",
+        "title": "硅基单光子源兼顾亮度与纯度",
+        "summary": "研究通过在微腔内纳米级定位色心，构建明亮且高纯度的硅基单光子源。",
+        "url": "https://www.nature.com/articles/s41467-026-78809-x",
+        "source": "Nature 量子物理",
+        "published": "2026-10-28T00:00:00Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI分享数学与物理模型研究结果",
-        "summary": "OpenAI公布模型在挂谷猜想、指数时间假设和量子色动力学上的研究结果，并说明研究者如何核验与开展后续工作。",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-26T14:30:00Z",
+        "title": "OpenAI公布数学与物理研究进展",
+        "summary": "据中国科技网报道，OpenAI宣布在挂谷猜想、杨—米尔斯理论等问题上取得研究进展。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
+        "source": "中国科技网",
+        "published": "2026-10-27T06:08:19Z",
         "category": "ai"
       },
       {
-        "title": "上海交大团队构建生物状态转变预测框架",
-        "summary": "上海交大陈洛南团队及合作者构建AI赋能框架CauTrigger，用于复杂生物动态过程的状态转变预测。",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qY2h6ZV9jR2Y2Y2FUd0FycWpTOHRRaDVRRVRjcnpNUFpZbTZmQllMTm4wZlR5TlY0VkF5SjVvNngyUkcyOEFSV2tOX05WMUdHZWY2Y0RXOVRsaFNkclhr?oc=5",
-        "source": "上海交通大学新闻网",
-        "published": "2026-10-27T08:46:17Z",
+        "title": "OpenAI与ServiceNow扩大合作",
+        "summary": "双方将把OpenAI模型和智能体引入ServiceNow，并将其工作流接入ChatGPT与Codex。",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-28T13:15:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "固态变压器有望支撑AI用电增长",
-        "summary": "《麻省理工科技评论》探讨固态变压器如何应对电力需求上升，以及传统变压器供应紧张带来的电网升级需求。",
-        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-27T09:00:00Z",
+        "title": "苹果推出触屏MacBook Pro",
+        "summary": "苹果发布新款触屏MacBook Pro，起售价为2899美元。",
+        "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+        "source": "TechCrunch",
+        "published": "2026-10-28T17:26:10Z",
         "category": "tech"
       },
       {
-        "title": "iPhone Duo内屏破损引发铰链疑问",
-        "summary": "部分用户称新购iPhone Duo内屏在铰链上方出现裂纹或显示异常。The Verge分析铰链可能的影响，故障原因尚未确定。",
-        "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-        "source": "The Verge",
-        "published": "2026-10-27T22:55:05Z",
+        "title": "固态变压器有望支撑AI用电增长",
+        "summary": "《麻省理工科技评论》探讨固态变压器如何升级电网，应对AI热潮带来的电力需求增长。",
+        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "source": "MIT Technology Review",
+        "published": "2026-10-27T09:00:00Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot支持服务间认证",
-        "summary": "该功能进入公开预览，面向安装在组织中的GitHub Apps，支持基于Copilot SDK构建的服务与智能体进行服务间认证。",
-        "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+        "title": "Copilot Fusion正式上线",
+        "summary": "GitHub宣布Copilot Fusion正式可用，可根据任务智能路由和编排模型，减少手动选模。",
+        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
         "source": "GitHub Changelog",
-        "published": "2026-10-27T21:36:55Z",
+        "published": "2026-10-28T16:00:00Z",
         "category": "github"
       },
       {
-        "title": "Copilot辅助权限功能正式可用",
-        "summary": "辅助权限功能在GitHub Copilot CLI、Copilot应用和VS Code中正式可用，涉及运行命令、访问文件系统路径等权限请求。",
-        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+        "title": "GitHub开源智能体工作流正式可用",
+        "summary": "GitHub Next开源项目Agentic Workflows正式可用，支持自动处理议题分类、CI失败分析和文档更新等任务。",
+        "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
         "source": "GitHub Changelog",
-        "published": "2026-10-26T22:31:30Z",
+        "published": "2026-10-28T15:30:15Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "集体泵浦迪克超辐射获得精确解析描述",
-      "summary": "预印本研究集体衰减与非相干泵浦下的双能级发射体，推导出迪克态布居拉普拉斯变换的精确有限连分式。",
-      "url": "https://arxiv.org/abs/2610.37665v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-27T17:59:34Z",
+      "title": "单分子自旋—光子接口研究发表",
+      "summary": "《自然》发表单分子自旋—光子接口研究，聚焦分子自旋与光子的连接。",
+      "url": "https://www.nature.com/articles/s41586-026-11147-6",
+      "source": "Nature 量子物理",
+      "published": "2026-10-28T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "研究厘清量子传感异常点的优势边界",
-      "summary": "预印本指出：在具有唯一稳态和非零弛豫隙的有限维林德布拉德系统中，异常点不改善弱扰动可靠检测所需观测时间的标度。",
-      "url": "https://arxiv.org/abs/2610.37660v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-27T17:59:06Z",
+      "title": "硅基单光子源兼顾亮度与纯度",
+      "summary": "研究通过在微腔内纳米级定位色心，构建明亮且高纯度的硅基单光子源。",
+      "url": "https://www.nature.com/articles/s41467-026-78809-x",
+      "source": "Nature 量子物理",
+      "published": "2026-10-28T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI分享数学与物理模型研究结果",
-      "summary": "OpenAI公布模型在挂谷猜想、指数时间假设和量子色动力学上的研究结果，并说明研究者如何核验与开展后续工作。",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "OpenAI公布数学与物理研究进展",
+      "summary": "据中国科技网报道，OpenAI宣布在挂谷猜想、杨—米尔斯理论等问题上取得研究进展。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
+      "source": "中国科技网",
+      "published": "2026-10-27T06:08:19Z",
+      "category": "ai"
+    },
+    {
+      "title": "OpenAI与ServiceNow扩大合作",
+      "summary": "双方将把OpenAI模型和智能体引入ServiceNow，并将其工作流接入ChatGPT与Codex。",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI 官方新闻",
-      "published": "2026-10-26T14:30:00Z",
+      "published": "2026-10-28T13:15:00Z",
       "category": "ai"
     },
     {
-      "title": "上海交大团队构建生物状态转变预测框架",
-      "summary": "上海交大陈洛南团队及合作者构建AI赋能框架CauTrigger，用于复杂生物动态过程的状态转变预测。",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qY2h6ZV9jR2Y2Y2FUd0FycWpTOHRRaDVRRVRjcnpNUFpZbTZmQllMTm4wZlR5TlY0VkF5SjVvNngyUkcyOEFSV2tOX05WMUdHZWY2Y0RXOVRsaFNkclhr?oc=5",
-      "source": "上海交通大学新闻网",
-      "published": "2026-10-27T08:46:17Z",
-      "category": "ai"
+      "title": "苹果推出触屏MacBook Pro",
+      "summary": "苹果发布新款触屏MacBook Pro，起售价为2899美元。",
+      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "source": "TechCrunch",
+      "published": "2026-10-28T17:26:10Z",
+      "category": "tech"
     },
     {
       "title": "固态变压器有望支撑AI用电增长",
-      "summary": "《麻省理工科技评论》探讨固态变压器如何应对电力需求上升，以及传统变压器供应紧张带来的电网升级需求。",
+      "summary": "《麻省理工科技评论》探讨固态变压器如何升级电网，应对AI热潮带来的电力需求增长。",
       "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
       "source": "MIT Technology Review",
       "published": "2026-10-27T09:00:00Z",
       "category": "tech"
     },
     {
-      "title": "iPhone Duo内屏破损引发铰链疑问",
-      "summary": "部分用户称新购iPhone Duo内屏在铰链上方出现裂纹或显示异常。The Verge分析铰链可能的影响，故障原因尚未确定。",
-      "url": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-      "source": "The Verge",
-      "published": "2026-10-27T22:55:05Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub Copilot支持服务间认证",
-      "summary": "该功能进入公开预览，面向安装在组织中的GitHub Apps，支持基于Copilot SDK构建的服务与智能体进行服务间认证。",
-      "url": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
+      "title": "Copilot Fusion正式上线",
+      "summary": "GitHub宣布Copilot Fusion正式可用，可根据任务智能路由和编排模型，减少手动选模。",
+      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
       "source": "GitHub Changelog",
-      "published": "2026-10-27T21:36:55Z",
+      "published": "2026-10-28T16:00:00Z",
       "category": "github"
     },
     {
-      "title": "Copilot辅助权限功能正式可用",
-      "summary": "辅助权限功能在GitHub Copilot CLI、Copilot应用和VS Code中正式可用，涉及运行命令、访问文件系统路径等权限请求。",
-      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "title": "GitHub开源智能体工作流正式可用",
+      "summary": "GitHub Next开源项目Agentic Workflows正式可用，支持自动处理议题分类、CI失败分析和文档更新等任务。",
+      "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
       "source": "GitHub Changelog",
-      "published": "2026-10-26T22:31:30Z",
+      "published": "2026-10-28T15:30:15Z",
       "category": "github"
     }
   ]
