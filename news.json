@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-29T02:56:16.380829+00:00",
+  "updated_at": "2026-10-30T03:00:40.665768+00:00",
   "categories": {
     "physics": [
       {
-        "title": "单分子自旋—光子接口研究发表",
-        "summary": "《自然》发表单分子自旋—光子接口研究，聚焦分子自旋与光子的连接。",
-        "url": "https://www.nature.com/articles/s41586-026-11147-6",
-        "source": "Nature 量子物理",
-        "published": "2026-10-28T00:00:00Z",
+        "title": "局域量子容错计算提出新方案",
+        "summary": "arXiv预印本研究基于环面码的量子容错方案：在足够弱的局域随机泡利噪声下，以固定、恒定深度的纠错循环处理当前综合征。",
+        "url": "https://arxiv.org/abs/2610.38847v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-28T20:31:21Z",
         "category": "physics"
       },
       {
-        "title": "硅基单光子源兼顾亮度与纯度",
-        "summary": "研究通过在微腔内纳米级定位色心，构建明亮且高纯度的硅基单光子源。",
-        "url": "https://www.nature.com/articles/s41467-026-78809-x",
-        "source": "Nature 量子物理",
-        "published": "2026-10-28T00:00:00Z",
+        "title": "重复分束干涉方案探索引力介导纠缠",
+        "summary": "arXiv预印本提出并分析多次分束的干涉协议，每次分束使占据路径数翻倍，旨在研究空间分离质量之间的引力介导纠缠。",
+        "url": "https://arxiv.org/abs/2610.38840v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-10-28T20:27:58Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI公布数学与物理研究进展",
-        "summary": "据中国科技网报道，OpenAI宣布在挂谷猜想、杨—米尔斯理论等问题上取得研究进展。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
-        "source": "中国科技网",
-        "published": "2026-10-27T06:08:19Z",
+        "title": "OpenAI更新模型行为规范",
+        "summary": "新版Model Spec提出五项核心价值，旨在引导能力更强的AI作出合理判断、维护人的自主权，并忠实于人的意图。",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-29T17:00:00Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI与ServiceNow扩大合作",
-        "summary": "双方将把OpenAI模型和智能体引入ServiceNow，并将其工作流接入ChatGPT与Codex。",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-28T13:15:00Z",
+        "title": "AI初创团队称完成超长数学证明形式化",
+        "summary": "据麻省理工科技评论报道，一家华人AI初创团队用24天、4310万行代码完成一项超长数学证明的形式化验证，并全部开源。",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
+        "source": "麻省理工科技评论",
+        "published": "2026-10-29T03:28:17Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "苹果推出触屏MacBook Pro",
-        "summary": "苹果发布新款触屏MacBook Pro，起售价为2899美元。",
-        "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-        "source": "TechCrunch",
-        "published": "2026-10-28T17:26:10Z",
+        "title": "英特尔称入门笔记本芯片供不应求",
+        "summary": "英特尔在财报电话会上表示，面向平价笔记本的Wildcat Lake芯片需求超过供应，首席财务官称相关芯片已售罄。",
+        "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "source": "The Verge",
+        "published": "2026-10-29T23:48:25Z",
         "category": "tech"
       },
       {
-        "title": "固态变压器有望支撑AI用电增长",
-        "summary": "《麻省理工科技评论》探讨固态变压器如何升级电网，应对AI热潮带来的电力需求增长。",
-        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-        "source": "MIT Technology Review",
-        "published": "2026-10-27T09:00:00Z",
+        "title": "通用汽车就驾驶数据争议和解",
+        "summary": "通用汽车同意支付2.2亿美元，和解出售驾驶者私人数据的相关指控；今后收集或分享驾驶及位置数据须取得明确同意。",
+        "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+        "source": "TechCrunch",
+        "published": "2026-10-29T21:01:04Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Copilot Fusion正式上线",
-        "summary": "GitHub宣布Copilot Fusion正式可用，可根据任务智能路由和编排模型，减少手动选模。",
+        "title": "Copilot Fusion正式开放使用",
+        "summary": "GitHub宣布Copilot Fusion正式可用，可自动路由和编排所用模型，用户无需为每项任务手动选择模型。",
         "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
         "source": "GitHub Changelog",
         "published": "2026-10-28T16:00:00Z",
         "category": "github"
       },
       {
-        "title": "GitHub开源智能体工作流正式可用",
-        "summary": "GitHub Next开源项目Agentic Workflows正式可用，支持自动处理议题分类、CI失败分析和文档更新等任务。",
-        "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
-        "source": "GitHub Changelog",
-        "published": "2026-10-28T15:30:15Z",
+        "title": "GitHub发布2026年度开发者报告",
+        "summary": "Octoverse报告称，随着开发者使用智能体构建软件，2026年GitHub的提交和推送次数创新高，增长覆盖多个行业与领域。",
+        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+        "source": "GitHub Blog",
+        "published": "2026-10-28T16:07:40Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "单分子自旋—光子接口研究发表",
-      "summary": "《自然》发表单分子自旋—光子接口研究，聚焦分子自旋与光子的连接。",
-      "url": "https://www.nature.com/articles/s41586-026-11147-6",
-      "source": "Nature 量子物理",
-      "published": "2026-10-28T00:00:00Z",
+      "title": "局域量子容错计算提出新方案",
+      "summary": "arXiv预印本研究基于环面码的量子容错方案：在足够弱的局域随机泡利噪声下，以固定、恒定深度的纠错循环处理当前综合征。",
+      "url": "https://arxiv.org/abs/2610.38847v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-28T20:31:21Z",
       "category": "physics"
     },
     {
-      "title": "硅基单光子源兼顾亮度与纯度",
-      "summary": "研究通过在微腔内纳米级定位色心，构建明亮且高纯度的硅基单光子源。",
-      "url": "https://www.nature.com/articles/s41467-026-78809-x",
-      "source": "Nature 量子物理",
-      "published": "2026-10-28T00:00:00Z",
+      "title": "重复分束干涉方案探索引力介导纠缠",
+      "summary": "arXiv预印本提出并分析多次分束的干涉协议，每次分束使占据路径数翻倍，旨在研究空间分离质量之间的引力介导纠缠。",
+      "url": "https://arxiv.org/abs/2610.38840v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-10-28T20:27:58Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI公布数学与物理研究进展",
-      "summary": "据中国科技网报道，OpenAI宣布在挂谷猜想、杨—米尔斯理论等问题上取得研究进展。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
-      "source": "中国科技网",
-      "published": "2026-10-27T06:08:19Z",
-      "category": "ai"
-    },
-    {
-      "title": "OpenAI与ServiceNow扩大合作",
-      "summary": "双方将把OpenAI模型和智能体引入ServiceNow，并将其工作流接入ChatGPT与Codex。",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "OpenAI更新模型行为规范",
+      "summary": "新版Model Spec提出五项核心价值，旨在引导能力更强的AI作出合理判断、维护人的自主权，并忠实于人的意图。",
+      "url": "https://openai.com/index/updated-model-spec",
       "source": "OpenAI 官方新闻",
-      "published": "2026-10-28T13:15:00Z",
+      "published": "2026-10-29T17:00:00Z",
       "category": "ai"
     },
     {
-      "title": "苹果推出触屏MacBook Pro",
-      "summary": "苹果发布新款触屏MacBook Pro，起售价为2899美元。",
-      "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+      "title": "AI初创团队称完成超长数学证明形式化",
+      "summary": "据麻省理工科技评论报道，一家华人AI初创团队用24天、4310万行代码完成一项超长数学证明的形式化验证，并全部开源。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
+      "source": "麻省理工科技评论",
+      "published": "2026-10-29T03:28:17Z",
+      "category": "ai"
+    },
+    {
+      "title": "英特尔称入门笔记本芯片供不应求",
+      "summary": "英特尔在财报电话会上表示，面向平价笔记本的Wildcat Lake芯片需求超过供应，首席财务官称相关芯片已售罄。",
+      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "source": "The Verge",
+      "published": "2026-10-29T23:48:25Z",
+      "category": "tech"
+    },
+    {
+      "title": "通用汽车就驾驶数据争议和解",
+      "summary": "通用汽车同意支付2.2亿美元，和解出售驾驶者私人数据的相关指控；今后收集或分享驾驶及位置数据须取得明确同意。",
+      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
       "source": "TechCrunch",
-      "published": "2026-10-28T17:26:10Z",
+      "published": "2026-10-29T21:01:04Z",
       "category": "tech"
     },
     {
-      "title": "固态变压器有望支撑AI用电增长",
-      "summary": "《麻省理工科技评论》探讨固态变压器如何升级电网，应对AI热潮带来的电力需求增长。",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "source": "MIT Technology Review",
-      "published": "2026-10-27T09:00:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "Copilot Fusion正式上线",
-      "summary": "GitHub宣布Copilot Fusion正式可用，可根据任务智能路由和编排模型，减少手动选模。",
+      "title": "Copilot Fusion正式开放使用",
+      "summary": "GitHub宣布Copilot Fusion正式可用，可自动路由和编排所用模型，用户无需为每项任务手动选择模型。",
       "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
       "source": "GitHub Changelog",
       "published": "2026-10-28T16:00:00Z",
       "category": "github"
     },
     {
-      "title": "GitHub开源智能体工作流正式可用",
-      "summary": "GitHub Next开源项目Agentic Workflows正式可用，支持自动处理议题分类、CI失败分析和文档更新等任务。",
-      "url": "https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available",
-      "source": "GitHub Changelog",
-      "published": "2026-10-28T15:30:15Z",
+      "title": "GitHub发布2026年度开发者报告",
+      "summary": "Octoverse报告称，随着开发者使用智能体构建软件，2026年GitHub的提交和推送次数创新高，增长覆盖多个行业与领域。",
+      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "source": "GitHub Blog",
+      "published": "2026-10-28T16:07:40Z",
       "category": "github"
     }
   ]
