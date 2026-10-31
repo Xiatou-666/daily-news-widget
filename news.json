@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-10-30T03:00:40.665768+00:00",
+  "updated_at": "2026-10-31T02:46:43.472314+00:00",
   "categories": {
     "physics": [
       {
-        "title": "局域量子容错计算提出新方案",
-        "summary": "arXiv预印本研究基于环面码的量子容错方案：在足够弱的局域随机泡利噪声下，以固定、恒定深度的纠错循环处理当前综合征。",
-        "url": "https://arxiv.org/abs/2610.38847v1",
+        "title": "量子快照揭示隐藏守恒量",
+        "summary": "研究提出量子快照测温法，可恢复隐藏的守恒密度分布，并测量能量前沿与扩散常数。",
+        "url": "https://arxiv.org/abs/2610.40652v1",
         "source": "arXiv 量子物理",
-        "published": "2026-10-28T20:31:21Z",
+        "published": "2026-10-29T17:59:38Z",
         "category": "physics"
       },
       {
-        "title": "重复分束干涉方案探索引力介导纠缠",
-        "summary": "arXiv预印本提出并分析多次分束的干涉协议，每次分束使占据路径数翻倍，旨在研究空间分离质量之间的引力介导纠缠。",
-        "url": "https://arxiv.org/abs/2610.38840v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-28T20:27:58Z",
+        "title": "光学控制稳定冷原子共磁仪",
+        "summary": "Nature论文展示利用光学控制稳定冷原子共磁测量，有望提升精密测量的稳定性。",
+        "url": "https://www.nature.com/articles/s41566-026-02043-6",
+        "source": "Nature 量子物理",
+        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI更新模型行为规范",
-        "summary": "新版Model Spec提出五项核心价值，旨在引导能力更强的AI作出合理判断、维护人的自主权，并忠实于人的意图。",
-        "url": "https://openai.com/index/updated-model-spec",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-29T17:00:00Z",
+        "title": "OpenAI数学突破引发研究界讨论",
+        "summary": "报道聚焦OpenAI在挂谷猜想、杨—米尔斯理论等数学与物理问题上的新进展及其影响。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
+        "source": "Google News OpenAI 数学",
+        "published": "Tue, 27 Oct 2026 06:08:19 GMT",
         "category": "ai"
       },
       {
-        "title": "AI初创团队称完成超长数学证明形式化",
-        "summary": "据麻省理工科技评论报道，一家华人AI初创团队用24天、4310万行代码完成一项超长数学证明的形式化验证，并全部开源。",
+        "title": "AI完成超长数学证明形式化验证",
+        "summary": "报道一支华人AI初创团队完成数学超长证明的形式化验证，项目代码全部开源。",
         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
-        "source": "麻省理工科技评论",
-        "published": "2026-10-29T03:28:17Z",
+        "source": "Google News AI 数学推理",
+        "published": "Thu, 29 Oct 2026 03:28:17 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "英特尔称入门笔记本芯片供不应求",
-        "summary": "英特尔在财报电话会上表示，面向平价笔记本的Wildcat Lake芯片需求超过供应，首席财务官称相关芯片已售罄。",
-        "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "title": "谷歌卫星首次在太空运行AI",
+        "summary": "谷歌称其搭载TPU的卫星已在太空运行Gemma 4模型，并向地面生成首条响应。",
+        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
         "source": "The Verge",
-        "published": "2026-10-29T23:48:25Z",
+        "published": "2026-10-30T14:21:38-04:00",
         "category": "tech"
       },
       {
-        "title": "通用汽车就驾驶数据争议和解",
-        "summary": "通用汽车同意支付2.2亿美元，和解出售驾驶者私人数据的相关指控；今后收集或分享驾驶及位置数据须取得明确同意。",
-        "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-        "source": "TechCrunch",
-        "published": "2026-10-29T21:01:04Z",
+        "title": "苹果将通过iOS 27.3在华推出AI",
+        "summary": "苹果宣布Apple Intelligence将在中国随iOS 27.3推出，11月先开放测试版。",
+        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "source": "The Verge",
+        "published": "2026-10-30T18:32:53-04:00",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Copilot Fusion正式开放使用",
-        "summary": "GitHub宣布Copilot Fusion正式可用，可自动路由和编排所用模型，用户无需为每项任务手动选择模型。",
+        "title": "GitHub Copilot Fusion正式可用",
+        "summary": "Copilot Fusion现已正式发布，可自动路由并协调多个模型，减少开发者逐项选择模型的负担。",
         "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
         "source": "GitHub Changelog",
-        "published": "2026-10-28T16:00:00Z",
+        "published": "Wed, 28 Oct 2026 16:00:00 +0000",
         "category": "github"
       },
       {
         "title": "GitHub发布2026年度开发者报告",
-        "summary": "Octoverse报告称，随着开发者使用智能体构建软件，2026年GitHub的提交和推送次数创新高，增长覆盖多个行业与领域。",
+        "summary": "Octoverse报告称，2026年提交与推送量创历史新高，开发者正广泛使用智能代理构建软件。",
         "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
         "source": "GitHub Blog",
-        "published": "2026-10-28T16:07:40Z",
+        "published": "Wed, 28 Oct 2026 16:07:40 +0000",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "局域量子容错计算提出新方案",
-      "summary": "arXiv预印本研究基于环面码的量子容错方案：在足够弱的局域随机泡利噪声下，以固定、恒定深度的纠错循环处理当前综合征。",
-      "url": "https://arxiv.org/abs/2610.38847v1",
+      "title": "量子快照揭示隐藏守恒量",
+      "summary": "研究提出量子快照测温法，可恢复隐藏的守恒密度分布，并测量能量前沿与扩散常数。",
+      "url": "https://arxiv.org/abs/2610.40652v1",
       "source": "arXiv 量子物理",
-      "published": "2026-10-28T20:31:21Z",
+      "published": "2026-10-29T17:59:38Z",
       "category": "physics"
     },
     {
-      "title": "重复分束干涉方案探索引力介导纠缠",
-      "summary": "arXiv预印本提出并分析多次分束的干涉协议，每次分束使占据路径数翻倍，旨在研究空间分离质量之间的引力介导纠缠。",
-      "url": "https://arxiv.org/abs/2610.38840v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-28T20:27:58Z",
+      "title": "光学控制稳定冷原子共磁仪",
+      "summary": "Nature论文展示利用光学控制稳定冷原子共磁测量，有望提升精密测量的稳定性。",
+      "url": "https://www.nature.com/articles/s41566-026-02043-6",
+      "source": "Nature 量子物理",
+      "published": "Fri, 30 Oct 2026 00:00:00 +0000",
       "category": "physics"
     },
     {
-      "title": "OpenAI更新模型行为规范",
-      "summary": "新版Model Spec提出五项核心价值，旨在引导能力更强的AI作出合理判断、维护人的自主权，并忠实于人的意图。",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-29T17:00:00Z",
+      "title": "OpenAI数学突破引发研究界讨论",
+      "summary": "报道聚焦OpenAI在挂谷猜想、杨—米尔斯理论等数学与物理问题上的新进展及其影响。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
+      "source": "Google News OpenAI 数学",
+      "published": "Tue, 27 Oct 2026 06:08:19 GMT",
       "category": "ai"
     },
     {
-      "title": "AI初创团队称完成超长数学证明形式化",
-      "summary": "据麻省理工科技评论报道，一家华人AI初创团队用24天、4310万行代码完成一项超长数学证明的形式化验证，并全部开源。",
+      "title": "AI完成超长数学证明形式化验证",
+      "summary": "报道一支华人AI初创团队完成数学超长证明的形式化验证，项目代码全部开源。",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
-      "source": "麻省理工科技评论",
-      "published": "2026-10-29T03:28:17Z",
+      "source": "Google News AI 数学推理",
+      "published": "Thu, 29 Oct 2026 03:28:17 GMT",
       "category": "ai"
     },
     {
-      "title": "英特尔称入门笔记本芯片供不应求",
-      "summary": "英特尔在财报电话会上表示，面向平价笔记本的Wildcat Lake芯片需求超过供应，首席财务官称相关芯片已售罄。",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+      "title": "谷歌卫星首次在太空运行AI",
+      "summary": "谷歌称其搭载TPU的卫星已在太空运行Gemma 4模型，并向地面生成首条响应。",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "source": "The Verge",
-      "published": "2026-10-29T23:48:25Z",
+      "published": "2026-10-30T14:21:38-04:00",
       "category": "tech"
     },
     {
-      "title": "通用汽车就驾驶数据争议和解",
-      "summary": "通用汽车同意支付2.2亿美元，和解出售驾驶者私人数据的相关指控；今后收集或分享驾驶及位置数据须取得明确同意。",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "published": "2026-10-29T21:01:04Z",
+      "title": "苹果将通过iOS 27.3在华推出AI",
+      "summary": "苹果宣布Apple Intelligence将在中国随iOS 27.3推出，11月先开放测试版。",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge",
+      "published": "2026-10-30T18:32:53-04:00",
       "category": "tech"
     },
     {
-      "title": "Copilot Fusion正式开放使用",
-      "summary": "GitHub宣布Copilot Fusion正式可用，可自动路由和编排所用模型，用户无需为每项任务手动选择模型。",
+      "title": "GitHub Copilot Fusion正式可用",
+      "summary": "Copilot Fusion现已正式发布，可自动路由并协调多个模型，减少开发者逐项选择模型的负担。",
       "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
       "source": "GitHub Changelog",
-      "published": "2026-10-28T16:00:00Z",
+      "published": "Wed, 28 Oct 2026 16:00:00 +0000",
       "category": "github"
     },
     {
       "title": "GitHub发布2026年度开发者报告",
-      "summary": "Octoverse报告称，随着开发者使用智能体构建软件，2026年GitHub的提交和推送次数创新高，增长覆盖多个行业与领域。",
+      "summary": "Octoverse报告称，2026年提交与推送量创历史新高，开发者正广泛使用智能代理构建软件。",
       "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
       "source": "GitHub Blog",
-      "published": "2026-10-28T16:07:40Z",
+      "published": "Wed, 28 Oct 2026 16:07:40 +0000",
       "category": "github"
     }
   ]
