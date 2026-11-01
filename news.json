@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-10-31T02:46:43.472314+00:00",
+  "updated_at": "2026-11-01T02:39:38.307720+00:00",
   "categories": {
     "physics": [
       {
-        "title": "量子快照揭示隐藏守恒量",
-        "summary": "研究提出量子快照测温法，可恢复隐藏的守恒密度分布，并测量能量前沿与扩散常数。",
-        "url": "https://arxiv.org/abs/2610.40652v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-10-29T17:59:38Z",
-        "category": "physics"
+        "title": "多基量子位置验证方案研究发表",
+        "summary": "研究提出高效的多测量基量子位置验证方案，探讨其抵御广义攻击者的安全性。",
+        "url": "https://www.nature.com/articles/s41534-026-01325-9",
+        "source": "Nature 量子物理",
+        "published": "2026-10-31T00:00:00Z",
+        "category": "前沿物理"
       },
       {
-        "title": "光学控制稳定冷原子共磁仪",
-        "summary": "Nature论文展示利用光学控制稳定冷原子共磁测量，有望提升精密测量的稳定性。",
-        "url": "https://www.nature.com/articles/s41566-026-02043-6",
-        "source": "Nature 量子物理",
-        "published": "Fri, 30 Oct 2026 00:00:00 +0000",
-        "category": "physics"
+        "title": "中国科大实现高维量子神经元网络",
+        "summary": "中国科大新闻网报道，研究团队利用高维量子神经元实现量子神经网络。",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQnNFMHRkU2tpZk1jOXlWRXFVUkhYelpnZnR6UnJxOHREVGVaTGNGV0FOZWpYNHdvSEwtN2F1eTQ2RDFNOVROSVZxbVdQaXZaR3lueWxn?oc=5",
+        "source": "中国科大新闻网",
+        "published": "2026-10-30T10:10:39Z",
+        "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI数学突破引发研究界讨论",
-        "summary": "报道聚焦OpenAI在挂谷猜想、杨—米尔斯理论等数学与物理问题上的新进展及其影响。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
-        "source": "Google News OpenAI 数学",
-        "published": "Tue, 27 Oct 2026 06:08:19 GMT",
-        "category": "ai"
+        "title": "OpenAI将遵守网站AI训练偏好信号",
+        "summary": "OpenAI表示将遵守共享的robots.txt信号，帮助网站向参与该机制的服务商表达AI训练使用偏好。",
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-30T09:30:00Z",
+        "category": "人工智能"
       },
       {
-        "title": "AI完成超长数学证明形式化验证",
-        "summary": "报道一支华人AI初创团队完成数学超长证明的形式化验证，项目代码全部开源。",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
-        "source": "Google News AI 数学推理",
-        "published": "Thu, 29 Oct 2026 03:28:17 GMT",
-        "category": "ai"
+        "title": "OpenAI加强青少年保护与暴力预防",
+        "summary": "OpenAI宣布扩大ChatGPT安全防护、提前干预风险，并承诺开展公共安全报告，以加强暴力预防。",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-10-30T09:00:00Z",
+        "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "谷歌卫星首次在太空运行AI",
-        "summary": "谷歌称其搭载TPU的卫星已在太空运行Gemma 4模型，并向地面生成首条响应。",
-        "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "title": "Windows 11测试游戏模式快捷设置",
+        "summary": "最新预览版支持在Xbox模式内调整蓝牙、Wi-Fi和电源设置，并新增文件、操作与网页搜索结果筛选。",
+        "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
         "source": "The Verge",
-        "published": "2026-10-30T14:21:38-04:00",
-        "category": "tech"
+        "published": "2026-10-31T15:12:19Z",
+        "category": "科技发展"
       },
       {
-        "title": "苹果将通过iOS 27.3在华推出AI",
-        "summary": "苹果宣布Apple Intelligence将在中国随iOS 27.3推出，11月先开放测试版。",
-        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "source": "The Verge",
-        "published": "2026-10-30T18:32:53-04:00",
-        "category": "tech"
+        "title": "新芯航途发布X7 Ultra芯片",
+        "summary": "央视网报道，新芯航途发布X7 Ultra芯片，推动“大模型定义芯片”理念向产品落地。",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Um5MRndiRkNCLXNyWlRfV3VlTFFSXzJ6MUdWS2tsc0h6VnRVbFNxaDJQM1g5VzNRRkdVU3NYNHlfVnFvTUd2UzIteF9pejZ6aEE5WFFrSnQ4djBVNS1GRjlPeHNRWkM2azYyWXJTX1F5T0ZxOVExXw?oc=5",
+        "source": "央视网",
+        "published": "2026-10-30T08:33:57Z",
+        "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub Copilot Fusion正式可用",
-        "summary": "Copilot Fusion现已正式发布，可自动路由并协调多个模型，减少开发者逐项选择模型的负担。",
-        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-        "source": "GitHub Changelog",
-        "published": "Wed, 28 Oct 2026 16:00:00 +0000",
-        "category": "github"
+        "title": "DeepSeek据报开源Super agent架构",
+        "summary": "新浪财经报道，DeepSeek公布并开源Super agent架构；所给新闻摘要未披露具体技术细节。",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkJGVnA5U1pwa0tWVTdNcjdZMXRqdHlxNlVDdHNWbDI3ZnFjY3hVTFF6THVLTUMtamc3TWZuR3dmWHJmRHRnTHJ3SzRCcDlCeHJ6Tm9KbVhpbDZKWnhadTh4aHI0TFRjMVp4NzlkSHNJRExTSGFNSXFXQkhRWUN5VkExbW9PTlAyLUphWFZtTUkzcTRHbEpIZ2c1c2tJNC04aW5SeW1QYXZONnV1cEpLeEJVR3g0azlsU0lCYmo5bUgzb01WV1RpbE1teTNBekJjaDBVb21B?oc=5",
+        "source": "新浪财经",
+        "published": "2026-10-31T23:13:40Z",
+        "category": "GitHub/开源"
       },
       {
-        "title": "GitHub发布2026年度开发者报告",
-        "summary": "Octoverse报告称，2026年提交与推送量创历史新高，开发者正广泛使用智能代理构建软件。",
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-        "source": "GitHub Blog",
-        "published": "Wed, 28 Oct 2026 16:07:40 +0000",
-        "category": "github"
+        "title": "商汤开源SenseNova Loop模型预览版",
+        "summary": "据报道，商汤于10月30日开源SenseNova Loop-9B-Preview，并宣称其表现可媲美27B参数模型。",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CdXlJNnRNY0hkNmJhYmhnS0lVSkNYYmFLbklkYXdmLVUzck52eWx6Y2o2d1Utb3RMYWctY3FLcmZ5bGwtRTRjeFJRUHA?oc=5",
+        "source": "凤凰网科技",
+        "published": "2026-11-01T01:03:30Z",
+        "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "量子快照揭示隐藏守恒量",
-      "summary": "研究提出量子快照测温法，可恢复隐藏的守恒密度分布，并测量能量前沿与扩散常数。",
-      "url": "https://arxiv.org/abs/2610.40652v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-10-29T17:59:38Z",
-      "category": "physics"
-    },
-    {
-      "title": "光学控制稳定冷原子共磁仪",
-      "summary": "Nature论文展示利用光学控制稳定冷原子共磁测量，有望提升精密测量的稳定性。",
-      "url": "https://www.nature.com/articles/s41566-026-02043-6",
+      "title": "多基量子位置验证方案研究发表",
+      "summary": "研究提出高效的多测量基量子位置验证方案，探讨其抵御广义攻击者的安全性。",
+      "url": "https://www.nature.com/articles/s41534-026-01325-9",
       "source": "Nature 量子物理",
-      "published": "Fri, 30 Oct 2026 00:00:00 +0000",
-      "category": "physics"
+      "published": "2026-10-31T00:00:00Z",
+      "category": "前沿物理"
     },
     {
-      "title": "OpenAI数学突破引发研究界讨论",
-      "summary": "报道聚焦OpenAI在挂谷猜想、杨—米尔斯理论等数学与物理问题上的新进展及其影响。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TVJ2YllUN01abUE5eWNCbzlLdTNkUEFuN1VOdGg0NFhUWW5vRVJwTVhOM1I0TE50a2RabWtJUGdkZEg1bXZDalo3VVJWWS05SUpkc2N6YVEybXlId2Q4S042amJFenhiZHFsZ0RIODQ?oc=5",
-      "source": "Google News OpenAI 数学",
-      "published": "Tue, 27 Oct 2026 06:08:19 GMT",
-      "category": "ai"
+      "title": "中国科大实现高维量子神经元网络",
+      "summary": "中国科大新闻网报道，研究团队利用高维量子神经元实现量子神经网络。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQnNFMHRkU2tpZk1jOXlWRXFVUkhYelpnZnR6UnJxOHREVGVaTGNGV0FOZWpYNHdvSEwtN2F1eTQ2RDFNOVROSVZxbVdQaXZaR3lueWxn?oc=5",
+      "source": "中国科大新闻网",
+      "published": "2026-10-30T10:10:39Z",
+      "category": "前沿物理"
     },
     {
-      "title": "AI完成超长数学证明形式化验证",
-      "summary": "报道一支华人AI初创团队完成数学超长证明的形式化验证，项目代码全部开源。",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9sX2NnRG5oTHpTdzFoUEMyWktXVjRKN1pkNzhhUElFdWY5STlMNzQyWGJFdERndmtxT3hVSzZXTjk2X1JDU3pVRXNEVkxWRlByajR2eGdGYw?oc=5",
-      "source": "Google News AI 数学推理",
-      "published": "Thu, 29 Oct 2026 03:28:17 GMT",
-      "category": "ai"
+      "title": "OpenAI将遵守网站AI训练偏好信号",
+      "summary": "OpenAI表示将遵守共享的robots.txt信号，帮助网站向参与该机制的服务商表达AI训练使用偏好。",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-30T09:30:00Z",
+      "category": "人工智能"
     },
     {
-      "title": "谷歌卫星首次在太空运行AI",
-      "summary": "谷歌称其搭载TPU的卫星已在太空运行Gemma 4模型，并向地面生成首条响应。",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "title": "OpenAI加强青少年保护与暴力预防",
+      "summary": "OpenAI宣布扩大ChatGPT安全防护、提前干预风险，并承诺开展公共安全报告，以加强暴力预防。",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-10-30T09:00:00Z",
+      "category": "人工智能"
+    },
+    {
+      "title": "Windows 11测试游戏模式快捷设置",
+      "summary": "最新预览版支持在Xbox模式内调整蓝牙、Wi-Fi和电源设置，并新增文件、操作与网页搜索结果筛选。",
+      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
       "source": "The Verge",
-      "published": "2026-10-30T14:21:38-04:00",
-      "category": "tech"
+      "published": "2026-10-31T15:12:19Z",
+      "category": "科技发展"
     },
     {
-      "title": "苹果将通过iOS 27.3在华推出AI",
-      "summary": "苹果宣布Apple Intelligence将在中国随iOS 27.3推出，11月先开放测试版。",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "published": "2026-10-30T18:32:53-04:00",
-      "category": "tech"
+      "title": "新芯航途发布X7 Ultra芯片",
+      "summary": "央视网报道，新芯航途发布X7 Ultra芯片，推动“大模型定义芯片”理念向产品落地。",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Um5MRndiRkNCLXNyWlRfV3VlTFFSXzJ6MUdWS2tsc0h6VnRVbFNxaDJQM1g5VzNRRkdVU3NYNHlfVnFvTUd2UzIteF9pejZ6aEE5WFFrSnQ4djBVNS1GRjlPeHNRWkM2azYyWXJTX1F5T0ZxOVExXw?oc=5",
+      "source": "央视网",
+      "published": "2026-10-30T08:33:57Z",
+      "category": "科技发展"
     },
     {
-      "title": "GitHub Copilot Fusion正式可用",
-      "summary": "Copilot Fusion现已正式发布，可自动路由并协调多个模型，减少开发者逐项选择模型的负担。",
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "source": "GitHub Changelog",
-      "published": "Wed, 28 Oct 2026 16:00:00 +0000",
-      "category": "github"
+      "title": "DeepSeek据报开源Super agent架构",
+      "summary": "新浪财经报道，DeepSeek公布并开源Super agent架构；所给新闻摘要未披露具体技术细节。",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkJGVnA5U1pwa0tWVTdNcjdZMXRqdHlxNlVDdHNWbDI3ZnFjY3hVTFF6THVLTUMtamc3TWZuR3dmWHJmRHRnTHJ3SzRCcDlCeHJ6Tm9KbVhpbDZKWnhadTh4aHI0TFRjMVp4NzlkSHNJRExTSGFNSXFXQkhRWUN5VkExbW9PTlAyLUphWFZtTUkzcTRHbEpIZ2c1c2tJNC04aW5SeW1QYXZONnV1cEpLeEJVR3g0azlsU0lCYmo5bUgzb01WV1RpbE1teTNBekJjaDBVb21B?oc=5",
+      "source": "新浪财经",
+      "published": "2026-10-31T23:13:40Z",
+      "category": "GitHub/开源"
     },
     {
-      "title": "GitHub发布2026年度开发者报告",
-      "summary": "Octoverse报告称，2026年提交与推送量创历史新高，开发者正广泛使用智能代理构建软件。",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "source": "GitHub Blog",
-      "published": "Wed, 28 Oct 2026 16:07:40 +0000",
-      "category": "github"
+      "title": "商汤开源SenseNova Loop模型预览版",
+      "summary": "据报道，商汤于10月30日开源SenseNova Loop-9B-Preview，并宣称其表现可媲美27B参数模型。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CdXlJNnRNY0hkNmJhYmhnS0lVSkNYYmFLbklkYXdmLVUzck52eWx6Y2o2d1Utb3RMYWctY3FLcmZ5bGwtRTRjeFJRUHA?oc=5",
+      "source": "凤凰网科技",
+      "published": "2026-11-01T01:03:30Z",
+      "category": "GitHub/开源"
     }
   ]
 }
