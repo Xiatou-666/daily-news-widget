@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-11-01T02:39:38.307720+00:00",
+  "updated_at": "2026-11-02T02:47:05.197386+00:00",
   "categories": {
     "physics": [
       {
-        "title": "多基量子位置验证方案研究发表",
-        "summary": "研究提出高效的多测量基量子位置验证方案，探讨其抵御广义攻击者的安全性。",
+        "title": "里德堡原子阵列实现按需带宽微波接收",
+        "summary": "研究提出结合斯塔克频率梳与可扩展里德堡蒸气室阵列的微波接收器，实现按需配置瞬时带宽。",
+        "url": "https://www.nature.com/articles/s42005-026-02941-9",
+        "source": "Nature 量子物理",
+        "published": "2026-11-01T00:00:00Z",
+        "category": "physics"
+      },
+      {
+        "title": "多基量子位置验证研究拓展安全性",
+        "summary": "研究提出高效的多基量子位置验证方案，讨论其对广义攻击者的安全性。",
         "url": "https://www.nature.com/articles/s41534-026-01325-9",
         "source": "Nature 量子物理",
         "published": "2026-10-31T00:00:00Z",
-        "category": "前沿物理"
-      },
-      {
-        "title": "中国科大实现高维量子神经元网络",
-        "summary": "中国科大新闻网报道，研究团队利用高维量子神经元实现量子神经网络。",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQnNFMHRkU2tpZk1jOXlWRXFVUkhYelpnZnR6UnJxOHREVGVaTGNGV0FOZWpYNHdvSEwtN2F1eTQ2RDFNOVROSVZxbVdQaXZaR3lueWxn?oc=5",
-        "source": "中国科大新闻网",
-        "published": "2026-10-30T10:10:39Z",
-        "category": "前沿物理"
+        "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI将遵守网站AI训练偏好信号",
-        "summary": "OpenAI表示将遵守共享的robots.txt信号，帮助网站向参与该机制的服务商表达AI训练使用偏好。",
-        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-30T09:30:00Z",
-        "category": "人工智能"
+        "title": "奥特曼称仍有数学发现尚未公开",
+        "summary": "新浪财经报道，奥特曼称OpenAI仍有数学领域发现尚未公开；报道未提供这些发现的具体细节。",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RTVkVEFITUVZTEo5MUxHZzh4VXNCOGxQdjhjZzdtLWtqa21HRUZFRVNRa3FPc1lXYlYzYVlPVlpaX3BNaEhOaGRRT0hEQzlIeUhWVy05STZwRnFaY3VzM0JwcXFLSXk0R2phMlptSGpLLTd2bXc?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-01T10:19:06Z",
+        "category": "ai"
       },
       {
-        "title": "OpenAI加强青少年保护与暴力预防",
-        "summary": "OpenAI宣布扩大ChatGPT安全防护、提前干预风险，并承诺开展公共安全报告，以加强暴力预防。",
-        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-10-30T09:00:00Z",
-        "category": "人工智能"
+        "title": "多贝西：AI不会取代数学家",
+        "summary": "沃尔夫数学奖得主多贝西接受科学网专访，讨论AI与数学研究的关系，认为AI不会取代数学家。",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KU1NucEJIbjlUZ3ZoMC1ocTZRTW5VMDR2OXZRc0Jfb1R6XzRYNzdyaS1SVDdWWExMcl8xWUh1emJYZ0hnU1ZaOHVwVnN6bXZNVFotc2lUS3lHUm4weEVYbGlndktsZw?oc=5",
+        "source": "科学网",
+        "published": "2026-11-01T11:01:21Z",
+        "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Windows 11测试游戏模式快捷设置",
-        "summary": "最新预览版支持在Xbox模式内调整蓝牙、Wi-Fi和电源设置，并新增文件、操作与网页搜索结果筛选。",
-        "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+        "title": "NASA寻求商业力量为哈勃延寿",
+        "summary": "NASA征集商业在轨服务方案。若不提升轨道，哈勃望远镜可能在2030年代初至中期再入大气层。",
+        "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
         "source": "The Verge",
-        "published": "2026-10-31T15:12:19Z",
-        "category": "科技发展"
+        "published": "2026-11-01T21:09:21Z",
+        "category": "tech"
       },
       {
-        "title": "新芯航途发布X7 Ultra芯片",
-        "summary": "央视网报道，新芯航途发布X7 Ultra芯片，推动“大模型定义芯片”理念向产品落地。",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Um5MRndiRkNCLXNyWlRfV3VlTFFSXzJ6MUdWS2tsc0h6VnRVbFNxaDJQM1g5VzNRRkdVU3NYNHlfVnFvTUd2UzIteF9pejZ6aEE5WFFrSnQ4djBVNS1GRjlPeHNRWkM2azYyWXJTX1F5T0ZxOVExXw?oc=5",
-        "source": "央视网",
-        "published": "2026-10-30T08:33:57Z",
-        "category": "科技发展"
+        "title": "币安遭63亿美元盗窃后恢复提现",
+        "summary": "币安在遭遇63亿美元资产盗窃后恢复提现，并表示已补足被盗资产的95%。",
+        "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+        "source": "TechCrunch",
+        "published": "2026-11-01T16:20:10Z",
+        "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "DeepSeek据报开源Super agent架构",
-        "summary": "新浪财经报道，DeepSeek公布并开源Super agent架构；所给新闻摘要未披露具体技术细节。",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkJGVnA5U1pwa0tWVTdNcjdZMXRqdHlxNlVDdHNWbDI3ZnFjY3hVTFF6THVLTUMtamc3TWZuR3dmWHJmRHRnTHJ3SzRCcDlCeHJ6Tm9KbVhpbDZKWnhadTh4aHI0TFRjMVp4NzlkSHNJRExTSGFNSXFXQkhRWUN5VkExbW9PTlAyLUphWFZtTUkzcTRHbEpIZ2c1c2tJNC04aW5SeW1QYXZONnV1cEpLeEJVR3g0azlsU0lCYmo5bUgzb01WV1RpbE1teTNBekJjaDBVb21B?oc=5",
-        "source": "新浪财经",
-        "published": "2026-10-31T23:13:40Z",
-        "category": "GitHub/开源"
+        "title": "GitHub游戏创作赛公布SHIFT主题",
+        "summary": "第14届Game Off游戏创作赛回归，邀请开发者在11月围绕SHIFT主题，用一个月制作游戏。",
+        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+        "source": "GitHub Blog",
+        "published": "2026-11-01T21:36:00Z",
+        "category": "github"
       },
       {
-        "title": "商汤开源SenseNova Loop模型预览版",
-        "summary": "据报道，商汤于10月30日开源SenseNova Loop-9B-Preview，并宣称其表现可媲美27B参数模型。",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CdXlJNnRNY0hkNmJhYmhnS0lVSkNYYmFLbklkYXdmLVUzck52eWx6Y2o2d1Utb3RMYWctY3FLcmZ5bGwtRTRjeFJRUHA?oc=5",
-        "source": "凤凰网科技",
-        "published": "2026-11-01T01:03:30Z",
-        "category": "GitHub/开源"
+        "title": "DeepSeek开源智能体底座架构",
+        "summary": "据智源社区报道，DeepSeek开源智能体底座架构；所给新闻摘要未披露具体功能与技术细节。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Tm1TYWdSeFp3X1Nab0o2cGs1djVVSWVTblZTQUxxTEw2WGs2UDBNNEJ2ZkJzMHJEbWZOUGV2VThiM2ptOUNKZg?oc=5",
+        "source": "智源社区",
+        "published": "2026-11-01T15:00:00Z",
+        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "多基量子位置验证方案研究发表",
-      "summary": "研究提出高效的多测量基量子位置验证方案，探讨其抵御广义攻击者的安全性。",
+      "title": "里德堡原子阵列实现按需带宽微波接收",
+      "summary": "研究提出结合斯塔克频率梳与可扩展里德堡蒸气室阵列的微波接收器，实现按需配置瞬时带宽。",
+      "url": "https://www.nature.com/articles/s42005-026-02941-9",
+      "source": "Nature 量子物理",
+      "published": "2026-11-01T00:00:00Z",
+      "category": "physics"
+    },
+    {
+      "title": "多基量子位置验证研究拓展安全性",
+      "summary": "研究提出高效的多基量子位置验证方案，讨论其对广义攻击者的安全性。",
       "url": "https://www.nature.com/articles/s41534-026-01325-9",
       "source": "Nature 量子物理",
       "published": "2026-10-31T00:00:00Z",
-      "category": "前沿物理"
+      "category": "physics"
     },
     {
-      "title": "中国科大实现高维量子神经元网络",
-      "summary": "中国科大新闻网报道，研究团队利用高维量子神经元实现量子神经网络。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JQnNFMHRkU2tpZk1jOXlWRXFVUkhYelpnZnR6UnJxOHREVGVaTGNGV0FOZWpYNHdvSEwtN2F1eTQ2RDFNOVROSVZxbVdQaXZaR3lueWxn?oc=5",
-      "source": "中国科大新闻网",
-      "published": "2026-10-30T10:10:39Z",
-      "category": "前沿物理"
-    },
-    {
-      "title": "OpenAI将遵守网站AI训练偏好信号",
-      "summary": "OpenAI表示将遵守共享的robots.txt信号，帮助网站向参与该机制的服务商表达AI训练使用偏好。",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-30T09:30:00Z",
-      "category": "人工智能"
-    },
-    {
-      "title": "OpenAI加强青少年保护与暴力预防",
-      "summary": "OpenAI宣布扩大ChatGPT安全防护、提前干预风险，并承诺开展公共安全报告，以加强暴力预防。",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-10-30T09:00:00Z",
-      "category": "人工智能"
-    },
-    {
-      "title": "Windows 11测试游戏模式快捷设置",
-      "summary": "最新预览版支持在Xbox模式内调整蓝牙、Wi-Fi和电源设置，并新增文件、操作与网页搜索结果筛选。",
-      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "source": "The Verge",
-      "published": "2026-10-31T15:12:19Z",
-      "category": "科技发展"
-    },
-    {
-      "title": "新芯航途发布X7 Ultra芯片",
-      "summary": "央视网报道，新芯航途发布X7 Ultra芯片，推动“大模型定义芯片”理念向产品落地。",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92Um5MRndiRkNCLXNyWlRfV3VlTFFSXzJ6MUdWS2tsc0h6VnRVbFNxaDJQM1g5VzNRRkdVU3NYNHlfVnFvTUd2UzIteF9pejZ6aEE5WFFrSnQ4djBVNS1GRjlPeHNRWkM2azYyWXJTX1F5T0ZxOVExXw?oc=5",
-      "source": "央视网",
-      "published": "2026-10-30T08:33:57Z",
-      "category": "科技发展"
-    },
-    {
-      "title": "DeepSeek据报开源Super agent架构",
-      "summary": "新浪财经报道，DeepSeek公布并开源Super agent架构；所给新闻摘要未披露具体技术细节。",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRkJGVnA5U1pwa0tWVTdNcjdZMXRqdHlxNlVDdHNWbDI3ZnFjY3hVTFF6THVLTUMtamc3TWZuR3dmWHJmRHRnTHJ3SzRCcDlCeHJ6Tm9KbVhpbDZKWnhadTh4aHI0TFRjMVp4NzlkSHNJRExTSGFNSXFXQkhRWUN5VkExbW9PTlAyLUphWFZtTUkzcTRHbEpIZ2c1c2tJNC04aW5SeW1QYXZONnV1cEpLeEJVR3g0azlsU0lCYmo5bUgzb01WV1RpbE1teTNBekJjaDBVb21B?oc=5",
+      "title": "奥特曼称仍有数学发现尚未公开",
+      "summary": "新浪财经报道，奥特曼称OpenAI仍有数学领域发现尚未公开；报道未提供这些发现的具体细节。",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RTVkVEFITUVZTEo5MUxHZzh4VXNCOGxQdjhjZzdtLWtqa21HRUZFRVNRa3FPc1lXYlYzYVlPVlpaX3BNaEhOaGRRT0hEQzlIeUhWVy05STZwRnFaY3VzM0JwcXFLSXk0R2phMlptSGpLLTd2bXc?oc=5",
       "source": "新浪财经",
-      "published": "2026-10-31T23:13:40Z",
-      "category": "GitHub/开源"
+      "published": "2026-11-01T10:19:06Z",
+      "category": "ai"
     },
     {
-      "title": "商汤开源SenseNova Loop模型预览版",
-      "summary": "据报道，商汤于10月30日开源SenseNova Loop-9B-Preview，并宣称其表现可媲美27B参数模型。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CdXlJNnRNY0hkNmJhYmhnS0lVSkNYYmFLbklkYXdmLVUzck52eWx6Y2o2d1Utb3RMYWctY3FLcmZ5bGwtRTRjeFJRUHA?oc=5",
-      "source": "凤凰网科技",
-      "published": "2026-11-01T01:03:30Z",
-      "category": "GitHub/开源"
+      "title": "多贝西：AI不会取代数学家",
+      "summary": "沃尔夫数学奖得主多贝西接受科学网专访，讨论AI与数学研究的关系，认为AI不会取代数学家。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KU1NucEJIbjlUZ3ZoMC1ocTZRTW5VMDR2OXZRc0Jfb1R6XzRYNzdyaS1SVDdWWExMcl8xWUh1emJYZ0hnU1ZaOHVwVnN6bXZNVFotc2lUS3lHUm4weEVYbGlndktsZw?oc=5",
+      "source": "科学网",
+      "published": "2026-11-01T11:01:21Z",
+      "category": "ai"
+    },
+    {
+      "title": "NASA寻求商业力量为哈勃延寿",
+      "summary": "NASA征集商业在轨服务方案。若不提升轨道，哈勃望远镜可能在2030年代初至中期再入大气层。",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "source": "The Verge",
+      "published": "2026-11-01T21:09:21Z",
+      "category": "tech"
+    },
+    {
+      "title": "币安遭63亿美元盗窃后恢复提现",
+      "summary": "币安在遭遇63亿美元资产盗窃后恢复提现，并表示已补足被盗资产的95%。",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "source": "TechCrunch",
+      "published": "2026-11-01T16:20:10Z",
+      "category": "tech"
+    },
+    {
+      "title": "GitHub游戏创作赛公布SHIFT主题",
+      "summary": "第14届Game Off游戏创作赛回归，邀请开发者在11月围绕SHIFT主题，用一个月制作游戏。",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "published": "2026-11-01T21:36:00Z",
+      "category": "github"
+    },
+    {
+      "title": "DeepSeek开源智能体底座架构",
+      "summary": "据智源社区报道，DeepSeek开源智能体底座架构；所给新闻摘要未披露具体功能与技术细节。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Tm1TYWdSeFp3X1Nab0o2cGs1djVVSWVTblZTQUxxTEw2WGs2UDBNNEJ2ZkJzMHJEbWZOUGV2VThiM2ptOUNKZg?oc=5",
+      "source": "智源社区",
+      "published": "2026-11-01T15:00:00Z",
+      "category": "github"
     }
   ]
 }
