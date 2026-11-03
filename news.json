@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-02T02:47:05.197386+00:00",
+  "updated_at": "2026-11-03T04:04:43.357551+00:00",
   "categories": {
     "physics": [
       {
-        "title": "里德堡原子阵列实现按需带宽微波接收",
-        "summary": "研究提出结合斯塔克频率梳与可扩展里德堡蒸气室阵列的微波接收器，实现按需配置瞬时带宽。",
-        "url": "https://www.nature.com/articles/s42005-026-02941-9",
+        "title": "一维纳米带原子编织构建二维量子材料",
+        "summary": "研究提出通过一维纳米带的原子级编织合成二维量子材料，探索量子材料构建新路径。",
+        "url": "https://www.nature.com/articles/s42005-026-02936-6",
         "source": "Nature 量子物理",
-        "published": "2026-11-01T00:00:00Z",
+        "published": "2026-11-02T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "多基量子位置验证研究拓展安全性",
-        "summary": "研究提出高效的多基量子位置验证方案，讨论其对广义攻击者的安全性。",
-        "url": "https://www.nature.com/articles/s41534-026-01325-9",
+        "title": "次线性深度群设计的不可能性定理",
+        "summary": "研究讨论次线性深度群设计的不可能性定理，揭示相关数学结构的构造限制。",
+        "url": "https://www.nature.com/articles/s41467-026-77778-5",
         "source": "Nature 量子物理",
-        "published": "2026-10-31T00:00:00Z",
+        "published": "2026-11-02T00:00:00Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "奥特曼称仍有数学发现尚未公开",
-        "summary": "新浪财经报道，奥特曼称OpenAI仍有数学领域发现尚未公开；报道未提供这些发现的具体细节。",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RTVkVEFITUVZTEo5MUxHZzh4VXNCOGxQdjhjZzdtLWtqa21HRUZFRVNRa3FPc1lXYlYzYVlPVlpaX3BNaEhOaGRRT0hEQzlIeUhWVy05STZwRnFaY3VzM0JwcXFLSXk0R2phMlptSGpLLTd2bXc?oc=5",
-        "source": "新浪财经",
-        "published": "2026-11-01T10:19:06Z",
+        "title": "奥特曼称OpenAI尚有数学发现未公开",
+        "summary": "据智源社区报道，奥特曼称OpenAI还有未公开的数学发现；所给信息未披露具体成果及验证细节。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jSEtPamVUdXJzNFlZQ080bU91LXlKOGRFTTFwaGk4NVdZZmljeFk4UmMwWUZQYmk4UUtiM1MtU2pEal83Z2xTLQ?oc=5",
+        "source": "智源社区",
+        "published": "2026-11-02T12:50:00Z",
         "category": "ai"
       },
       {
-        "title": "多贝西：AI不会取代数学家",
-        "summary": "沃尔夫数学奖得主多贝西接受科学网专访，讨论AI与数学研究的关系，认为AI不会取代数学家。",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KU1NucEJIbjlUZ3ZoMC1ocTZRTW5VMDR2OXZRc0Jfb1R6XzRYNzdyaS1SVDdWWExMcl8xWUh1emJYZ0hnU1ZaOHVwVnN6bXZNVFotc2lUS3lHUm4weEVYbGlndktsZw?oc=5",
-        "source": "科学网",
-        "published": "2026-11-01T11:01:21Z",
+        "title": "OpenAI推出日常任务评测LifeVal",
+        "summary": "LifeVal衡量AI帮助人们完成日常事务的能力，任务涵盖寻找托育服务、管理财务及办理政府文书。",
+        "url": "https://openai.com/index/lifeval",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-11-02T09:00:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "NASA寻求商业力量为哈勃延寿",
-        "summary": "NASA征集商业在轨服务方案。若不提升轨道，哈勃望远镜可能在2030年代初至中期再入大气层。",
-        "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+        "title": "谷歌称已拆除130万台设备后门",
+        "summary": "谷歌称安卓合作厂商在130万台设备中植入后门并组成僵尸网络，现已拆除后门并终止与该厂商合作。",
+        "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
         "source": "The Verge",
-        "published": "2026-11-01T21:09:21Z",
+        "published": "2026-11-02T22:36:44Z",
         "category": "tech"
       },
       {
-        "title": "币安遭63亿美元盗窃后恢复提现",
-        "summary": "币安在遭遇63亿美元资产盗窃后恢复提现，并表示已补足被盗资产的95%。",
-        "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-        "source": "TechCrunch",
-        "published": "2026-11-01T16:20:10Z",
+        "title": "宝马计划2027年推出城市驾驶辅助",
+        "summary": "宝马将从德国起扩展导航引导的部分自动驾驶功能至城市道路，系统可辅助转向、加速和减速，并非完全自动驾驶。",
+        "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+        "source": "The Verge",
+        "published": "2026-11-02T20:04:22Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub游戏创作赛公布SHIFT主题",
-        "summary": "第14届Game Off游戏创作赛回归，邀请开发者在11月围绕SHIFT主题，用一个月制作游戏。",
-        "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-        "source": "GitHub Blog",
-        "published": "2026-11-01T21:36:00Z",
+        "title": "GitHub安全评估新增仓库保护状态",
+        "summary": "代码与密钥安全风险评估现可显示发现的问题是否位于受保护仓库，帮助组织识别安全覆盖缺口。",
+        "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+        "source": "GitHub Changelog",
+        "published": "2026-11-02T15:47:21Z",
         "category": "github"
       },
       {
-        "title": "DeepSeek开源智能体底座架构",
-        "summary": "据智源社区报道，DeepSeek开源智能体底座架构；所给新闻摘要未披露具体功能与技术细节。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Tm1TYWdSeFp3X1Nab0o2cGs1djVVSWVTblZTQUxxTEw2WGs2UDBNNEJ2ZkJzMHJEbWZOUGV2VThiM2ptOUNKZg?oc=5",
-        "source": "智源社区",
-        "published": "2026-11-01T15:00:00Z",
+        "title": "GitHub将默认阻止高风险PR事件",
+        "summary": "自12月2日起，公开仓库的Actions默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
+        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+        "source": "GitHub Changelog",
+        "published": "2026-11-02T15:14:46Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "里德堡原子阵列实现按需带宽微波接收",
-      "summary": "研究提出结合斯塔克频率梳与可扩展里德堡蒸气室阵列的微波接收器，实现按需配置瞬时带宽。",
-      "url": "https://www.nature.com/articles/s42005-026-02941-9",
+      "title": "一维纳米带原子编织构建二维量子材料",
+      "summary": "研究提出通过一维纳米带的原子级编织合成二维量子材料，探索量子材料构建新路径。",
+      "url": "https://www.nature.com/articles/s42005-026-02936-6",
       "source": "Nature 量子物理",
-      "published": "2026-11-01T00:00:00Z",
+      "published": "2026-11-02T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "多基量子位置验证研究拓展安全性",
-      "summary": "研究提出高效的多基量子位置验证方案，讨论其对广义攻击者的安全性。",
-      "url": "https://www.nature.com/articles/s41534-026-01325-9",
+      "title": "次线性深度群设计的不可能性定理",
+      "summary": "研究讨论次线性深度群设计的不可能性定理，揭示相关数学结构的构造限制。",
+      "url": "https://www.nature.com/articles/s41467-026-77778-5",
       "source": "Nature 量子物理",
-      "published": "2026-10-31T00:00:00Z",
+      "published": "2026-11-02T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "奥特曼称仍有数学发现尚未公开",
-      "summary": "新浪财经报道，奥特曼称OpenAI仍有数学领域发现尚未公开；报道未提供这些发现的具体细节。",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42RTVkVEFITUVZTEo5MUxHZzh4VXNCOGxQdjhjZzdtLWtqa21HRUZFRVNRa3FPc1lXYlYzYVlPVlpaX3BNaEhOaGRRT0hEQzlIeUhWVy05STZwRnFaY3VzM0JwcXFLSXk0R2phMlptSGpLLTd2bXc?oc=5",
-      "source": "新浪财经",
-      "published": "2026-11-01T10:19:06Z",
+      "title": "奥特曼称OpenAI尚有数学发现未公开",
+      "summary": "据智源社区报道，奥特曼称OpenAI还有未公开的数学发现；所给信息未披露具体成果及验证细节。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jSEtPamVUdXJzNFlZQ080bU91LXlKOGRFTTFwaGk4NVdZZmljeFk4UmMwWUZQYmk4UUtiM1MtU2pEal83Z2xTLQ?oc=5",
+      "source": "智源社区",
+      "published": "2026-11-02T12:50:00Z",
       "category": "ai"
     },
     {
-      "title": "多贝西：AI不会取代数学家",
-      "summary": "沃尔夫数学奖得主多贝西接受科学网专访，讨论AI与数学研究的关系，认为AI不会取代数学家。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KU1NucEJIbjlUZ3ZoMC1ocTZRTW5VMDR2OXZRc0Jfb1R6XzRYNzdyaS1SVDdWWExMcl8xWUh1emJYZ0hnU1ZaOHVwVnN6bXZNVFotc2lUS3lHUm4weEVYbGlndktsZw?oc=5",
-      "source": "科学网",
-      "published": "2026-11-01T11:01:21Z",
+      "title": "OpenAI推出日常任务评测LifeVal",
+      "summary": "LifeVal衡量AI帮助人们完成日常事务的能力，任务涵盖寻找托育服务、管理财务及办理政府文书。",
+      "url": "https://openai.com/index/lifeval",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-11-02T09:00:00Z",
       "category": "ai"
     },
     {
-      "title": "NASA寻求商业力量为哈勃延寿",
-      "summary": "NASA征集商业在轨服务方案。若不提升轨道，哈勃望远镜可能在2030年代初至中期再入大气层。",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "title": "谷歌称已拆除130万台设备后门",
+      "summary": "谷歌称安卓合作厂商在130万台设备中植入后门并组成僵尸网络，现已拆除后门并终止与该厂商合作。",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
       "source": "The Verge",
-      "published": "2026-11-01T21:09:21Z",
+      "published": "2026-11-02T22:36:44Z",
       "category": "tech"
     },
     {
-      "title": "币安遭63亿美元盗窃后恢复提现",
-      "summary": "币安在遭遇63亿美元资产盗窃后恢复提现，并表示已补足被盗资产的95%。",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-      "source": "TechCrunch",
-      "published": "2026-11-01T16:20:10Z",
+      "title": "宝马计划2027年推出城市驾驶辅助",
+      "summary": "宝马将从德国起扩展导航引导的部分自动驾驶功能至城市道路，系统可辅助转向、加速和减速，并非完全自动驾驶。",
+      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+      "source": "The Verge",
+      "published": "2026-11-02T20:04:22Z",
       "category": "tech"
     },
     {
-      "title": "GitHub游戏创作赛公布SHIFT主题",
-      "summary": "第14届Game Off游戏创作赛回归，邀请开发者在11月围绕SHIFT主题，用一个月制作游戏。",
-      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
-      "source": "GitHub Blog",
-      "published": "2026-11-01T21:36:00Z",
+      "title": "GitHub安全评估新增仓库保护状态",
+      "summary": "代码与密钥安全风险评估现可显示发现的问题是否位于受保护仓库，帮助组织识别安全覆盖缺口。",
+      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+      "source": "GitHub Changelog",
+      "published": "2026-11-02T15:47:21Z",
       "category": "github"
     },
     {
-      "title": "DeepSeek开源智能体底座架构",
-      "summary": "据智源社区报道，DeepSeek开源智能体底座架构；所给新闻摘要未披露具体功能与技术细节。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4Tm1TYWdSeFp3X1Nab0o2cGs1djVVSWVTblZTQUxxTEw2WGs2UDBNNEJ2ZkJzMHJEbWZOUGV2VThiM2ptOUNKZg?oc=5",
-      "source": "智源社区",
-      "published": "2026-11-01T15:00:00Z",
+      "title": "GitHub将默认阻止高风险PR事件",
+      "summary": "自12月2日起，公开仓库的Actions默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "source": "GitHub Changelog",
+      "published": "2026-11-02T15:14:46Z",
       "category": "github"
     }
   ]
