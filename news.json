@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-11-03T04:04:43.357551+00:00",
+  "updated_at": "2026-11-04T03:21:20.934718+00:00",
   "categories": {
     "physics": [
       {
-        "title": "一维纳米带原子编织构建二维量子材料",
-        "summary": "研究提出通过一维纳米带的原子级编织合成二维量子材料，探索量子材料构建新路径。",
-        "url": "https://www.nature.com/articles/s42005-026-02936-6",
-        "source": "Nature 量子物理",
-        "published": "2026-11-02T00:00:00Z",
-        "category": "physics"
+        "title": "拓扑量子计算提出通用编织编码方案",
+        "summary": "arXiv预印本在Links–Gould融合空间中构造通用量子计算编码，在明确的正性与算术约束下建立计算子空间。",
+        "url": "https://arxiv.org/abs/2611.04290v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-11-03T04:16:33Z",
+        "category": "前沿物理"
       },
       {
-        "title": "次线性深度群设计的不可能性定理",
-        "summary": "研究讨论次线性深度群设计的不可能性定理，揭示相关数学结构的构造限制。",
-        "url": "https://www.nature.com/articles/s41467-026-77778-5",
-        "source": "Nature 量子物理",
-        "published": "2026-11-02T00:00:00Z",
-        "category": "physics"
+        "title": "开放量子系统涨落增长上界获新表述",
+        "summary": "arXiv预印本利用柯西–施瓦茨不等式推导量子涨落增长的另一上界，研究其与费舍尔信息及开放系统动力学的联系。",
+        "url": "https://arxiv.org/abs/2611.04263v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-11-03T03:52:49Z",
+        "category": "前沿物理"
       }
     ],
     "ai": [
       {
-        "title": "奥特曼称OpenAI尚有数学发现未公开",
-        "summary": "据智源社区报道，奥特曼称OpenAI还有未公开的数学发现；所给信息未披露具体成果及验证细节。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jSEtPamVUdXJzNFlZQ080bU91LXlKOGRFTTFwaGk4NVdZZmljeFk4UmMwWUZQYmk4UUtiM1MtU2pEal83Z2xTLQ?oc=5",
-        "source": "智源社区",
-        "published": "2026-11-02T12:50:00Z",
-        "category": "ai"
+        "title": "中国AI参与数学难题研究，作者受访",
+        "summary": "观察者网对话作者张洁松，报道中国AI参与攻克数学难题的研究经历；所给摘要未披露具体题目与验证细节。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWW5EdlF4UHpzY0hDS1VkSlZoNjVueUctR3QwTHRVdEplNnpDNkZmYTZsTkVnek5UenE1STZvR3RiNVAxSDdZYm4yZnFZNUQ1NVR5cHdzRUhabEN5Z2E4RVNWYUNIdjA3czBzcmVZaEU?oc=5",
+        "source": "观察者网",
+        "published": "2026-11-03T02:45:00Z",
+        "category": "人工智能"
       },
       {
-        "title": "OpenAI推出日常任务评测LifeVal",
-        "summary": "LifeVal衡量AI帮助人们完成日常事务的能力，任务涵盖寻找托育服务、管理财务及办理政府文书。",
-        "url": "https://openai.com/index/lifeval",
+        "title": "OpenAI介绍AI辅助实体工程设计",
+        "summary": "OpenAI介绍ChatGPT与Codex如何辅助CAD、PCB设计及仿真等工程流程，帮助工程师加快实体产品开发。",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
         "source": "OpenAI 官方新闻",
-        "published": "2026-11-02T09:00:00Z",
-        "category": "ai"
+        "published": "2026-11-03T12:00:00Z",
+        "category": "人工智能"
       }
     ],
     "tech": [
       {
-        "title": "谷歌称已拆除130万台设备后门",
-        "summary": "谷歌称安卓合作厂商在130万台设备中植入后门并组成僵尸网络，现已拆除后门并终止与该厂商合作。",
-        "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-        "source": "The Verge",
-        "published": "2026-11-02T22:36:44Z",
-        "category": "tech"
+        "title": "Orbital Matter在太空真空中打印刚性梁",
+        "summary": "据TechCrunch报道，Orbital Matter首次在太空真空环境中3D打印刚性梁，或为未来太空数据中心建设提供支撑。",
+        "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "source": "TechCrunch",
+        "published": "2026-11-03T20:57:17Z",
+        "category": "科技发展"
       },
       {
-        "title": "宝马计划2027年推出城市驾驶辅助",
-        "summary": "宝马将从德国起扩展导航引导的部分自动驾驶功能至城市道路，系统可辅助转向、加速和减速，并非完全自动驾驶。",
-        "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+        "title": "AMD季度营收创纪录达134亿美元",
+        "summary": "AMD公布2026年第三季度营收134亿美元，称该季度规模与盈利均创历史新高，并预计下季度营收达到170亿美元。",
+        "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
         "source": "The Verge",
-        "published": "2026-11-02T20:04:22Z",
-        "category": "tech"
+        "published": "2026-11-04T01:17:17Z",
+        "category": "科技发展"
       }
     ],
     "github": [
       {
-        "title": "GitHub安全评估新增仓库保护状态",
-        "summary": "代码与密钥安全风险评估现可显示发现的问题是否位于受保护仓库，帮助组织识别安全覆盖缺口。",
-        "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-        "source": "GitHub Changelog",
-        "published": "2026-11-02T15:47:21Z",
-        "category": "github"
-      },
-      {
-        "title": "GitHub将默认阻止高风险PR事件",
-        "summary": "自12月2日起，公开仓库的Actions默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
+        "title": "GitHub将默认阻止高风险工作流事件",
+        "summary": "12月2日起，GitHub Actions将在所有公共仓库默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
         "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
         "source": "GitHub Changelog",
         "published": "2026-11-02T15:14:46Z",
-        "category": "github"
+        "category": "GitHub/开源"
+      },
+      {
+        "title": "Dependabot支持智能体包管理器",
+        "summary": "Dependabot版本更新现已支持Agent Package Manager，可通过拉取请求更新受支持的AI智能体技能、提示词与指令。",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+        "source": "GitHub Changelog",
+        "published": "2026-11-03T20:24:07Z",
+        "category": "GitHub/开源"
       }
     ]
   },
   "items": [
     {
-      "title": "一维纳米带原子编织构建二维量子材料",
-      "summary": "研究提出通过一维纳米带的原子级编织合成二维量子材料，探索量子材料构建新路径。",
-      "url": "https://www.nature.com/articles/s42005-026-02936-6",
-      "source": "Nature 量子物理",
-      "published": "2026-11-02T00:00:00Z",
-      "category": "physics"
+      "title": "拓扑量子计算提出通用编织编码方案",
+      "summary": "arXiv预印本在Links–Gould融合空间中构造通用量子计算编码，在明确的正性与算术约束下建立计算子空间。",
+      "url": "https://arxiv.org/abs/2611.04290v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-11-03T04:16:33Z",
+      "category": "前沿物理"
     },
     {
-      "title": "次线性深度群设计的不可能性定理",
-      "summary": "研究讨论次线性深度群设计的不可能性定理，揭示相关数学结构的构造限制。",
-      "url": "https://www.nature.com/articles/s41467-026-77778-5",
-      "source": "Nature 量子物理",
-      "published": "2026-11-02T00:00:00Z",
-      "category": "physics"
+      "title": "开放量子系统涨落增长上界获新表述",
+      "summary": "arXiv预印本利用柯西–施瓦茨不等式推导量子涨落增长的另一上界，研究其与费舍尔信息及开放系统动力学的联系。",
+      "url": "https://arxiv.org/abs/2611.04263v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-11-03T03:52:49Z",
+      "category": "前沿物理"
     },
     {
-      "title": "奥特曼称OpenAI尚有数学发现未公开",
-      "summary": "据智源社区报道，奥特曼称OpenAI还有未公开的数学发现；所给信息未披露具体成果及验证细节。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1jSEtPamVUdXJzNFlZQ080bU91LXlKOGRFTTFwaGk4NVdZZmljeFk4UmMwWUZQYmk4UUtiM1MtU2pEal83Z2xTLQ?oc=5",
-      "source": "智源社区",
-      "published": "2026-11-02T12:50:00Z",
-      "category": "ai"
+      "title": "中国AI参与数学难题研究，作者受访",
+      "summary": "观察者网对话作者张洁松，报道中国AI参与攻克数学难题的研究经历；所给摘要未披露具体题目与验证细节。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWW5EdlF4UHpzY0hDS1VkSlZoNjVueUctR3QwTHRVdEplNnpDNkZmYTZsTkVnek5UenE1STZvR3RiNVAxSDdZYm4yZnFZNUQ1NVR5cHdzRUhabEN5Z2E4RVNWYUNIdjA3czBzcmVZaEU?oc=5",
+      "source": "观察者网",
+      "published": "2026-11-03T02:45:00Z",
+      "category": "人工智能"
     },
     {
-      "title": "OpenAI推出日常任务评测LifeVal",
-      "summary": "LifeVal衡量AI帮助人们完成日常事务的能力，任务涵盖寻找托育服务、管理财务及办理政府文书。",
-      "url": "https://openai.com/index/lifeval",
+      "title": "OpenAI介绍AI辅助实体工程设计",
+      "summary": "OpenAI介绍ChatGPT与Codex如何辅助CAD、PCB设计及仿真等工程流程，帮助工程师加快实体产品开发。",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
       "source": "OpenAI 官方新闻",
-      "published": "2026-11-02T09:00:00Z",
-      "category": "ai"
+      "published": "2026-11-03T12:00:00Z",
+      "category": "人工智能"
     },
     {
-      "title": "谷歌称已拆除130万台设备后门",
-      "summary": "谷歌称安卓合作厂商在130万台设备中植入后门并组成僵尸网络，现已拆除后门并终止与该厂商合作。",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "title": "Orbital Matter在太空真空中打印刚性梁",
+      "summary": "据TechCrunch报道，Orbital Matter首次在太空真空环境中3D打印刚性梁，或为未来太空数据中心建设提供支撑。",
+      "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+      "source": "TechCrunch",
+      "published": "2026-11-03T20:57:17Z",
+      "category": "科技发展"
+    },
+    {
+      "title": "AMD季度营收创纪录达134亿美元",
+      "summary": "AMD公布2026年第三季度营收134亿美元，称该季度规模与盈利均创历史新高，并预计下季度营收达到170亿美元。",
+      "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
       "source": "The Verge",
-      "published": "2026-11-02T22:36:44Z",
-      "category": "tech"
+      "published": "2026-11-04T01:17:17Z",
+      "category": "科技发展"
     },
     {
-      "title": "宝马计划2027年推出城市驾驶辅助",
-      "summary": "宝马将从德国起扩展导航引导的部分自动驾驶功能至城市道路，系统可辅助转向、加速和减速，并非完全自动驾驶。",
-      "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-      "source": "The Verge",
-      "published": "2026-11-02T20:04:22Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub安全评估新增仓库保护状态",
-      "summary": "代码与密钥安全风险评估现可显示发现的问题是否位于受保护仓库，帮助组织识别安全覆盖缺口。",
-      "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-      "source": "GitHub Changelog",
-      "published": "2026-11-02T15:47:21Z",
-      "category": "github"
-    },
-    {
-      "title": "GitHub将默认阻止高风险PR事件",
-      "summary": "自12月2日起，公开仓库的Actions默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
+      "title": "GitHub将默认阻止高风险工作流事件",
+      "summary": "12月2日起，GitHub Actions将在所有公共仓库默认阻止pull_request_target事件，除非适用的事件策略明确允许。",
       "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
       "source": "GitHub Changelog",
       "published": "2026-11-02T15:14:46Z",
-      "category": "github"
+      "category": "GitHub/开源"
+    },
+    {
+      "title": "Dependabot支持智能体包管理器",
+      "summary": "Dependabot版本更新现已支持Agent Package Manager，可通过拉取请求更新受支持的AI智能体技能、提示词与指令。",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "source": "GitHub Changelog",
+      "published": "2026-11-03T20:24:07Z",
+      "category": "GitHub/开源"
     }
   ]
 }
