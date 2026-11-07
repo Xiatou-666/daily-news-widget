@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-11-06T03:42:50.293281+00:00",
+  "updated_at": "2026-11-07T03:15:43.559015+00:00",
   "categories": {
     "physics": [
       {
-        "title": "预印本探讨单引力子探测可行性",
-        "summary": "论文指出，利用宏观系统整体质量四极矩吸收引力波，或可克服早期低效探测方案的局限；尚非实验探测成果。",
-        "url": "https://arxiv.org/abs/2611.07447v1",
+        "title": "非阿贝尔拓扑量子存储获可证明纠错阈值",
+        "summary": "预印本提出适用于二维非手性拓扑序的量子存储方案，构建纠错电路与实时解码算法，并证明其在局部随机电路噪声下存在阈值。",
+        "url": "https://arxiv.org/abs/2611.08488v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-05T04:45:42Z",
-        "category": "前沿物理"
+        "published": "2026-11-05T18:59:44Z",
+        "category": "physics"
       },
       {
-        "title": "硅基器件实现电子穿越T形结输运",
-        "summary": "研究报道在硅/硅锗器件中，以传送带模式实现电子穿越T形结的输运。",
-        "url": "https://www.nature.com/articles/s41467-026-78805-1",
-        "source": "Nature 量子物理",
-        "published": "2026-11-05T00:00:00Z",
-        "category": "前沿物理"
+        "title": "用悬浮粒子与量子钟检验引力诱导纠缠",
+        "summary": "预印本提出实验方案，利用微米级悬浮粒子与核钟阵列的集体相互作用，探索在实验室检验引力介导纠缠的路径，尚非实验观测。",
+        "url": "https://arxiv.org/abs/2611.08313v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-11-05T17:12:39Z",
+        "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI推出GPT-6 Cyber",
-        "summary": "该网络安全模型用于发现可利用漏洞并制定修复方案，训练目标包括将操作限制在授权范围内。",
-        "url": "https://openai.com/index/introducing-gpt-6-cyber",
+        "title": "OpenAI推出湿实验科研智能体评测",
+        "summary": "OpenAI介绍BioBasicsBench，以100项任务评估AI智能体解读原始实验数据、处理日常湿实验科研任务的能力。",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
         "source": "OpenAI 官方新闻",
-        "published": "2026-11-05T09:00:00Z",
-        "category": "人工智能"
+        "published": "2026-11-06T00:00:00Z",
+        "category": "ai"
       },
       {
-        "title": "新论文拓展OpenAI霍尔丹能隙证明",
-        "summary": "预印本沿用OpenAI近期证明中的纯度自举思路，探讨向更高维、近简并、费米子及张量网络态推广。",
-        "url": "https://arxiv.org/abs/2611.07400v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-11-05T03:52:06Z",
-        "category": "人工智能"
+        "title": "初创企业用AI将数学百科转为可验证代码",
+        "summary": "据报道，一家华人初创企业利用AI，将650多人历时20年编写的数学“百科全书”转化为可验证代码。",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03aFIwbzVEenk1aXlKc3hQN3FXUlNETzdqVUtYRmV6cktnYVdSWDJyOE9aNzgwV1JnbjhKS05kdnVlVG5wRFZHV1JkUlZ6RVAxSHd0bDcxQQ?oc=5",
+        "source": "麻省理工科技评论",
+        "published": "2026-11-05T10:13:29Z",
+        "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Serve Robotics拓展机器人服务业务",
-        "summary": "公司宣布推出Physical AI Services业务，向客户提供连接与数据工具，拓展机器人基础设施服务。",
-        "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+        "title": "Crusoe将怀俄明数据中心项目售予谷歌",
+        "summary": "Crusoe把陷入困境的怀俄明州数据中心项目出售给谷歌，这笔交易凸显了大型AI数据中心开发面临的挑战。",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
         "source": "TechCrunch",
-        "published": "2026-11-05T21:15:00Z",
-        "category": "科技发展"
+        "published": "2026-11-07T01:40:28Z",
+        "category": "tech"
       },
       {
-        "title": "蓝色起源下次新格伦发射推至明年",
-        "summary": "据媒体援引内部备忘录，新格伦火箭下次发射计划于2027年1月进行；此前5月的发射台爆炸造成设施受损。",
-        "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-        "source": "The Verge",
-        "published": "2026-11-05T20:47:14Z",
-        "category": "科技发展"
+        "title": "美国防部拟向电池初创6K贷款2.5亿美元",
+        "summary": "美国国防部有条件批准向6K提供2.5亿美元贷款，支持其在美国建厂，扩大微波等离子体电池材料制造工艺的生产规模。",
+        "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+        "source": "TechCrunch",
+        "published": "2026-11-06T16:50:01Z",
+        "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub详解新Git存储架构",
-        "summary": "GitHub介绍新存储架构的设计，目标是支持数千个智能体同时向同一代码仓库推送。",
+        "title": "GitHub披露面向智能体的新Git存储架构",
+        "summary": "GitHub介绍新的Git存储架构，其设计目标是支持数千个智能体同时向同一代码仓库推送。",
         "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
         "source": "GitHub Blog",
         "published": "2026-11-05T20:23:21Z",
-        "category": "GitHub/开源"
+        "category": "github"
       },
       {
-        "title": "GitHub Copilot接入Xcode助手",
-        "summary": "开发者可在Xcode内置编码助手中直接使用Copilot，相关集成已进入公开预览阶段。",
-        "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+        "title": "Copilot代码审查支持API管理",
+        "summary": "用户现可通过REST和GraphQL API管理Copilot代码审查设置，覆盖企业策略至单个仓库；审查概览评论也更加精简。",
+        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
         "source": "GitHub Changelog",
-        "published": "2026-11-04T19:10:40Z",
-        "category": "GitHub/开源"
+        "published": "2026-11-07T00:27:19Z",
+        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "预印本探讨单引力子探测可行性",
-      "summary": "论文指出，利用宏观系统整体质量四极矩吸收引力波，或可克服早期低效探测方案的局限；尚非实验探测成果。",
-      "url": "https://arxiv.org/abs/2611.07447v1",
+      "title": "非阿贝尔拓扑量子存储获可证明纠错阈值",
+      "summary": "预印本提出适用于二维非手性拓扑序的量子存储方案，构建纠错电路与实时解码算法，并证明其在局部随机电路噪声下存在阈值。",
+      "url": "https://arxiv.org/abs/2611.08488v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-05T04:45:42Z",
-      "category": "前沿物理"
+      "published": "2026-11-05T18:59:44Z",
+      "category": "physics"
     },
     {
-      "title": "硅基器件实现电子穿越T形结输运",
-      "summary": "研究报道在硅/硅锗器件中，以传送带模式实现电子穿越T形结的输运。",
-      "url": "https://www.nature.com/articles/s41467-026-78805-1",
-      "source": "Nature 量子物理",
-      "published": "2026-11-05T00:00:00Z",
-      "category": "前沿物理"
+      "title": "用悬浮粒子与量子钟检验引力诱导纠缠",
+      "summary": "预印本提出实验方案，利用微米级悬浮粒子与核钟阵列的集体相互作用，探索在实验室检验引力介导纠缠的路径，尚非实验观测。",
+      "url": "https://arxiv.org/abs/2611.08313v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-11-05T17:12:39Z",
+      "category": "physics"
     },
     {
-      "title": "OpenAI推出GPT-6 Cyber",
-      "summary": "该网络安全模型用于发现可利用漏洞并制定修复方案，训练目标包括将操作限制在授权范围内。",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "OpenAI推出湿实验科研智能体评测",
+      "summary": "OpenAI介绍BioBasicsBench，以100项任务评估AI智能体解读原始实验数据、处理日常湿实验科研任务的能力。",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI 官方新闻",
-      "published": "2026-11-05T09:00:00Z",
-      "category": "人工智能"
+      "published": "2026-11-06T00:00:00Z",
+      "category": "ai"
     },
     {
-      "title": "新论文拓展OpenAI霍尔丹能隙证明",
-      "summary": "预印本沿用OpenAI近期证明中的纯度自举思路，探讨向更高维、近简并、费米子及张量网络态推广。",
-      "url": "https://arxiv.org/abs/2611.07400v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-11-05T03:52:06Z",
-      "category": "人工智能"
+      "title": "初创企业用AI将数学百科转为可验证代码",
+      "summary": "据报道，一家华人初创企业利用AI，将650多人历时20年编写的数学“百科全书”转化为可验证代码。",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03aFIwbzVEenk1aXlKc3hQN3FXUlNETzdqVUtYRmV6cktnYVdSWDJyOE9aNzgwV1JnbjhKS05kdnVlVG5wRFZHV1JkUlZ6RVAxSHd0bDcxQQ?oc=5",
+      "source": "麻省理工科技评论",
+      "published": "2026-11-05T10:13:29Z",
+      "category": "ai"
     },
     {
-      "title": "Serve Robotics拓展机器人服务业务",
-      "summary": "公司宣布推出Physical AI Services业务，向客户提供连接与数据工具，拓展机器人基础设施服务。",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "title": "Crusoe将怀俄明数据中心项目售予谷歌",
+      "summary": "Crusoe把陷入困境的怀俄明州数据中心项目出售给谷歌，这笔交易凸显了大型AI数据中心开发面临的挑战。",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
       "source": "TechCrunch",
-      "published": "2026-11-05T21:15:00Z",
-      "category": "科技发展"
+      "published": "2026-11-07T01:40:28Z",
+      "category": "tech"
     },
     {
-      "title": "蓝色起源下次新格伦发射推至明年",
-      "summary": "据媒体援引内部备忘录，新格伦火箭下次发射计划于2027年1月进行；此前5月的发射台爆炸造成设施受损。",
-      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-      "source": "The Verge",
-      "published": "2026-11-05T20:47:14Z",
-      "category": "科技发展"
+      "title": "美国防部拟向电池初创6K贷款2.5亿美元",
+      "summary": "美国国防部有条件批准向6K提供2.5亿美元贷款，支持其在美国建厂，扩大微波等离子体电池材料制造工艺的生产规模。",
+      "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+      "source": "TechCrunch",
+      "published": "2026-11-06T16:50:01Z",
+      "category": "tech"
     },
     {
-      "title": "GitHub详解新Git存储架构",
-      "summary": "GitHub介绍新存储架构的设计，目标是支持数千个智能体同时向同一代码仓库推送。",
+      "title": "GitHub披露面向智能体的新Git存储架构",
+      "summary": "GitHub介绍新的Git存储架构，其设计目标是支持数千个智能体同时向同一代码仓库推送。",
       "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
       "source": "GitHub Blog",
       "published": "2026-11-05T20:23:21Z",
-      "category": "GitHub/开源"
+      "category": "github"
     },
     {
-      "title": "GitHub Copilot接入Xcode助手",
-      "summary": "开发者可在Xcode内置编码助手中直接使用Copilot，相关集成已进入公开预览阶段。",
-      "url": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+      "title": "Copilot代码审查支持API管理",
+      "summary": "用户现可通过REST和GraphQL API管理Copilot代码审查设置，覆盖企业策略至单个仓库；审查概览评论也更加精简。",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
       "source": "GitHub Changelog",
-      "published": "2026-11-04T19:10:40Z",
-      "category": "GitHub/开源"
+      "published": "2026-11-07T00:27:19Z",
+      "category": "github"
     }
   ]
 }
