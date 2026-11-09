@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-08T02:45:14.775934+00:00",
+  "updated_at": "2026-11-09T03:02:47.706178+00:00",
   "categories": {
     "physics": [
       {
-        "title": "弯曲时空中的量子魔性资源提取",
-        "summary": "研究探讨在弯曲时空中提取量子计算所需的魔性资源。",
-        "url": "https://www.nature.com/articles/s42005-026-02938-4",
-        "source": "Nature 量子物理",
-        "published": "2026-11-06T00:00:00Z",
+        "title": "中国首款可互联中性原子量子计算机发布",
+        "summary": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布。",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdDN3MWtPdXhKQVlmSG9Ta0tJWVl9EdkNjNTkwQU56Sk1wZTBybnI4SzFxSEFDU1RQUk9IRXRSY3RvWWdnTTEtRnJZNUtHem4tSWZua1REaUhpOGV6QkZxLW9XZHN3VGdt?oc=5",
+        "source": "中国新闻网",
+        "published": "Sun, 08 Nov 2026 12:40:08 GMT",
         "category": "physics"
       },
       {
-        "title": "非厄米趋肤效应的抗退相干特性",
-        "summary": "研究聚焦非厄米趋肤效应在退相干影响下的韧性。",
-        "url": "https://www.nature.com/articles/s41467-026-78483-z",
-        "source": "Nature 量子物理",
-        "published": "2026-11-06T00:00:00Z",
+        "title": "NASA公布月球基地交通与技术项目",
+        "summary": "NASA公布月球基地探索、科学和基础设施项目，包括商业机器人投送、核动力月球车及地表基础设施。",
+        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+        "source": "NASA 新闻",
+        "published": "Sat, 07 Nov 2026 22:47:03 +0000",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "PSI称AI三天证明量子计算猜想",
-        "summary": "据凤凰网报道，PSI称借助Anthropic未公开模型，三天证明量子计算重要猜想；成果尚待独立审查。",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZXpzRHZjNW40bUV0SUxhNTNMWlNoc2ZXUE5VMDBnZlhFSHFhMEg1YUNlMVlWdXFYOTdpcXBGb1ozUldCQUhqdVBHSXdwOVhZOEE?oc=5",
-        "source": "凤凰网",
-        "published": "2026-11-07T23:38:44Z",
+        "title": "二十多年数学积累被AI转成代码",
+        "summary": "一项报道介绍，二十多年的数学积累被AI转化为1600万行代码，正等待更多人审阅。",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQ1RfUFZoTkUyVFRta05UUXIxcTJtS0NIdlNROGlXRmN5cEczeGpLcEdLUmswWGNuMVMxNFpyTjBXM3dOekZBVmtXdVFUUEpYa1NZMEV3?oc=5",
+        "source": "36氪",
+        "published": "Mon, 09 Nov 2026 00:18:45 GMT",
         "category": "ai"
       },
       {
-        "title": "OpenAI携手Hacktron查找漏洞",
-        "summary": "双方将利用前沿AI查找OpenAI系统漏洞、测试第三方服务连接，并加强安全防御。",
-        "url": "https://openai.com/index/partnering-with-hacktron",
+        "title": "OpenAI发布湿实验科学能力基准",
+        "summary": "OpenAI推出BioBasicsBench，用100项任务评估AI智能体解读实验数据和处理日常湿实验科学的能力。",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
         "source": "OpenAI 官方新闻",
-        "published": "2026-11-06T08:00:00Z",
+        "published": "Fri, 06 Nov 2026 00:00:00 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "人形机器人上门清洁服务实测",
-        "summary": "《麻省理工科技评论》记者体验旧金山的人形机器人家政服务，记录其进入真实家庭的清洁表现。",
-        "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-        "source": "MIT Technology Review",
-        "published": "2026-11-06T10:00:00Z",
+        "title": "安波福与兆易创新达成战略合作",
+        "summary": "双方达成战略合作，推动汽车芯片产业链协同发展。",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeEw3SjU2N0IyYkRWRlNZNG1DcEYtS3lMSHYyd3FsNURqblg5QkVEN0NXM1BWUnNvMkxBUW8tWTByVm5GREhoV1FiQng0aXpZV0xuS2R5S0oyMkxIRm9JX0p3V0p1dw?oc=5",
+        "source": "东方财富",
+        "published": "Mon, 09 Nov 2026 01:40:04 GMT",
         "category": "tech"
       },
       {
-        "title": "Crusoe向谷歌出售数据中心项目",
-        "summary": "Crusoe出售其在怀俄明州受阻的数据中心项目，交易凸显大型AI数据中心建设面临的挑战。",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "source": "TechCrunch",
-        "published": "2026-11-07T01:40:28Z",
+        "title": "中国卫生健康科技发展大会在广州开幕",
+        "summary": "2026中国卫生健康科技发展大会在广州开幕，聚焦卫生健康领域科技发展。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQkFvSU1mU1R6a0JkMUZhUVJYRTQtWHRfMWx6d3BXRkNnNW9lVFB6N2Z2VktSNmN6ckdiRjhNemhhbXlWaFFiX1M5ZGRqZ3RBXzNjT2dJM1g3ZS1CRDdvSTR2R0FlUXFReEZ3RmI0azA?oc=5",
+        "source": "广州市人民政府",
+        "published": "Mon, 09 Nov 2026 02:00:00 GMT",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Copilot代码审查支持API管理",
-        "summary": "可通过REST和GraphQL API管理企业至仓库级审查设置；审查概览评论也变得更紧凑。",
-        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-        "source": "GitHub Changelog",
-        "published": "2026-11-07T00:27:19Z",
+        "title": "GitHub发布面向智能体工程指南",
+        "summary": "GitHub介绍智能体工程流程，涵盖规划、编码、审查变更和调查生产环境问题，并强调人的判断仍不可替代。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+        "source": "GitHub Blog",
+        "published": "Fri, 06 Nov 2026 22:15:59 +0000",
         "category": "github"
       },
       {
-        "title": "GitHub聊天协作集成正式可用",
-        "summary": "Slack和Teams中的@GitHub正式可用，支持在对话中排查漏洞、创建议题、实施修改并发起拉取请求。",
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-        "source": "GitHub Changelog",
-        "published": "2026-11-06T20:31:08Z",
+        "title": "GitHub推出新Git存储架构",
+        "summary": "GitHub介绍新Git存储架构，支持数千个智能体同时向单一仓库推送代码。",
+        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+        "source": "GitHub Blog",
+        "published": "Thu, 05 Nov 2026 20:23:21 +0000",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "弯曲时空中的量子魔性资源提取",
-      "summary": "研究探讨在弯曲时空中提取量子计算所需的魔性资源。",
-      "url": "https://www.nature.com/articles/s42005-026-02938-4",
-      "source": "Nature 量子物理",
-      "published": "2026-11-06T00:00:00Z",
+      "title": "中国首款可互联中性原子量子计算机发布",
+      "summary": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布。",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdDN3MWtPdXhKQVlmSG9Ta0tJWVl9EdkNjNTkwQU56Sk1wZTBybnI4SzFxSEFDU1RQUk9IRXRSY3RvWWdnTTEtRnJZNUtHem4tSWZua1REaUhpOGV6QkZxLW9XZHN3VGdt?oc=5",
+      "source": "中国新闻网",
+      "published": "Sun, 08 Nov 2026 12:40:08 GMT",
       "category": "physics"
     },
     {
-      "title": "非厄米趋肤效应的抗退相干特性",
-      "summary": "研究聚焦非厄米趋肤效应在退相干影响下的韧性。",
-      "url": "https://www.nature.com/articles/s41467-026-78483-z",
-      "source": "Nature 量子物理",
-      "published": "2026-11-06T00:00:00Z",
+      "title": "NASA公布月球基地交通与技术项目",
+      "summary": "NASA公布月球基地探索、科学和基础设施项目，包括商业机器人投送、核动力月球车及地表基础设施。",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "source": "NASA 新闻",
+      "published": "Sat, 07 Nov 2026 22:47:03 +0000",
       "category": "physics"
     },
     {
-      "title": "PSI称AI三天证明量子计算猜想",
-      "summary": "据凤凰网报道，PSI称借助Anthropic未公开模型，三天证明量子计算重要猜想；成果尚待独立审查。",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZXpzRHZjNW40bUV0SUxhNTNMWlNoc2ZXUE5VMDBnZlhFSHFhMEg1YUNlMVlWdXFYOTdpcXBGb1ozUldCQUhqdVBHSXdwOVhZOEE?oc=5",
-      "source": "凤凰网",
-      "published": "2026-11-07T23:38:44Z",
+      "title": "二十多年数学积累被AI转成代码",
+      "summary": "一项报道介绍，二十多年的数学积累被AI转化为1600万行代码，正等待更多人审阅。",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQ1RfUFZoTkUyVFRta05UUXIxcTJtS0NIdlNROGlXRmN5cEczeGpLcEdLUmswWGNuMVMxNFpyTjBXM3dOekZBVmtXdVFUUEpYa1NZMEV3?oc=5",
+      "source": "36氪",
+      "published": "Mon, 09 Nov 2026 00:18:45 GMT",
       "category": "ai"
     },
     {
-      "title": "OpenAI携手Hacktron查找漏洞",
-      "summary": "双方将利用前沿AI查找OpenAI系统漏洞、测试第三方服务连接，并加强安全防御。",
-      "url": "https://openai.com/index/partnering-with-hacktron",
+      "title": "OpenAI发布湿实验科学能力基准",
+      "summary": "OpenAI推出BioBasicsBench，用100项任务评估AI智能体解读实验数据和处理日常湿实验科学的能力。",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
       "source": "OpenAI 官方新闻",
-      "published": "2026-11-06T08:00:00Z",
+      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
       "category": "ai"
     },
     {
-      "title": "人形机器人上门清洁服务实测",
-      "summary": "《麻省理工科技评论》记者体验旧金山的人形机器人家政服务，记录其进入真实家庭的清洁表现。",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-06T10:00:00Z",
+      "title": "安波福与兆易创新达成战略合作",
+      "summary": "双方达成战略合作，推动汽车芯片产业链协同发展。",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeEw3SjU2N0IyYkRWRlNZNG1DcEYtS3lMSHYyd3FsNURqblg5QkVEN0NXM1BWUnNvMkxBUW8tWTByVm5GREhoV1FiQng0aXpZV0xuS2R5S0oyMkxIRm9JX0p3V0p1dw?oc=5",
+      "source": "东方财富",
+      "published": "Mon, 09 Nov 2026 01:40:04 GMT",
       "category": "tech"
     },
     {
-      "title": "Crusoe向谷歌出售数据中心项目",
-      "summary": "Crusoe出售其在怀俄明州受阻的数据中心项目，交易凸显大型AI数据中心建设面临的挑战。",
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "source": "TechCrunch",
-      "published": "2026-11-07T01:40:28Z",
+      "title": "中国卫生健康科技发展大会在广州开幕",
+      "summary": "2026中国卫生健康科技发展大会在广州开幕，聚焦卫生健康领域科技发展。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQkFvSU1mU1R6a0JkMUZhUVJYRTQtWHRfMWx6d3BXRkNnNW9lVFB6N2Z2VktSNmN6ckdiRjhNemhhbXlWaFFiX1M5ZGRqZ3RBXzNjT2dJM1g3ZS1CRDdvSTR2R0FlUXFReEZ3RmI0azA?oc=5",
+      "source": "广州市人民政府",
+      "published": "Mon, 09 Nov 2026 02:00:00 GMT",
       "category": "tech"
     },
     {
-      "title": "Copilot代码审查支持API管理",
-      "summary": "可通过REST和GraphQL API管理企业至仓库级审查设置；审查概览评论也变得更紧凑。",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "source": "GitHub Changelog",
-      "published": "2026-11-07T00:27:19Z",
+      "title": "GitHub发布面向智能体工程指南",
+      "summary": "GitHub介绍智能体工程流程，涵盖规划、编码、审查变更和调查生产环境问题，并强调人的判断仍不可替代。",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub Blog",
+      "published": "Fri, 06 Nov 2026 22:15:59 +0000",
       "category": "github"
     },
     {
-      "title": "GitHub聊天协作集成正式可用",
-      "summary": "Slack和Teams中的@GitHub正式可用，支持在对话中排查漏洞、创建议题、实施修改并发起拉取请求。",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "source": "GitHub Changelog",
-      "published": "2026-11-06T20:31:08Z",
+      "title": "GitHub推出新Git存储架构",
+      "summary": "GitHub介绍新Git存储架构，支持数千个智能体同时向单一仓库推送代码。",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Blog",
+      "published": "Thu, 05 Nov 2026 20:23:21 +0000",
       "category": "github"
     }
   ]
