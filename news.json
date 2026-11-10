@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-09T03:02:47.706178+00:00",
+  "updated_at": "2026-11-10T04:49:23.009253+00:00",
   "categories": {
     "physics": [
       {
-        "title": "中国首款可互联中性原子量子计算机发布",
-        "summary": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布。",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdDN3MWtPdXhKQVlmSG9Ta0tJWVl9EdkNjNTkwQU56Sk1wZTBybnI4SzFxSEFDU1RQUk9IRXRSY3RvWWdnTTEtRnJZNUtHem4tSWZua1REaUhpOGV6QkZxLW9XZHN3VGdt?oc=5",
-        "source": "中国新闻网",
-        "published": "Sun, 08 Nov 2026 12:40:08 GMT",
+        "title": "超冷原子碰撞中的量子干涉束缚态",
+        "summary": "研究探讨超冷原子碰撞中的量子干涉，以及由此形成的连续谱束缚态。",
+        "url": "https://www.nature.com/articles/s41567-026-03519-6",
+        "source": "Nature 量子物理",
+        "published": "2026-11-09T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "NASA公布月球基地交通与技术项目",
-        "summary": "NASA公布月球基地探索、科学和基础设施项目，包括商业机器人投送、核动力月球车及地表基础设施。",
-        "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-        "source": "NASA 新闻",
-        "published": "Sat, 07 Nov 2026 22:47:03 +0000",
+        "title": "量子多体系统如何复制一个经典比特",
+        "summary": "预印本提出“动力学选择”机制，解释单个局域编码的经典比特如何在量子多体系统多个独立区域形成可读记录。",
+        "url": "https://arxiv.org/abs/2611.11446v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-11-08T15:17:37Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "二十多年数学积累被AI转成代码",
-        "summary": "一项报道介绍，二十多年的数学积累被AI转化为1600万行代码，正等待更多人审阅。",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQ1RfUFZoTkUyVFRta05UUXIxcTJtS0NIdlNROGlXRmN5cEczeGpLcEdLUmswWGNuMVMxNFpyTjBXM3dOekZBVmtXdVFUUEpYa1NZMEV3?oc=5",
-        "source": "36氪",
-        "published": "Mon, 09 Nov 2026 00:18:45 GMT",
+        "title": "OpenAI与Anthropic邀数学家验卷",
+        "summary": "据凤凰网科技报道，OpenAI与Anthropic联手投入1500万美元，邀请数学家评审AI的数学成果。",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3QWRRY205cGdmeWJJVUo2OVYxR1hZYWlJd2tSQXN0MEsydE1qXzRYQUJYVU1pQWUzSGdHSUxYdy03Mk5XQTRnUTlPT2E?oc=5",
+        "source": "凤凰网科技",
+        "published": "2026-11-10T03:38:36Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI发布湿实验科学能力基准",
-        "summary": "OpenAI推出BioBasicsBench，用100项任务评估AI智能体解读实验数据和处理日常湿实验科学的能力。",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "title": "OpenAI介绍模型负载中控系统",
+        "summary": "Control Room可追踪研究基础设施中的模型工作负载，并在出现安全或安保风险时迅速停止相关任务。",
+        "url": "https://openai.com/index/control-room",
         "source": "OpenAI 官方新闻",
-        "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+        "published": "2026-11-09T13:00:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "安波福与兆易创新达成战略合作",
-        "summary": "双方达成战略合作，推动汽车芯片产业链协同发展。",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeEw3SjU2N0IyYkRWRlNZNG1DcEYtS3lMSHYyd3FsNURqblg5QkVEN0NXM1BWUnNvMkxBUW8tWTByVm5GREhoV1FiQng0aXpZV0xuS2R5S0oyMkxIRm9JX0p3V0p1dw?oc=5",
-        "source": "东方财富",
-        "published": "Mon, 09 Nov 2026 01:40:04 GMT",
+        "title": "谷歌发布两款新TPU芯片",
+        "summary": "谷歌发布TPU 8tx与8i Max，进一步扩展AI芯片产品线，挑战英伟达的市场主导地位。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53VlJ6OTV4V1RiRjVXQUQ2d3V3ODUwcV9ic3JhVEQwU3NNbFJvZmxwYmhpOHhuOC1WeFFhcVBCQlBIOUFKczUxdw?oc=5",
+        "source": "财联社",
+        "published": "2026-11-09T19:12:05Z",
         "category": "tech"
       },
       {
-        "title": "中国卫生健康科技发展大会在广州开幕",
-        "summary": "2026中国卫生健康科技发展大会在广州开幕，聚焦卫生健康领域科技发展。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQkFvSU1mU1R6a0JkMUZhUVJYRTQtWHRfMWx6d3BXRkNnNW9lVFB6N2Z2VktSNmN6ckdiRjhNemhhbXlWaFFiX1M5ZGRqZ3RBXzNjT2dJM1g3ZS1CRDdvSTR2R0FlUXFReEZ3RmI0azA?oc=5",
-        "source": "广州市人民政府",
-        "published": "Mon, 09 Nov 2026 02:00:00 GMT",
+        "title": "Fervo地热技术订单达120亿美元",
+        "summary": "Fervo地热发电技术订单达120亿美元；公司正降低犹他州8.4吉瓦地热资源的钻探成本，瞄准天然气发电市场。",
+        "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+        "source": "TechCrunch",
+        "published": "2026-11-09T20:55:34Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub发布面向智能体工程指南",
-        "summary": "GitHub介绍智能体工程流程，涵盖规划、编码、审查变更和调查生产环境问题，并强调人的判断仍不可替代。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-        "source": "GitHub Blog",
-        "published": "Fri, 06 Nov 2026 22:15:59 +0000",
+        "title": "Copilot上线Claude Fable 5.2",
+        "summary": "Claude Fable 5.2已在GitHub Copilot正式可用，可用于大型代码库中的复杂多步骤编程任务。",
+        "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+        "source": "GitHub Changelog",
+        "published": "2026-11-09T16:46:43Z",
         "category": "github"
       },
       {
-        "title": "GitHub推出新Git存储架构",
-        "summary": "GitHub介绍新Git存储架构，支持数千个智能体同时向单一仓库推送代码。",
-        "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-        "source": "GitHub Blog",
-        "published": "Thu, 05 Nov 2026 20:23:21 +0000",
+        "title": "GitHub密钥扫描覆盖Actions日志",
+        "summary": "GitHub密钥扫描新增Actions工作流日志检测，帮助发现日志中泄露的密钥；该功能现处于公开预览阶段。",
+        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+        "source": "GitHub Changelog",
+        "published": "2026-11-09T09:01:37Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "中国首款可互联中性原子量子计算机发布",
-      "summary": "中国首款可互联中性原子量子计算机“乾阵”原型机在合肥发布。",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdDN3MWtPdXhKQVlmSG9Ta0tJWVl9EdkNjNTkwQU56Sk1wZTBybnI4SzFxSEFDU1RQUk9IRXRSY3RvWWdnTTEtRnJZNUtHem4tSWZua1REaUhpOGV6QkZxLW9XZHN3VGdt?oc=5",
-      "source": "中国新闻网",
-      "published": "Sun, 08 Nov 2026 12:40:08 GMT",
+      "title": "超冷原子碰撞中的量子干涉束缚态",
+      "summary": "研究探讨超冷原子碰撞中的量子干涉，以及由此形成的连续谱束缚态。",
+      "url": "https://www.nature.com/articles/s41567-026-03519-6",
+      "source": "Nature 量子物理",
+      "published": "2026-11-09T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "NASA公布月球基地交通与技术项目",
-      "summary": "NASA公布月球基地探索、科学和基础设施项目，包括商业机器人投送、核动力月球车及地表基础设施。",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
-      "source": "NASA 新闻",
-      "published": "Sat, 07 Nov 2026 22:47:03 +0000",
+      "title": "量子多体系统如何复制一个经典比特",
+      "summary": "预印本提出“动力学选择”机制，解释单个局域编码的经典比特如何在量子多体系统多个独立区域形成可读记录。",
+      "url": "https://arxiv.org/abs/2611.11446v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-11-08T15:17:37Z",
       "category": "physics"
     },
     {
-      "title": "二十多年数学积累被AI转成代码",
-      "summary": "一项报道介绍，二十多年的数学积累被AI转化为1600万行代码，正等待更多人审阅。",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CQ1RfUFZoTkUyVFRta05UUXIxcTJtS0NIdlNROGlXRmN5cEczeGpLcEdLUmswWGNuMVMxNFpyTjBXM3dOekZBVmtXdVFUUEpYa1NZMEV3?oc=5",
-      "source": "36氪",
-      "published": "Mon, 09 Nov 2026 00:18:45 GMT",
+      "title": "OpenAI与Anthropic邀数学家验卷",
+      "summary": "据凤凰网科技报道，OpenAI与Anthropic联手投入1500万美元，邀请数学家评审AI的数学成果。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA3QWRRY205cGdmeWJJVUo2OVYxR1hZYWlJd2tSQXN0MEsydE1qXzRYQUJYVU1pQWUzSGdHSUxYdy03Mk5XQTRnUTlPT2E?oc=5",
+      "source": "凤凰网科技",
+      "published": "2026-11-10T03:38:36Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI发布湿实验科学能力基准",
-      "summary": "OpenAI推出BioBasicsBench，用100项任务评估AI智能体解读实验数据和处理日常湿实验科学的能力。",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "OpenAI介绍模型负载中控系统",
+      "summary": "Control Room可追踪研究基础设施中的模型工作负载，并在出现安全或安保风险时迅速停止相关任务。",
+      "url": "https://openai.com/index/control-room",
       "source": "OpenAI 官方新闻",
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "published": "2026-11-09T13:00:00Z",
       "category": "ai"
     },
     {
-      "title": "安波福与兆易创新达成战略合作",
-      "summary": "双方达成战略合作，推动汽车芯片产业链协同发展。",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qeEw3SjU2N0IyYkRWRlNZNG1DcEYtS3lMSHYyd3FsNURqblg5QkVEN0NXM1BWUnNvMkxBUW8tWTByVm5GREhoV1FiQng0aXpZV0xuS2R5S0oyMkxIRm9JX0p3V0p1dw?oc=5",
-      "source": "东方财富",
-      "published": "Mon, 09 Nov 2026 01:40:04 GMT",
+      "title": "谷歌发布两款新TPU芯片",
+      "summary": "谷歌发布TPU 8tx与8i Max，进一步扩展AI芯片产品线，挑战英伟达的市场主导地位。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53VlJ6OTV4V1RiRjVXQUQ2d3V3ODUwcV9ic3JhVEQwU3NNbFJvZmxwYmhpOHhuOC1WeFFhcVBCQlBIOUFKczUxdw?oc=5",
+      "source": "财联社",
+      "published": "2026-11-09T19:12:05Z",
       "category": "tech"
     },
     {
-      "title": "中国卫生健康科技发展大会在广州开幕",
-      "summary": "2026中国卫生健康科技发展大会在广州开幕，聚焦卫生健康领域科技发展。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zQkFvSU1mU1R6a0JkMUZhUVJYRTQtWHRfMWx6d3BXRkNnNW9lVFB6N2Z2VktSNmN6ckdiRjhNemhhbXlWaFFiX1M5ZGRqZ3RBXzNjT2dJM1g3ZS1CRDdvSTR2R0FlUXFReEZ3RmI0azA?oc=5",
-      "source": "广州市人民政府",
-      "published": "Mon, 09 Nov 2026 02:00:00 GMT",
+      "title": "Fervo地热技术订单达120亿美元",
+      "summary": "Fervo地热发电技术订单达120亿美元；公司正降低犹他州8.4吉瓦地热资源的钻探成本，瞄准天然气发电市场。",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "source": "TechCrunch",
+      "published": "2026-11-09T20:55:34Z",
       "category": "tech"
     },
     {
-      "title": "GitHub发布面向智能体工程指南",
-      "summary": "GitHub介绍智能体工程流程，涵盖规划、编码、审查变更和调查生产环境问题，并强调人的判断仍不可替代。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-      "source": "GitHub Blog",
-      "published": "Fri, 06 Nov 2026 22:15:59 +0000",
+      "title": "Copilot上线Claude Fable 5.2",
+      "summary": "Claude Fable 5.2已在GitHub Copilot正式可用，可用于大型代码库中的复杂多步骤编程任务。",
+      "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
+      "source": "GitHub Changelog",
+      "published": "2026-11-09T16:46:43Z",
       "category": "github"
     },
     {
-      "title": "GitHub推出新Git存储架构",
-      "summary": "GitHub介绍新Git存储架构，支持数千个智能体同时向单一仓库推送代码。",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Blog",
-      "published": "Thu, 05 Nov 2026 20:23:21 +0000",
+      "title": "GitHub密钥扫描覆盖Actions日志",
+      "summary": "GitHub密钥扫描新增Actions工作流日志检测，帮助发现日志中泄露的密钥；该功能现处于公开预览阶段。",
+      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
+      "source": "GitHub Changelog",
+      "published": "2026-11-09T09:01:37Z",
       "category": "github"
     }
   ]
