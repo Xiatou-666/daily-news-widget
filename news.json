@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-11T03:07:48.394874+00:00",
+  "updated_at": "2026-11-12T04:22:54.123378+00:00",
   "categories": {
     "physics": [
       {
-        "title": "NASA研究：引力波有望揭示新类系外行星",
-        "summary": "两项研究展示，在研的LISA空间引力波天文台未来或可发现银河系中一类独特的系外行星。",
-        "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-        "source": "NASA 新闻",
-        "published": "2026-11-10T16:00:26Z",
+        "title": "IBM发布2034量子比特处理器",
+        "summary": "Google新闻称，IBM发布量子处理器Nighthawk r3，配备2034个物理量子比特。",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uenlaY1VDeGs5ak1ibGZqcUR1b3RBSmRld290enU4dXVoME5uX3BFd2xJVG9BRmhUSzFiZTJQVG90WlVGS2lfV0pCQW9HZjhBNW1VWGVhWjJkQ2pqUGtuUDRB?oc=5",
+        "source": "观点网",
+        "published": "Thu, 12 Nov 2026 02:48:39 GMT",
         "category": "physics"
       },
       {
-        "title": "氮化硼自旋缺陷实现双量子相干控制",
-        "summary": "预印本提出同时共振激发两条单量子跃迁的微波驱动方案，用于六方氮化硼自旋缺陷的相干控制与磁感测。",
-        "url": "https://arxiv.org/abs/2611.13447v1",
+        "title": "超导量子处理器模拟非微扰弦动力学",
+        "summary": "研究团队在超导量子处理器上模拟二维Z₂晶格规范理论，研究电通量弦的非微扰演化。",
+        "url": "https://arxiv.org/abs/2611.14484v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-10T01:47:03Z",
+        "published": "2026-11-10T18:45:36Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "AlphaProof Code验证Signal核心加密",
-        "summary": "DeepMind发布AlphaProof Code，称其智能体编写了300万行Lean证明，用于验证Signal的核心加密。",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "source": "Google DeepMind Blog",
-        "published": "2026-11-10T12:02:28Z",
+        "title": "DeepMind用AI形式化验证Signal协议",
+        "summary": "报道显示，Google DeepMind利用AI完成Signal协议形式化验证，以数学证明其端到端加密可靠性。",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wN1c5YVR6T1lhMEs3c05INno0MWowbHFKaW5hUm05YXYzSFNYRVFBTkp0VHZbldLcWl4Y3RlSlFzdVZvU3ZpWnM5UGk?oc=5",
+        "source": "凤凰网科技",
+        "published": "Tue, 10 Nov 2026 13:36:27 GMT",
         "category": "ai"
       },
       {
-        "title": "OpenAI推出ChatGPT商家资料功能",
-        "summary": "商家可管理业务信息，了解自身在ChatGPT中的展示情况，并将用户兴趣转化为后续行动。",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-11-10T10:00:00Z",
+        "title": "DeepMind发布AlphaGenome 2模型",
+        "summary": "AlphaGenome 2旨在解析DNA变化如何影响不同细胞，为疾病成因研究和新疗法探索提供线索。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+        "source": "The Verge",
+        "published": "2026-11-11T09:18:08-05:00",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "X-energy获批建设首批小型模块化核反应堆",
-        "summary": "美国核管理委员会向X-energy颁发建设许可，允许其在得克萨斯州建设四座反应堆。",
-        "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+        "title": "英国Fractile获7.2亿美元融资",
+        "summary": "AI芯片公司Fractile完成7.2亿美元融资，成为定制AI芯片赛道获得资金最多的企业之一。",
+        "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
         "source": "TechCrunch",
-        "published": "2026-11-10T20:43:55Z",
+        "published": "Wed, 11 Nov 2026 19:34:55 +0000",
         "category": "tech"
       },
       {
-        "title": "Starlink Mini 2加入可更换电池",
-        "summary": "SpaceX公布新款便携卫星上网终端，将天线、Wi-Fi路由器和电池集成于约笔记本电脑大小的设备中。",
-        "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-        "source": "The Verge",
-        "published": "2026-11-10T19:19:55Z",
+        "title": "CoreWeave转向预付款支持AI扩张",
+        "summary": "CoreWeave要求客户预付款、以特定合同融资，并探索可能带来更高价格的短期合同。",
+        "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+        "source": "TechCrunch",
+        "published": "Wed, 11 Nov 2026 19:54:00 +0000",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "Git发布更新修复六项安全漏洞",
-        "summary": "漏洞涉及递归克隆、引用处理、合并、二进制补丁和导入等功能；Git发布相应安全更新。",
+        "title": "Git发布六项安全漏洞修复",
+        "summary": "Git更新修复六项安全漏洞，涉及递归克隆、引用处理、合并、二进制补丁和导入功能。",
         "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
         "source": "GitHub Blog",
-        "published": "2026-11-10T18:00:00Z",
+        "published": "Tue, 10 Nov 2026 18:00:00 +0000",
         "category": "github"
       },
       {
-        "title": "Dependabot将暂停不活跃仓库告警",
-        "summary": "GitHub宣布自12月8日起，关闭多数过去一年无活动仓库的Dependabot告警；已有告警将归档而非删除。",
-        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "title": "GitHub个人账户开放Issue类型",
+        "summary": "Issue类型和字段现已向个人账户仓库普遍开放，为个人开发者和开源维护者提供规划能力。",
+        "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
         "source": "GitHub Changelog",
-        "published": "2026-11-10T14:20:05Z",
+        "published": "Wed, 11 Nov 2026 17:16:46 +0000",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "NASA研究：引力波有望揭示新类系外行星",
-      "summary": "两项研究展示，在研的LISA空间引力波天文台未来或可发现银河系中一类独特的系外行星。",
-      "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
-      "source": "NASA 新闻",
-      "published": "2026-11-10T16:00:26Z",
+      "title": "IBM发布2034量子比特处理器",
+      "summary": "Google新闻称，IBM发布量子处理器Nighthawk r3，配备2034个物理量子比特。",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uenlaY1VDeGs5ak1ibGZqcUR1b3RBSmRld290enU4dXVoME5uX3BFd2xJVG9BRmhUSzFiZTJQVG90WlVGS2lfV0pCQW9HZjhBNW1VWGVhWjJkQ2pqUGtuUDRB?oc=5",
+      "source": "观点网",
+      "published": "Thu, 12 Nov 2026 02:48:39 GMT",
       "category": "physics"
     },
     {
-      "title": "氮化硼自旋缺陷实现双量子相干控制",
-      "summary": "预印本提出同时共振激发两条单量子跃迁的微波驱动方案，用于六方氮化硼自旋缺陷的相干控制与磁感测。",
-      "url": "https://arxiv.org/abs/2611.13447v1",
+      "title": "超导量子处理器模拟非微扰弦动力学",
+      "summary": "研究团队在超导量子处理器上模拟二维Z₂晶格规范理论，研究电通量弦的非微扰演化。",
+      "url": "https://arxiv.org/abs/2611.14484v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-10T01:47:03Z",
+      "published": "2026-11-10T18:45:36Z",
       "category": "physics"
     },
     {
-      "title": "AlphaProof Code验证Signal核心加密",
-      "summary": "DeepMind发布AlphaProof Code，称其智能体编写了300万行Lean证明，用于验证Signal的核心加密。",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "source": "Google DeepMind Blog",
-      "published": "2026-11-10T12:02:28Z",
+      "title": "DeepMind用AI形式化验证Signal协议",
+      "summary": "报道显示，Google DeepMind利用AI完成Signal协议形式化验证，以数学证明其端到端加密可靠性。",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4wN1c5YVR6T1lhMEs3c05INno0MWowbHFKaW5hUm05YXYzSFNYRVFBTkp0VHZbldLcWl4Y3RlSlFzdVZvU3ZpWnM5UGk?oc=5",
+      "source": "凤凰网科技",
+      "published": "Tue, 10 Nov 2026 13:36:27 GMT",
       "category": "ai"
     },
     {
-      "title": "OpenAI推出ChatGPT商家资料功能",
-      "summary": "商家可管理业务信息，了解自身在ChatGPT中的展示情况，并将用户兴趣转化为后续行动。",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-11-10T10:00:00Z",
-      "category": "ai"
-    },
-    {
-      "title": "X-energy获批建设首批小型模块化核反应堆",
-      "summary": "美国核管理委员会向X-energy颁发建设许可，允许其在得克萨斯州建设四座反应堆。",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:43:55Z",
-      "category": "tech"
-    },
-    {
-      "title": "Starlink Mini 2加入可更换电池",
-      "summary": "SpaceX公布新款便携卫星上网终端，将天线、Wi-Fi路由器和电池集成于约笔记本电脑大小的设备中。",
-      "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+      "title": "DeepMind发布AlphaGenome 2模型",
+      "summary": "AlphaGenome 2旨在解析DNA变化如何影响不同细胞，为疾病成因研究和新疗法探索提供线索。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
       "source": "The Verge",
-      "published": "2026-11-10T19:19:55Z",
+      "published": "2026-11-11T09:18:08-05:00",
+      "category": "ai"
+    },
+    {
+      "title": "英国Fractile获7.2亿美元融资",
+      "summary": "AI芯片公司Fractile完成7.2亿美元融资，成为定制AI芯片赛道获得资金最多的企业之一。",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "published": "Wed, 11 Nov 2026 19:34:55 +0000",
       "category": "tech"
     },
     {
-      "title": "Git发布更新修复六项安全漏洞",
-      "summary": "漏洞涉及递归克隆、引用处理、合并、二进制补丁和导入等功能；Git发布相应安全更新。",
+      "title": "CoreWeave转向预付款支持AI扩张",
+      "summary": "CoreWeave要求客户预付款、以特定合同融资，并探索可能带来更高价格的短期合同。",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "published": "Wed, 11 Nov 2026 19:54:00 +0000",
+      "category": "tech"
+    },
+    {
+      "title": "Git发布六项安全漏洞修复",
+      "summary": "Git更新修复六项安全漏洞，涉及递归克隆、引用处理、合并、二进制补丁和导入功能。",
       "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "source": "GitHub Blog",
-      "published": "2026-11-10T18:00:00Z",
+      "published": "Tue, 10 Nov 2026 18:00:00 +0000",
       "category": "github"
     },
     {
-      "title": "Dependabot将暂停不活跃仓库告警",
-      "summary": "GitHub宣布自12月8日起，关闭多数过去一年无活动仓库的Dependabot告警；已有告警将归档而非删除。",
-      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "title": "GitHub个人账户开放Issue类型",
+      "summary": "Issue类型和字段现已向个人账户仓库普遍开放，为个人开发者和开源维护者提供规划能力。",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
       "source": "GitHub Changelog",
-      "published": "2026-11-10T14:20:05Z",
+      "published": "Wed, 11 Nov 2026 17:16:46 +0000",
       "category": "github"
     }
   ]
