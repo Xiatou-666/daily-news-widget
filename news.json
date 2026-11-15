@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-14T03:38:11.420962+00:00",
+  "updated_at": "2026-11-15T03:08:43.179190+00:00",
   "categories": {
     "physics": [
       {
-        "title": "研究揭示成对测试遗漏的多时刻量子记忆",
-        "summary": "预印本指出，部分量子记忆无法通过两时刻测试发现，需联合考察三个或更多时刻；研究给出解析的三时刻判据。",
-        "url": "https://arxiv.org/abs/2611.17268v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-11-12T18:46:04Z",
+        "title": "钱德拉观测揭示巨星反复爆发诱因",
+        "summary": "NASA称，天文学家利用钱德拉X射线天文台，发现约3000万光年外不稳定巨星AT 2016blu反复爆发的触发因素。",
+        "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+        "source": "NASA 新闻",
+        "published": "2026-11-13T16:39:33Z",
         "category": "physics"
       },
       {
-        "title": "反幺正周期驱动提供时间晶体稳定新路径",
-        "summary": "预印本提出利用反幺正周期驱动与动力学冻结稳定离散时间晶体；无限链模拟未检测到衰减，并给出实验实现方案。",
-        "url": "https://arxiv.org/abs/2611.17333v1",
+        "title": "研究提出识别多时刻量子记忆的新判据",
+        "summary": "arXiv预印本指出，量子记忆可能躲过所有两时刻检验，只有联合考察三个或更多时刻才能识别，并推导三时刻解析判据。",
+        "url": "https://arxiv.org/abs/2611.17268v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-12T18:59:53Z",
+        "published": "2026-11-12T18:46:04Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
         "title": "OpenAI推出ChatGPT钱包",
-        "summary": "ChatGPT Wallet支持ChatGPT Work、Codex及dots中的智能体在用户批准后完成购买，并保留现有银行卡保护机制。",
+        "summary": "ChatGPT Wallet支持ChatGPT Work、Codex和dots中的智能体在用户批准后完成购买，并保留现有银行卡保障。",
         "url": "https://openai.com/index/introducing-chatgpt-wallet",
         "source": "OpenAI 官方新闻",
         "published": "2026-11-13T15:00:00Z",
         "category": "ai"
       },
       {
-        "title": "姚期智杨植麟联合论文考察AI数学能力",
-        "summary": "据报道，姚期智与杨植麟首次联合发表论文，考察30道数学难题，尚无一道被AI独立攻破。",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3Y0aXppdUNzWmJ1djZFLWpfRFY3djRtcWNIbEpnTFgzSkNaNlprelFySmwyNzkxZUF2c2tiTmtRSjg1UGNZaWZYQWMtd1NOY3BoZlJwODBnUTR5SE5MblhJeG9MNWU5OXBfSU84TjRnOVBCRk5rdVVYczgyaEx6cC1Tc21zdjNn?oc=5",
-        "source": "Sohu（Google News）",
-        "published": "2026-11-13T16:04:45Z",
+        "title": "OpenAI Math用Lean构建可验证证明任务",
+        "summary": "智源社区报道，OpenAI Math利用Lean为智能体打造可验证的数学证明任务，聚焦形式化验证。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PSFNvUnp0OG93bDZ0QkM4WDhmcEppSGltTi1FWEhjWWw3cFluM01PcWVTWEZxSU9STWlXOVh0cTk4d2pwSnI0UQ?oc=5",
+        "source": "智源社区",
+        "published": "2026-11-14T14:20:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "初创公司拟用海洋热能驱动漂浮数据中心",
-        "summary": "Drogue计划利用海洋热能为船上数据中心供电，已获得投资者支持，首个原型预计不到两年内投入海上测试。",
-        "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-        "source": "TechCrunch",
-        "published": "2026-11-13T20:07:24Z",
+        "title": "SpaceX首次成功用机械臂捕获星舰飞船",
+        "summary": "SpaceX首次用发射塔机械臂成功捕获星舰飞船本体；此前已捕获过助推器，本次飞行原定的助推器捕获则被取消。",
+        "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "source": "The Verge",
+        "published": "2026-11-14T21:44:44Z",
         "category": "tech"
       },
       {
-        "title": "脑植入试验志愿者要求更多自主权",
-        "summary": "参与脑植入设备试验的志愿者提出更多自主权、减少保密协议等诉求，呼吁研究充分认可他们的贡献。",
-        "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-        "source": "MIT Technology Review",
-        "published": "2026-11-13T10:00:00Z",
+        "title": "特斯拉开放个人Cybercab预订",
+        "summary": "特斯拉开放个人用途Cybercab预订，但设有使用地域限制，并需每月支付299美元费用；马斯克也称月费过高。",
+        "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+        "source": "TechCrunch",
+        "published": "2026-11-14T20:04:44Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub预告12月停用部分Copilot模型",
-        "summary": "GitHub宣布将于12月14日在Copilot各使用场景中停用部分模型，涉及聊天、行内编辑、智能体模式及代码补全。",
+        "title": "GitHub将于12月停用部分Copilot模型",
+        "summary": "GitHub宣布，部分Copilot模型将于2026年12月14日停用，涉及聊天、行内编辑、智能体模式及代码补全等使用场景。",
         "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
         "source": "GitHub Changelog",
         "published": "2026-11-13T20:40:05Z",
         "category": "github"
       },
       {
-        "title": "GitHub发布跨智能体技能实践指南",
-        "summary": "指南介绍如何将重复工程任务封装为可审查、复用的技能文件；工具、项目上下文及权限仍由运行技能的宿主决定。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-        "source": "GitHub Blog",
-        "published": "2026-11-12T22:54:52Z",
+        "title": "Copilot应用支持企业服务器账户",
+        "summary": "GitHub Copilot应用现可添加GitHub Enterprise Server账户，处理远程仓库、议题和拉取请求。",
+        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "published": "2026-11-13T18:27:13Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "研究揭示成对测试遗漏的多时刻量子记忆",
-      "summary": "预印本指出，部分量子记忆无法通过两时刻测试发现，需联合考察三个或更多时刻；研究给出解析的三时刻判据。",
+      "title": "钱德拉观测揭示巨星反复爆发诱因",
+      "summary": "NASA称，天文学家利用钱德拉X射线天文台，发现约3000万光年外不稳定巨星AT 2016blu反复爆发的触发因素。",
+      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
+      "source": "NASA 新闻",
+      "published": "2026-11-13T16:39:33Z",
+      "category": "physics"
+    },
+    {
+      "title": "研究提出识别多时刻量子记忆的新判据",
+      "summary": "arXiv预印本指出，量子记忆可能躲过所有两时刻检验，只有联合考察三个或更多时刻才能识别，并推导三时刻解析判据。",
       "url": "https://arxiv.org/abs/2611.17268v1",
       "source": "arXiv 量子物理",
       "published": "2026-11-12T18:46:04Z",
       "category": "physics"
     },
     {
-      "title": "反幺正周期驱动提供时间晶体稳定新路径",
-      "summary": "预印本提出利用反幺正周期驱动与动力学冻结稳定离散时间晶体；无限链模拟未检测到衰减，并给出实验实现方案。",
-      "url": "https://arxiv.org/abs/2611.17333v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-11-12T18:59:53Z",
-      "category": "physics"
-    },
-    {
       "title": "OpenAI推出ChatGPT钱包",
-      "summary": "ChatGPT Wallet支持ChatGPT Work、Codex及dots中的智能体在用户批准后完成购买，并保留现有银行卡保护机制。",
+      "summary": "ChatGPT Wallet支持ChatGPT Work、Codex和dots中的智能体在用户批准后完成购买，并保留现有银行卡保障。",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "source": "OpenAI 官方新闻",
       "published": "2026-11-13T15:00:00Z",
       "category": "ai"
     },
     {
-      "title": "姚期智杨植麟联合论文考察AI数学能力",
-      "summary": "据报道，姚期智与杨植麟首次联合发表论文，考察30道数学难题，尚无一道被AI独立攻破。",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ3Y0aXppdUNzWmJ1djZFLWpfRFY3djRtcWNIbEpnTFgzSkNaNlprelFySmwyNzkxZUF2c2tiTmtRSjg1UGNZaWZYQWMtd1NOY3BoZlJwODBnUTR5SE5MblhJeG9MNWU5OXBfSU84TjRnOVBCRk5rdVVYczgyaEx6cC1Tc21zdjNn?oc=5",
-      "source": "Sohu（Google News）",
-      "published": "2026-11-13T16:04:45Z",
+      "title": "OpenAI Math用Lean构建可验证证明任务",
+      "summary": "智源社区报道，OpenAI Math利用Lean为智能体打造可验证的数学证明任务，聚焦形式化验证。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PSFNvUnp0OG93bDZ0QkM4WDhmcEppSGltTi1FWEhjWWw3cFluM01PcWVTWEZxSU9STWlXOVh0cTk4d2pwSnI0UQ?oc=5",
+      "source": "智源社区",
+      "published": "2026-11-14T14:20:00Z",
       "category": "ai"
     },
     {
-      "title": "初创公司拟用海洋热能驱动漂浮数据中心",
-      "summary": "Drogue计划利用海洋热能为船上数据中心供电，已获得投资者支持，首个原型预计不到两年内投入海上测试。",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "title": "SpaceX首次成功用机械臂捕获星舰飞船",
+      "summary": "SpaceX首次用发射塔机械臂成功捕获星舰飞船本体；此前已捕获过助推器，本次飞行原定的助推器捕获则被取消。",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "source": "The Verge",
+      "published": "2026-11-14T21:44:44Z",
+      "category": "tech"
+    },
+    {
+      "title": "特斯拉开放个人Cybercab预订",
+      "summary": "特斯拉开放个人用途Cybercab预订，但设有使用地域限制，并需每月支付299美元费用；马斯克也称月费过高。",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
       "source": "TechCrunch",
-      "published": "2026-11-13T20:07:24Z",
+      "published": "2026-11-14T20:04:44Z",
       "category": "tech"
     },
     {
-      "title": "脑植入试验志愿者要求更多自主权",
-      "summary": "参与脑植入设备试验的志愿者提出更多自主权、减少保密协议等诉求，呼吁研究充分认可他们的贡献。",
-      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
-      "source": "MIT Technology Review",
-      "published": "2026-11-13T10:00:00Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub预告12月停用部分Copilot模型",
-      "summary": "GitHub宣布将于12月14日在Copilot各使用场景中停用部分模型，涉及聊天、行内编辑、智能体模式及代码补全。",
+      "title": "GitHub将于12月停用部分Copilot模型",
+      "summary": "GitHub宣布，部分Copilot模型将于2026年12月14日停用，涉及聊天、行内编辑、智能体模式及代码补全等使用场景。",
       "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
       "source": "GitHub Changelog",
       "published": "2026-11-13T20:40:05Z",
       "category": "github"
     },
     {
-      "title": "GitHub发布跨智能体技能实践指南",
-      "summary": "指南介绍如何将重复工程任务封装为可审查、复用的技能文件；工具、项目上下文及权限仍由运行技能的宿主决定。",
-      "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
-      "source": "GitHub Blog",
-      "published": "2026-11-12T22:54:52Z",
+      "title": "Copilot应用支持企业服务器账户",
+      "summary": "GitHub Copilot应用现可添加GitHub Enterprise Server账户，处理远程仓库、议题和拉取请求。",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "published": "2026-11-13T18:27:13Z",
       "category": "github"
     }
   ]
