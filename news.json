@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-15T03:08:43.179190+00:00",
+  "updated_at": "2026-11-16T03:14:45.427398+00:00",
   "categories": {
     "physics": [
       {
-        "title": "钱德拉观测揭示巨星反复爆发诱因",
-        "summary": "NASA称，天文学家利用钱德拉X射线天文台，发现约3000万光年外不稳定巨星AT 2016blu反复爆发的触发因素。",
-        "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-        "source": "NASA 新闻",
-        "published": "2026-11-13T16:39:33Z",
+        "title": "量子点分子能级结构获直接可视化",
+        "summary": "研究直接呈现量子点分子的能级结构，相关论文发表于《自然·通讯》。",
+        "url": "https://www.nature.com/articles/s41467-026-79672-6",
+        "source": "Nature 量子物理",
+        "published": "2026-11-15T00:00:00Z",
         "category": "physics"
       },
       {
-        "title": "研究提出识别多时刻量子记忆的新判据",
-        "summary": "arXiv预印本指出，量子记忆可能躲过所有两时刻检验，只有联合考察三个或更多时刻才能识别，并推导三时刻解析判据。",
-        "url": "https://arxiv.org/abs/2611.17268v1",
-        "source": "arXiv 量子物理",
-        "published": "2026-11-12T18:46:04Z",
+        "title": "研究首次实现MOF电子自旋光检测",
+        "summary": "东京大学与格拉斯哥大学首次在金属有机框架中实现电子自旋光检测，为高灵敏度量子传感开辟路径。",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sbDhNSGhjNzJvc1lPUVNpcEd4UEtydEk1TTZ6VGk5R1ZELW1YeHhGNmNZTEtsZjNZWi1xdWd5TFlMdmdIekg1V0VXWk1DcDhibzBmaDVfZ1pHeG4yZG5Ic2N2aEVuNUM1Z1lsaFJNWVVxajZFVlhj?oc=5",
+        "source": "客观日本",
+        "published": "2026-11-16T01:07:08Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI推出ChatGPT钱包",
-        "summary": "ChatGPT Wallet支持ChatGPT Work、Codex和dots中的智能体在用户批准后完成购买，并保留现有银行卡保障。",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "title": "OpenAI介绍AI辅助标准模型格点研究",
+        "summary": "OpenAI介绍标准模型的一种候选非微扰格点定义，并称GPT-6 Astra协助将构想发展为详细证明。",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
         "source": "OpenAI 官方新闻",
-        "published": "2026-11-13T15:00:00Z",
+        "published": "2026-11-15T22:00:01Z",
         "category": "ai"
       },
       {
-        "title": "OpenAI Math用Lean构建可验证证明任务",
-        "summary": "智源社区报道，OpenAI Math利用Lean为智能体打造可验证的数学证明任务，聚焦形式化验证。",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PSFNvUnp0OG93bDZ0QkM4WDhmcEppSGltTi1FWEhjWWw3cFluM01PcWVTWEZxSU9STWlXOVh0cTk4d2pwSnI0UQ?oc=5",
-        "source": "智源社区",
-        "published": "2026-11-14T14:20:00Z",
+        "title": "OpenAI推出科学研究博客",
+        "summary": "新博客将分享AI推动科学发现的新成果、实用方法，以及研究人员的一手经验。",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI 官方新闻",
+        "published": "2026-11-15T22:00:00Z",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "SpaceX首次成功用机械臂捕获星舰飞船",
-        "summary": "SpaceX首次用发射塔机械臂成功捕获星舰飞船本体；此前已捕获过助推器，本次飞行原定的助推器捕获则被取消。",
-        "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-        "source": "The Verge",
-        "published": "2026-11-14T21:44:44Z",
+        "title": "国产模拟计算芯片问世",
+        "summary": "中国科技网报道，国产新型模拟计算芯片问世，矩阵方程求解速度快千倍。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WGI4V051QU1IaWpUTjFZdWJaVjZkeXBveEdDVUJyanlRTDNKRkVvZzZjSWNjSWp1Z1A5elQwbDNrU2tiWG9wWDFPNDBBSEVwUGRnVGZ4QTZOSWJBaFBGZjhaQmh5Y3hRWkNiLTBNa2g?oc=5",
+        "source": "中国科技网",
+        "published": "2026-11-15T09:41:37Z",
         "category": "tech"
       },
       {
-        "title": "特斯拉开放个人Cybercab预订",
-        "summary": "特斯拉开放个人用途Cybercab预订，但设有使用地域限制，并需每月支付299美元费用；马斯克也称月费过高。",
-        "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-        "source": "TechCrunch",
-        "published": "2026-11-14T20:04:44Z",
+        "title": "火神火箭发射失败，40颗亚马逊卫星损失",
+        "summary": "联合发射联盟火神火箭任务失败，未能将40颗Amazon Leo卫星送入轨道，卫星在事故中损失。",
+        "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+        "source": "The Verge",
+        "published": "2026-11-15T21:05:02Z",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub将于12月停用部分Copilot模型",
-        "summary": "GitHub宣布，部分Copilot模型将于2026年12月14日停用，涉及聊天、行内编辑、智能体模式及代码补全等使用场景。",
-        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-        "source": "GitHub Changelog",
-        "published": "2026-11-13T20:40:05Z",
+        "title": "美团开放LongCat-2.5模型权重",
+        "summary": "美团开放1.6万亿参数的MoE智能体模型权重；报道指出，自托管指南未提供英伟达GPU部署路径。",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ISV94TjBzSG0wNE1jUjNqcGdZSjhKUzZEdUNUR1lrNmFScFVMZDdnSi0yUGs2UTBxU0dTS1hJZXpVQ3dRVmo4Qw?oc=5",
+        "source": "智源社区",
+        "published": "2026-11-15T18:56:00Z",
         "category": "github"
       },
       {
-        "title": "Copilot应用支持企业服务器账户",
-        "summary": "GitHub Copilot应用现可添加GitHub Enterprise Server账户，处理远程仓库、议题和拉取请求。",
-        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "published": "2026-11-13T18:27:13Z",
+        "title": "开源盘古2.1 Pro上线华为云",
+        "summary": "华为云正式上线开源盘古模型openPangu-2.1-Pro。",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOXlUbTVXeThKVWdzQzFwTlNiaGtGd0o2SjBvYVJ3ZUt6eXV1R3o1TUhicEJNY09KXzFWQXNyWEZsYU9rOFR1WlVtU2xaQWFWd2FzYXZ2ZWZ4X2g3M3o4MENhOHhpUnFKcjVramM5enIya3pm?oc=5",
+        "source": "金融界",
+        "published": "2026-11-15T14:08:18Z",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "钱德拉观测揭示巨星反复爆发诱因",
-      "summary": "NASA称，天文学家利用钱德拉X射线天文台，发现约3000万光年外不稳定巨星AT 2016blu反复爆发的触发因素。",
-      "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "source": "NASA 新闻",
-      "published": "2026-11-13T16:39:33Z",
+      "title": "量子点分子能级结构获直接可视化",
+      "summary": "研究直接呈现量子点分子的能级结构，相关论文发表于《自然·通讯》。",
+      "url": "https://www.nature.com/articles/s41467-026-79672-6",
+      "source": "Nature 量子物理",
+      "published": "2026-11-15T00:00:00Z",
       "category": "physics"
     },
     {
-      "title": "研究提出识别多时刻量子记忆的新判据",
-      "summary": "arXiv预印本指出，量子记忆可能躲过所有两时刻检验，只有联合考察三个或更多时刻才能识别，并推导三时刻解析判据。",
-      "url": "https://arxiv.org/abs/2611.17268v1",
-      "source": "arXiv 量子物理",
-      "published": "2026-11-12T18:46:04Z",
+      "title": "研究首次实现MOF电子自旋光检测",
+      "summary": "东京大学与格拉斯哥大学首次在金属有机框架中实现电子自旋光检测，为高灵敏度量子传感开辟路径。",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sbDhNSGhjNzJvc1lPUVNpcEd4UEtydEk1TTZ6VGk5R1ZELW1YeHhGNmNZTEtsZjNZWi1xdWd5TFlMdmdIekg1V0VXWk1DcDhibzBmaDVfZ1pHeG4yZG5Ic2N2aEVuNUM1Z1lsaFJNWVVxajZFVlhj?oc=5",
+      "source": "客观日本",
+      "published": "2026-11-16T01:07:08Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI推出ChatGPT钱包",
-      "summary": "ChatGPT Wallet支持ChatGPT Work、Codex和dots中的智能体在用户批准后完成购买，并保留现有银行卡保障。",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "OpenAI介绍AI辅助标准模型格点研究",
+      "summary": "OpenAI介绍标准模型的一种候选非微扰格点定义，并称GPT-6 Astra协助将构想发展为详细证明。",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
       "source": "OpenAI 官方新闻",
-      "published": "2026-11-13T15:00:00Z",
+      "published": "2026-11-15T22:00:01Z",
       "category": "ai"
     },
     {
-      "title": "OpenAI Math用Lean构建可验证证明任务",
-      "summary": "智源社区报道，OpenAI Math利用Lean为智能体打造可验证的数学证明任务，聚焦形式化验证。",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PSFNvUnp0OG93bDZ0QkM4WDhmcEppSGltTi1FWEhjWWw3cFluM01PcWVTWEZxSU9STWlXOVh0cTk4d2pwSnI0UQ?oc=5",
-      "source": "智源社区",
-      "published": "2026-11-14T14:20:00Z",
+      "title": "OpenAI推出科学研究博客",
+      "summary": "新博客将分享AI推动科学发现的新成果、实用方法，以及研究人员的一手经验。",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI 官方新闻",
+      "published": "2026-11-15T22:00:00Z",
       "category": "ai"
     },
     {
-      "title": "SpaceX首次成功用机械臂捕获星舰飞船",
-      "summary": "SpaceX首次用发射塔机械臂成功捕获星舰飞船本体；此前已捕获过助推器，本次飞行原定的助推器捕获则被取消。",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "title": "国产模拟计算芯片问世",
+      "summary": "中国科技网报道，国产新型模拟计算芯片问世，矩阵方程求解速度快千倍。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WGI4V051QU1IaWpUTjFZdWJaVjZkeXBveEdDVUJyanlRTDNKRkVvZzZjSWNjSWp1Z1A5elQwbDNrU2tiWG9wWDFPNDBBSEVwUGRnVGZ4QTZOSWJBaFBGZjhaQmh5Y3hRWkNiLTBNa2g?oc=5",
+      "source": "中国科技网",
+      "published": "2026-11-15T09:41:37Z",
+      "category": "tech"
+    },
+    {
+      "title": "火神火箭发射失败，40颗亚马逊卫星损失",
+      "summary": "联合发射联盟火神火箭任务失败，未能将40颗Amazon Leo卫星送入轨道，卫星在事故中损失。",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
       "source": "The Verge",
-      "published": "2026-11-14T21:44:44Z",
+      "published": "2026-11-15T21:05:02Z",
       "category": "tech"
     },
     {
-      "title": "特斯拉开放个人Cybercab预订",
-      "summary": "特斯拉开放个人用途Cybercab预订，但设有使用地域限制，并需每月支付299美元费用；马斯克也称月费过高。",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "source": "TechCrunch",
-      "published": "2026-11-14T20:04:44Z",
-      "category": "tech"
-    },
-    {
-      "title": "GitHub将于12月停用部分Copilot模型",
-      "summary": "GitHub宣布，部分Copilot模型将于2026年12月14日停用，涉及聊天、行内编辑、智能体模式及代码补全等使用场景。",
-      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-      "source": "GitHub Changelog",
-      "published": "2026-11-13T20:40:05Z",
+      "title": "美团开放LongCat-2.5模型权重",
+      "summary": "美团开放1.6万亿参数的MoE智能体模型权重；报道指出，自托管指南未提供英伟达GPU部署路径。",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ISV94TjBzSG0wNE1jUjNqcGdZSjhKUzZEdUNUR1lrNmFScFVMZDdnSi0yUGs2UTBxU0dTS1hJZXpVQ3dRVmo4Qw?oc=5",
+      "source": "智源社区",
+      "published": "2026-11-15T18:56:00Z",
       "category": "github"
     },
     {
-      "title": "Copilot应用支持企业服务器账户",
-      "summary": "GitHub Copilot应用现可添加GitHub Enterprise Server账户，处理远程仓库、议题和拉取请求。",
-      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "published": "2026-11-13T18:27:13Z",
+      "title": "开源盘古2.1 Pro上线华为云",
+      "summary": "华为云正式上线开源盘古模型openPangu-2.1-Pro。",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOXlUbTVXeThKVWdzQzFwTlNiaGtGd0o2SjBvYVJ3ZUt6eXV1R3o1TUhicEJNY09KXzFWQXNyWEZsYU9rOFR1WlVtU2xaQWFWd2FzYXZ2ZWZ4X2g3M3o4MENhOHhpUnFKcjVramM5enIya3pm?oc=5",
+      "source": "金融界",
+      "published": "2026-11-15T14:08:18Z",
       "category": "github"
     }
   ]
