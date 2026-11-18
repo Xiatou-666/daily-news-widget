@@ -1,143 +1,143 @@
 {
-  "updated_at": "2026-11-17T05:16:06.482151+00:00",
+  "updated_at": "2026-11-18T04:44:33.268504+00:00",
   "categories": {
     "physics": [
       {
-        "title": "自主量子纠错延长量子比特寿命",
-        "summary": "研究通过自主量子纠错，使量子比特寿命超过盈亏平衡点，并增强量子传感能力。",
-        "url": "https://www.nature.com/articles/s41567-026-03493-z",
-        "source": "Nature 量子物理",
-        "published": "2026-11-16T00:00:00Z",
-        "category": "前沿物理"
+        "title": "超导电路实验研究逻辑量子比特传态",
+        "summary": "预印本报告基于超导电路的容错晶格手术实验分析，探索支持逻辑量子比特间操作的关键技术。",
+        "url": "https://arxiv.org/abs/2611.23165v1",
+        "source": "arXiv 量子物理",
+        "published": "2026-11-17T18:17:01Z",
+        "category": "physics"
       },
       {
-        "title": "量子增强射频成像突破标准量子极限",
-        "summary": "研究者利用相位压缩光载波与平衡零差探测，在被动和主动射频成像实验中突破光学读出的标准量子极限。",
-        "url": "https://arxiv.org/abs/2611.20194v1",
+        "title": "长程纠缠可逆转局部对称性恢复",
+        "summary": "预印本研究表明，当对称性破缺相干性最初编码于长程纠缠中，保对称的幺正演化也可能产生局部对称性破缺。",
+        "url": "https://arxiv.org/abs/2611.23224v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-15T18:44:59Z",
-        "category": "前沿物理"
+        "published": "2026-11-17T18:57:40Z",
+        "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI介绍AI辅助标准模型格点研究",
-        "summary": "OpenAI介绍标准模型的一种候选非微扰格点定义，以及GPT-6 Astra如何协助将研究思路发展为详细证明。",
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "title": "OpenAI发布GPT-6.2双模型",
+        "summary": "OpenAI推出Astra与Sol，称其提升专业输出、编程和计算机操作能力，并以更低成本服务ChatGPT Work、Codex及API。",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
         "source": "OpenAI 官方新闻",
-        "published": "2026-11-15T22:00:01Z",
-        "category": "人工智能"
+        "published": "2026-11-17T17:45:00Z",
+        "category": "ai"
       },
       {
-        "title": "OpenAI向20万研究者免费开放前沿模型",
-        "summary": "OpenAI扩大面向学术研究者的ChatGPT计划，为全球20万名研究者提供免费使用前沿模型的机会。",
+        "title": "OpenAI向20万科研人员免费开放模型",
+        "summary": "OpenAI扩大面向学术研究人员的ChatGPT计划，为全球20万名科研人员提供前沿模型的免费访问权限。",
         "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
         "source": "OpenAI 官方新闻",
         "published": "2026-11-16T17:00:00Z",
-        "category": "人工智能"
+        "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "苹果详解Mac新权限与隐私控制",
-        "summary": "苹果披露macOS 27.3将加入的权限控制、警告及透明度功能，以应对AI智能体和其他应用带来的隐私风险。",
-        "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+        "title": "Waymo暂停全美高速公路载客服务",
+        "summary": "加州车管局认定Waymo高速公路运营存在紧迫安全风险后，公司暂停全美相关服务；限制将持续至有效整改得到证明。",
+        "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
         "source": "TechCrunch",
-        "published": "2026-11-16T21:01:02Z",
-        "category": "科技发展"
+        "published": "2026-11-17T19:49:41Z",
+        "category": "tech"
       },
       {
-        "title": "研究关注美国超大规模数据中心用电",
-        "summary": "《自然·可持续性》新论文指出，美国超大规模数据中心仍主要依赖化石能源供电，总用电量可能超过许多国家。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-        "source": "The Verge",
-        "published": "2026-11-16T20:27:58Z",
-        "category": "科技发展"
+        "title": "邮票大小器官芯片模拟肿瘤生长",
+        "summary": "中国科技网报道，一种邮票大小的器官芯片可同时培养癌细胞、血管和神经，用于模拟肿瘤生长。",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUV90aUFyLWVDbV9RYjdmbVZzSUJOcVlqNGNuT0NEbEw3UmIyd2NpckVmYkdxNkhtWEttNEZZdzUtVXRXQ0E3MW85NVJ1VDBJLXNiR0JLWnptOWttUkJFUHdRNXNCZkFyam00NHU2c0I?oc=5",
+        "source": "中国科技网",
+        "published": "2026-11-17T17:45:00Z",
+        "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub支持批量启动仓库AI安全扫描",
-        "summary": "仓库AI Scan可批量启动，检测默认分支的安全漏洞，覆盖CodeQL不支持的语言，并补充现有语言的检测结果。",
-        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-        "source": "GitHub Changelog",
-        "published": "2026-11-16T15:50:22Z",
-        "category": "GitHub/开源"
+        "title": "GitHub将AI漏洞发现转为可用修复",
+        "summary": "GitHub与微软在MDASH试点中，将数千条AI发现筛为99份经核查、附修复建议的私密报告，涉及六个开源项目，过半已修复。",
+        "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+        "source": "GitHub Blog",
+        "published": "2026-11-17T18:29:29Z",
+        "category": "github"
       },
       {
-        "title": "Dependabot告警解除申请有效期延长",
-        "summary": "使用委托告警解除功能时，Dependabot解除申请的有效期由一周延长至一年，为审核者留出更多处理时间。",
-        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-        "source": "GitHub Changelog",
-        "published": "2026-11-17T00:09:27Z",
-        "category": "GitHub/开源"
+        "title": "GitHub介绍跨设备智能体会话协议",
+        "summary": "GitHub介绍开放的Agent Host Protocol，支持在编辑器、应用、手机和云端持续访问智能体会话。",
+        "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+        "source": "GitHub Blog",
+        "published": "2026-11-17T18:20:40Z",
+        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "自主量子纠错延长量子比特寿命",
-      "summary": "研究通过自主量子纠错，使量子比特寿命超过盈亏平衡点，并增强量子传感能力。",
-      "url": "https://www.nature.com/articles/s41567-026-03493-z",
-      "source": "Nature 量子物理",
-      "published": "2026-11-16T00:00:00Z",
-      "category": "前沿物理"
-    },
-    {
-      "title": "量子增强射频成像突破标准量子极限",
-      "summary": "研究者利用相位压缩光载波与平衡零差探测，在被动和主动射频成像实验中突破光学读出的标准量子极限。",
-      "url": "https://arxiv.org/abs/2611.20194v1",
+      "title": "超导电路实验研究逻辑量子比特传态",
+      "summary": "预印本报告基于超导电路的容错晶格手术实验分析，探索支持逻辑量子比特间操作的关键技术。",
+      "url": "https://arxiv.org/abs/2611.23165v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-15T18:44:59Z",
-      "category": "前沿物理"
+      "published": "2026-11-17T18:17:01Z",
+      "category": "physics"
     },
     {
-      "title": "OpenAI介绍AI辅助标准模型格点研究",
-      "summary": "OpenAI介绍标准模型的一种候选非微扰格点定义，以及GPT-6 Astra如何协助将研究思路发展为详细证明。",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "长程纠缠可逆转局部对称性恢复",
+      "summary": "预印本研究表明，当对称性破缺相干性最初编码于长程纠缠中，保对称的幺正演化也可能产生局部对称性破缺。",
+      "url": "https://arxiv.org/abs/2611.23224v1",
+      "source": "arXiv 量子物理",
+      "published": "2026-11-17T18:57:40Z",
+      "category": "physics"
+    },
+    {
+      "title": "OpenAI发布GPT-6.2双模型",
+      "summary": "OpenAI推出Astra与Sol，称其提升专业输出、编程和计算机操作能力，并以更低成本服务ChatGPT Work、Codex及API。",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
       "source": "OpenAI 官方新闻",
-      "published": "2026-11-15T22:00:01Z",
-      "category": "人工智能"
+      "published": "2026-11-17T17:45:00Z",
+      "category": "ai"
     },
     {
-      "title": "OpenAI向20万研究者免费开放前沿模型",
-      "summary": "OpenAI扩大面向学术研究者的ChatGPT计划，为全球20万名研究者提供免费使用前沿模型的机会。",
+      "title": "OpenAI向20万科研人员免费开放模型",
+      "summary": "OpenAI扩大面向学术研究人员的ChatGPT计划，为全球20万名科研人员提供前沿模型的免费访问权限。",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI 官方新闻",
       "published": "2026-11-16T17:00:00Z",
-      "category": "人工智能"
+      "category": "ai"
     },
     {
-      "title": "苹果详解Mac新权限与隐私控制",
-      "summary": "苹果披露macOS 27.3将加入的权限控制、警告及透明度功能，以应对AI智能体和其他应用带来的隐私风险。",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "title": "Waymo暂停全美高速公路载客服务",
+      "summary": "加州车管局认定Waymo高速公路运营存在紧迫安全风险后，公司暂停全美相关服务；限制将持续至有效整改得到证明。",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
       "source": "TechCrunch",
-      "published": "2026-11-16T21:01:02Z",
-      "category": "科技发展"
+      "published": "2026-11-17T19:49:41Z",
+      "category": "tech"
     },
     {
-      "title": "研究关注美国超大规模数据中心用电",
-      "summary": "《自然·可持续性》新论文指出，美国超大规模数据中心仍主要依赖化石能源供电，总用电量可能超过许多国家。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "source": "The Verge",
-      "published": "2026-11-16T20:27:58Z",
-      "category": "科技发展"
+      "title": "邮票大小器官芯片模拟肿瘤生长",
+      "summary": "中国科技网报道，一种邮票大小的器官芯片可同时培养癌细胞、血管和神经，用于模拟肿瘤生长。",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUV90aUFyLWVDbV9RYjdmbVZzSUJOcVlqNGNuT0NEbEw3UmIyd2NpckVmYkdxNkhtWEttNEZZdzUtVXRXQ0E3MW85NVJ1VDBJLXNiR0JLWnptOWttUkJFUHdRNXNCZkFyam00NHU2c0I?oc=5",
+      "source": "中国科技网",
+      "published": "2026-11-17T17:45:00Z",
+      "category": "tech"
     },
     {
-      "title": "GitHub支持批量启动仓库AI安全扫描",
-      "summary": "仓库AI Scan可批量启动，检测默认分支的安全漏洞，覆盖CodeQL不支持的语言，并补充现有语言的检测结果。",
-      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-      "source": "GitHub Changelog",
-      "published": "2026-11-16T15:50:22Z",
-      "category": "GitHub/开源"
+      "title": "GitHub将AI漏洞发现转为可用修复",
+      "summary": "GitHub与微软在MDASH试点中，将数千条AI发现筛为99份经核查、附修复建议的私密报告，涉及六个开源项目，过半已修复。",
+      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "source": "GitHub Blog",
+      "published": "2026-11-17T18:29:29Z",
+      "category": "github"
     },
     {
-      "title": "Dependabot告警解除申请有效期延长",
-      "summary": "使用委托告警解除功能时，Dependabot解除申请的有效期由一周延长至一年，为审核者留出更多处理时间。",
-      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-      "source": "GitHub Changelog",
-      "published": "2026-11-17T00:09:27Z",
-      "category": "GitHub/开源"
+      "title": "GitHub介绍跨设备智能体会话协议",
+      "summary": "GitHub介绍开放的Agent Host Protocol，支持在编辑器、应用、手机和云端持续访问智能体会话。",
+      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "source": "GitHub Blog",
+      "published": "2026-11-17T18:20:40Z",
+      "category": "github"
     }
   ]
 }
