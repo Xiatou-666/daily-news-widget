@@ -1,142 +1,142 @@
 {
-  "updated_at": "2026-11-18T04:44:33.268504+00:00",
+  "updated_at": "2026-11-19T04:34:24.432250+00:00",
   "categories": {
     "physics": [
       {
-        "title": "超导电路实验研究逻辑量子比特传态",
-        "summary": "预印本报告基于超导电路的容错晶格手术实验分析，探索支持逻辑量子比特间操作的关键技术。",
-        "url": "https://arxiv.org/abs/2611.23165v1",
+        "title": "Doppler effect on dual-downlin",
+        "summary": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) ",
+        "url": "https://arxiv.org/abs/2611.24369v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-17T18:17:01Z",
+        "published": "2026-11-18T13:01:02Z",
         "category": "physics"
       },
       {
-        "title": "长程纠缠可逆转局部对称性恢复",
-        "summary": "预印本研究表明，当对称性破缺相干性最初编码于长程纠缠中，保对称的幺正演化也可能产生局部对称性破缺。",
-        "url": "https://arxiv.org/abs/2611.23224v1",
+        "title": "Spontaneous emission of atomic",
+        "summary": "We investigate the spontaneous emission of a quantum emitter placed near finite ",
+        "url": "https://arxiv.org/abs/2611.24358v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-17T18:57:40Z",
+        "published": "2026-11-18T12:50:04Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "OpenAI发布GPT-6.2双模型",
-        "summary": "OpenAI推出Astra与Sol，称其提升专业输出、编程和计算机操作能力，并以更低成本服务ChatGPT Work、Codex及API。",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-11-17T17:45:00Z",
+        "title": "着力提升科技金融赋能AI产业发展效能 - 西藏自治区科学技术",
+        "summary": "着力提升科技金融赋能AI产业发展效能 &nbsp;&nbsp; 西藏自治区科学技术厅",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Z2k0aFBTTHo5N2ZmbWFObGdnTDlrVFlSUGZPajlkLTBFV3M4TS1TaENkVEFNbEhsaUROaDJmV3YxR1NuLUNxb2g5UWJ5M2NtQXRseWZSbm0xXzEwdnFGZGJlZ3QzZlhiV21fX0N0YkYtQQ?oc=5",
+        "source": "Google News 人工智能",
+        "published": "Thu, 19 Nov 2026 03:31:46 GMT",
         "category": "ai"
       },
       {
-        "title": "OpenAI向20万科研人员免费开放模型",
-        "summary": "OpenAI扩大面向学术研究人员的ChatGPT计划，为全球20万名科研人员提供前沿模型的免费访问权限。",
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "source": "OpenAI 官方新闻",
-        "published": "2026-11-16T17:00:00Z",
+        "title": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治",
+        "summary": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治理并进 &nbsp;&nbsp; 中国日报网",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3UnhSRVVUQnNUbWRNVjIta2hGY2lSbXViZUU4N0NIWTdZZG9fV040STdkb0xGX3FGam1tcndCZGlrWktsU1dvWVlReDV4WDNvZmNLM25YOFlZaHVpb19ZT0Y5RmJ1T2Vabm5XeVJocWNDMVlNUUpycTlUYXQ?oc=5",
+        "source": "Google News 人工智能",
+        "published": "Thu, 19 Nov 2026 03:49:34 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "Waymo暂停全美高速公路载客服务",
-        "summary": "加州车管局认定Waymo高速公路运营存在紧迫安全风险后，公司暂停全美相关服务；限制将持续至有效整改得到证明。",
-        "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-        "source": "TechCrunch",
-        "published": "2026-11-17T19:49:41Z",
+        "title": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 - ",
+        "summary": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 &nbsp;&nbsp; 财联社",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1maXRrNlZ5N253aUJjYnhpTTB3X3hvMUJ2dEVQbFF0NGxXMGg1UHFQeERfakVkSVpnZ3N6ZTRKVUtudzhVV29aTg?oc=5",
+        "source": "Google News 科技发展",
+        "published": "Wed, 18 Nov 2026 17:59:44 GMT",
         "category": "tech"
       },
       {
-        "title": "邮票大小器官芯片模拟肿瘤生长",
-        "summary": "中国科技网报道，一种邮票大小的器官芯片可同时培养癌细胞、血管和神经，用于模拟肿瘤生长。",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUV90aUFyLWVDbV9RYjdmbVZzSUJOcVlqNGNuT0NEbEw3UmIyd2NpckVmYkdxNkhtWEttNEZZdzUtVXRXQ0E3MW85NVJ1VDBJLXNiR0JLWnptOWttUkJFUHdRNXNCZkFyam00NHU2c0I?oc=5",
-        "source": "中国科技网",
-        "published": "2026-11-17T17:45:00Z",
+        "title": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现",
+        "summary": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现状 中国技术创新的“掌舵人”丁薛祥面临抉择 &nbsp;&nbsp; DW.com",
+        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVE9yVFBBRFF6M256bU9ZdGY3dkJKZHBSdm8tS045OVY0eDJzU0NJM3VEQ0hFTlBkMjdpY0E4ckxNcjg0Sk9Nc1BzdmNQLUMwa3Z4c2pfWmtrYVVyMFBsS1Vvb280Z3dDREU4X3hRNmc4WlJfajB4T085MW02UERldFBJWUdTM0Q5ZURTTEFiWFphdkJRMUZfTnUxeFpHQW9XRUNWVXFtZEdwQ1VCUXR0TElrRkpGVE9TR2lFdV9sbGVwVGRONW4xdXMwZjktS3RRYk5qSTg2N005WkFhdkpERVhIYUtRMERKUXllN19zTlhJckl3bWhRajEzN3FORk9RY01ZSld0amNIcU9TcGpFMmhfaEVzUVZQYU5ST05OUzR6Ulh5RnVIWjFmdnplQdIBrgJBVV95cUxPYnhYUkxYbHpCbHZBZjlWUmdTdjhzZmMwVmZ3R0VoNlVqZmpEVnpGX0czV3BiQmUyWHh0dmllVHI1cHdsaWNWeW9SUy1pQ3oyRlhNcy0zNzJuUDlVMmp2VmFMQ1BOX2NxWENKeVd1WTRmVk91ZlpFWDVQSUsyT0s1cHBvNFRrTzQtaE9fa0hLWHhMdnl6dDVXSUhad0dZQXdzdFhGb3dxYmoxcHpZTUtqVXJGUndNcEJkc0lITWhBSVE4c2haRUxiQnFWckxxWkR2TzFzWUZ2aTE3YllHM1NCZlQzT1VyUjVaTHZLRnltYlhfOUxESWFid1R3aHdDaFl4cGdIY1pZSnh1blJDakdtVGxMaEI1R1BNaE1qVElWN1l4RE9meE83YkwwVWdsUQ?oc=5",
+        "source": "Google News 科技发展",
+        "published": "Mon, 16 Nov 2026 15:39:25 GMT",
         "category": "tech"
       }
     ],
     "github": [
       {
-        "title": "GitHub将AI漏洞发现转为可用修复",
-        "summary": "GitHub与微软在MDASH试点中，将数千条AI发现筛为99份经核查、附修复建议的私密报告，涉及六个开源项目，过半已修复。",
+        "title": "Maintainers don’t need more AI",
+        "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI fin",
         "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
         "source": "GitHub Blog",
-        "published": "2026-11-17T18:29:29Z",
+        "published": "Tue, 17 Nov 2026 18:29:29 +0000",
         "category": "github"
       },
       {
-        "title": "GitHub介绍跨设备智能体会话协议",
-        "summary": "GitHub介绍开放的Agent Host Protocol，支持在编辑器、应用、手机和云端持续访问智能体会话。",
+        "title": "Building the Agent Host Protoc",
+        "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions a",
         "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
         "source": "GitHub Blog",
-        "published": "2026-11-17T18:20:40Z",
+        "published": "Tue, 17 Nov 2026 18:20:40 +0000",
         "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "超导电路实验研究逻辑量子比特传态",
-      "summary": "预印本报告基于超导电路的容错晶格手术实验分析，探索支持逻辑量子比特间操作的关键技术。",
-      "url": "https://arxiv.org/abs/2611.23165v1",
+      "title": "Doppler effect on dual-downlin",
+      "summary": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) ",
+      "url": "https://arxiv.org/abs/2611.24369v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-17T18:17:01Z",
+      "published": "2026-11-18T13:01:02Z",
       "category": "physics"
     },
     {
-      "title": "长程纠缠可逆转局部对称性恢复",
-      "summary": "预印本研究表明，当对称性破缺相干性最初编码于长程纠缠中，保对称的幺正演化也可能产生局部对称性破缺。",
-      "url": "https://arxiv.org/abs/2611.23224v1",
+      "title": "Spontaneous emission of atomic",
+      "summary": "We investigate the spontaneous emission of a quantum emitter placed near finite ",
+      "url": "https://arxiv.org/abs/2611.24358v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-17T18:57:40Z",
+      "published": "2026-11-18T12:50:04Z",
       "category": "physics"
     },
     {
-      "title": "OpenAI发布GPT-6.2双模型",
-      "summary": "OpenAI推出Astra与Sol，称其提升专业输出、编程和计算机操作能力，并以更低成本服务ChatGPT Work、Codex及API。",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-11-17T17:45:00Z",
+      "title": "着力提升科技金融赋能AI产业发展效能 - 西藏自治区科学技术",
+      "summary": "着力提升科技金融赋能AI产业发展效能 &nbsp;&nbsp; 西藏自治区科学技术厅",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Z2k0aFBTTHo5N2ZmbWFObGdnTDlrVFlSUGZPajlkLTBFV3M4TS1TaENkVEFNbEhsaUROaDJmV3YxR1NuLUNxb2g5UWJ5M2NtQXRseWZSbm0xXzEwdnFGZGJlZ3QzZlhiV21fX0N0YkYtQQ?oc=5",
+      "source": "Google News 人工智能",
+      "published": "Thu, 19 Nov 2026 03:31:46 GMT",
       "category": "ai"
     },
     {
-      "title": "OpenAI向20万科研人员免费开放模型",
-      "summary": "OpenAI扩大面向学术研究人员的ChatGPT计划，为全球20万名科研人员提供前沿模型的免费访问权限。",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI 官方新闻",
-      "published": "2026-11-16T17:00:00Z",
+      "title": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治",
+      "summary": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治理并进 &nbsp;&nbsp; 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3UnhSRVVUQnNUbWRNVjIta2hGY2lSbXViZUU4N0NIWTdZZG9fV040STdkb0xGX3FGam1tcndCZGlrWktsU1dvWVlReDV4WDNvZmNLM25YOFlZaHVpb19ZT0Y5RmJ1T2Vabm5XeVJocWNDMVlNUUpycTlUYXQ?oc=5",
+      "source": "Google News 人工智能",
+      "published": "Thu, 19 Nov 2026 03:49:34 GMT",
       "category": "ai"
     },
     {
-      "title": "Waymo暂停全美高速公路载客服务",
-      "summary": "加州车管局认定Waymo高速公路运营存在紧迫安全风险后，公司暂停全美相关服务；限制将持续至有效整改得到证明。",
-      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "source": "TechCrunch",
-      "published": "2026-11-17T19:49:41Z",
+      "title": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 - ",
+      "summary": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 &nbsp;&nbsp; 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1maXRrNlZ5N253aUJjYnhpTTB3X3hvMUJ2dEVQbFF0NGxXMGg1UHFQeERfakVkSVpnZ3N6ZTRKVUtudzhVV29aTg?oc=5",
+      "source": "Google News 科技发展",
+      "published": "Wed, 18 Nov 2026 17:59:44 GMT",
       "category": "tech"
     },
     {
-      "title": "邮票大小器官芯片模拟肿瘤生长",
-      "summary": "中国科技网报道，一种邮票大小的器官芯片可同时培养癌细胞、血管和神经，用于模拟肿瘤生长。",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByUV90aUFyLWVDbV9RYjdmbVZzSUJOcVlqNGNuT0NEbEw3UmIyd2NpckVmYkdxNkhtWEttNEZZdzUtVXRXQ0E3MW85NVJ1VDBJLXNiR0JLWnptOWttUkJFUHdRNXNCZkFyam00NHU2c0I?oc=5",
-      "source": "中国科技网",
-      "published": "2026-11-17T17:45:00Z",
+      "title": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现",
+      "summary": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现状 中国技术创新的“掌舵人”丁薛祥面临抉择 &nbsp;&nbsp; DW.com",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVE9yVFBBRFF6M256bU9ZdGY3dkJKZHBSdm8tS045OVY0eDJzU0NJM3VEQ0hFTlBkMjdpY0E4ckxNcjg0Sk9Nc1BzdmNQLUMwa3Z4c2pfWmtrYVVyMFBsS1Vvb280Z3dDREU4X3hRNmc4WlJfajB4T085MW02UERldFBJWUdTM0Q5ZURTTEFiWFphdkJRMUZfTnUxeFpHQW9XRUNWVXFtZEdwQ1VCUXR0TElrRkpGVE9TR2lFdV9sbGVwVGRONW4xdXMwZjktS3RRYk5qSTg2N005WkFhdkpERVhIYUtRMERKUXllN19zTlhJckl3bWhRajEzN3FORk9RY01ZSld0amNIcU9TcGpFMmhfaEVzUVZQYU5ST05OUzR6Ulh5RnVIWjFmdnplQdIBrgJBVV95cUxPYnhYUkxYbHpCbHZBZjlWUmdTdjhzZmMwVmZ3R0VoNlVqZmpEVnpGX0czV3BiQmUyWHh0dmllVHI1cHdsaWNWeW9SUy1pQ3oyRlhNcy0zNzJuUDlVMmp2VmFMQ1BOX2NxWENKeVd1WTRmVk91ZlpFWDVQSUsyT0s1cHBvNFRrTzQtaE9fa0hLWHhMdnl6dDVXSUhad0dZQXdzdFhGb3dxYmoxcHpZTUtqVXJGUndNcEJkc0lITWhBSVE4c2haRUxiQnFWckxxWkR2TzFzWUZ2aTE3YllHM1NCZlQzT1VyUjVaTHZLRnltYlhfOUxESWFid1R3aHdDaFl4cGdIY1pZSnh1blJDakdtVGxMaEI1R1BNaE1qVElWN1l4RE9meE83YkwwVWdsUQ?oc=5",
+      "source": "Google News 科技发展",
+      "published": "Mon, 16 Nov 2026 15:39:25 GMT",
       "category": "tech"
     },
     {
-      "title": "GitHub将AI漏洞发现转为可用修复",
-      "summary": "GitHub与微软在MDASH试点中，将数千条AI发现筛为99份经核查、附修复建议的私密报告，涉及六个开源项目，过半已修复。",
+      "title": "Maintainers don’t need more AI",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI fin",
       "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
       "source": "GitHub Blog",
-      "published": "2026-11-17T18:29:29Z",
+      "published": "Tue, 17 Nov 2026 18:29:29 +0000",
       "category": "github"
     },
     {
-      "title": "GitHub介绍跨设备智能体会话协议",
-      "summary": "GitHub介绍开放的Agent Host Protocol，支持在编辑器、应用、手机和云端持续访问智能体会话。",
+      "title": "Building the Agent Host Protoc",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions a",
       "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
       "source": "GitHub Blog",
-      "published": "2026-11-17T18:20:40Z",
+      "published": "Tue, 17 Nov 2026 18:20:40 +0000",
       "category": "github"
     }
   ]
