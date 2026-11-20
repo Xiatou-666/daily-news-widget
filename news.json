@@ -1,61 +1,69 @@
 {
-  "updated_at": "2026-11-19T04:34:24.432250+00:00",
+  "updated_at": "2026-11-20T04:22:32.887945+00:00",
   "categories": {
     "physics": [
       {
-        "title": "Doppler effect on dual-downlin",
-        "summary": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) ",
-        "url": "https://arxiv.org/abs/2611.24369v1",
+        "title": "High-temperature Gibbs states ",
+        "summary": "We prove that, above a constant temperature threshold, Gibbs states of local non",
+        "url": "https://arxiv.org/abs/2611.26626v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-18T13:01:02Z",
+        "published": "2026-11-19T18:59:49Z",
         "category": "physics"
       },
       {
-        "title": "Spontaneous emission of atomic",
-        "summary": "We investigate the spontaneous emission of a quantum emitter placed near finite ",
-        "url": "https://arxiv.org/abs/2611.24358v1",
+        "title": "Local velocimetry for atomic s",
+        "summary": "We demonstrate local velocimetry for atomic superfluids in two dimensions (2D). ",
+        "url": "https://arxiv.org/abs/2611.26608v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-18T12:50:04Z",
+        "published": "2026-11-19T18:56:37Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "着力提升科技金融赋能AI产业发展效能 - 西藏自治区科学技术",
-        "summary": "着力提升科技金融赋能AI产业发展效能 &nbsp;&nbsp; 西藏自治区科学技术厅",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Z2k0aFBTTHo5N2ZmbWFObGdnTDlrVFlSUGZPajlkLTBFV3M4TS1TaENkVEFNbEhsaUROaDJmV3YxR1NuLUNxb2g5UWJ5M2NtQXRseWZSbm0xXzEwdnFGZGJlZ3QzZlhiV21fX0N0YkYtQQ?oc=5",
+        "title": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年",
+        "summary": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年更紧张！ &nbsp;&nbsp; 财联社",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XR19jQmZvbE9lLTZBRzVWZmtMNl9jbWh0R1o4TnplaFRaUnY2MXpBVXpoNFVwQ2FmSWFQelNTMV9ER2JnaWxfXw?oc=5",
         "source": "Google News 人工智能",
-        "published": "Thu, 19 Nov 2026 03:31:46 GMT",
+        "published": "Fri, 20 Nov 2026 00:08:00 GMT",
         "category": "ai"
       },
       {
-        "title": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治",
-        "summary": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治理并进 &nbsp;&nbsp; 中国日报网",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3UnhSRVVUQnNUbWRNVjIta2hGY2lSbXViZUU4N0NIWTdZZG9fV040STdkb0xGX3FGam1tcndCZGlrWktsU1dvWVlReDV4WDNvZmNLM25YOFlZaHVpb19ZT0Y5RmJ1T2Vabm5XeVJocWNDMVlNUUpycTlUYXQ?oc=5",
+        "title": "联合国警告：人工智能正被用于诱骗和剥削儿童 - UN New",
+        "summary": "联合国警告：人工智能正被用于诱骗和剥削儿童 &nbsp;&nbsp; UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVBYUGpuZVBvUE5JM19ad054eHZHVWctTGFtLXBVazdFWjhISktFV2lqbVBESS1RdnVFUEhhejQ0dXFXQzhDMFc0MUZ2UHZqWVpGaTBtRQ?oc=5",
         "source": "Google News 人工智能",
-        "published": "Thu, 19 Nov 2026 03:49:34 GMT",
+        "published": "Thu, 19 Nov 2026 20:56:44 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 - ",
-        "summary": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 &nbsp;&nbsp; 财联社",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1maXRrNlZ5N253aUJjYnhpTTB3X3hvMUJ2dEVQbFF0NGxXMGg1UHFQeERfakVkSVpnZ3N6ZTRKVUtudzhVV29aTg?oc=5",
+        "title": "今年国产芯片销售额预计超1.58万亿元，同比增长89.4% ",
+        "summary": "今年国产芯片销售额预计超1.58万亿元，同比增长89.4% &nbsp;&nbsp; 北京市人民政府门户网站",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xRVlVQWNDNkRuTGVBWmpKOUlWNWZyQXVnYlRpVk5GUHVOS1JEQTE2TVU3NFFPdWpCZzBsQlJTMml6eEtDN3VPNUZFbzM0WmlQeWdhZ2c0bWhtVmZpeWV2WHVwZEUzekMwTW1ndGI4NkVwYkV6SU1lVDYxdw?oc=5",
         "source": "Google News 科技发展",
-        "published": "Wed, 18 Nov 2026 17:59:44 GMT",
+        "published": "Fri, 20 Nov 2026 02:40:00 GMT",
         "category": "tech"
       },
       {
-        "title": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现",
-        "summary": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现状 中国技术创新的“掌舵人”丁薛祥面临抉择 &nbsp;&nbsp; DW.com",
-        "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVE9yVFBBRFF6M256bU9ZdGY3dkJKZHBSdm8tS045OVY0eDJzU0NJM3VEQ0hFTlBkMjdpY0E4ckxNcjg0Sk9Nc1BzdmNQLUMwa3Z4c2pfWmtrYVVyMFBsS1Vvb280Z3dDREU4X3hRNmc4WlJfajB4T085MW02UERldFBJWUdTM0Q5ZURTTEFiWFphdkJRMUZfTnUxeFpHQW9XRUNWVXFtZEdwQ1VCUXR0TElrRkpGVE9TR2lFdV9sbGVwVGRONW4xdXMwZjktS3RRYk5qSTg2N005WkFhdkpERVhIYUtRMERKUXllN19zTlhJckl3bWhRajEzN3FORk9RY01ZSld0amNIcU9TcGpFMmhfaEVzUVZQYU5ST05OUzR6Ulh5RnVIWjFmdnplQdIBrgJBVV95cUxPYnhYUkxYbHpCbHZBZjlWUmdTdjhzZmMwVmZ3R0VoNlVqZmpEVnpGX0czV3BiQmUyWHh0dmllVHI1cHdsaWNWeW9SUy1pQ3oyRlhNcy0zNzJuUDlVMmp2VmFMQ1BOX2NxWENKeVd1WTRmVk91ZlpFWDVQSUsyT0s1cHBvNFRrTzQtaE9fa0hLWHhMdnl6dDVXSUhad0dZQXdzdFhGb3dxYmoxcHpZTUtqVXJGUndNcEJkc0lITWhBSVE4c2haRUxiQnFWckxxWkR2TzFzWUZ2aTE3YllHM1NCZlQzT1VyUjVaTHZLRnltYlhfOUxESWFid1R3aHdDaFl4cGdIY1pZSnh1blJDakdtVGxMaEI1R1BNaE1qVElWN1l4RE9meE83YkwwVWdsUQ?oc=5",
+        "title": "吉林推进新能源产业智能化发展 - 中国能源新闻网",
+        "summary": "吉林推进新能源产业智能化发展 &nbsp;&nbsp; 中国能源新闻网",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdERGejlvMDY0OUFQb284bG43bFBINGYwdnJuRktWNGt0NFBHVmppTm5aemc2ekZLeWVZMjlNYXVJTW9OYnpPYzd5amw1akJSSVBVdWNzZnZzWmlFY0F1M1VReDlPZzdpTEl2X0g3UWY?oc=5",
         "source": "Google News 科技发展",
-        "published": "Mon, 16 Nov 2026 15:39:25 GMT",
+        "published": "Fri, 20 Nov 2026 02:21:21 GMT",
         "category": "tech"
       }
     ],
     "github": [
+      {
+        "title": "The best things in open source",
+        "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source",
+        "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+        "source": "GitHub Blog",
+        "published": "Thu, 19 Nov 2026 16:00:00 +0000",
+        "category": "github"
+      },
       {
         "title": "Maintainers don’t need more AI",
         "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI fin",
@@ -63,65 +71,65 @@
         "source": "GitHub Blog",
         "published": "Tue, 17 Nov 2026 18:29:29 +0000",
         "category": "github"
-      },
-      {
-        "title": "Building the Agent Host Protoc",
-        "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions a",
-        "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-        "source": "GitHub Blog",
-        "published": "Tue, 17 Nov 2026 18:20:40 +0000",
-        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "Doppler effect on dual-downlin",
-      "summary": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) ",
-      "url": "https://arxiv.org/abs/2611.24369v1",
+      "title": "High-temperature Gibbs states ",
+      "summary": "We prove that, above a constant temperature threshold, Gibbs states of local non",
+      "url": "https://arxiv.org/abs/2611.26626v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-18T13:01:02Z",
+      "published": "2026-11-19T18:59:49Z",
       "category": "physics"
     },
     {
-      "title": "Spontaneous emission of atomic",
-      "summary": "We investigate the spontaneous emission of a quantum emitter placed near finite ",
-      "url": "https://arxiv.org/abs/2611.24358v1",
+      "title": "Local velocimetry for atomic s",
+      "summary": "We demonstrate local velocimetry for atomic superfluids in two dimensions (2D). ",
+      "url": "https://arxiv.org/abs/2611.26608v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-18T12:50:04Z",
+      "published": "2026-11-19T18:56:37Z",
       "category": "physics"
     },
     {
-      "title": "着力提升科技金融赋能AI产业发展效能 - 西藏自治区科学技术",
-      "summary": "着力提升科技金融赋能AI产业发展效能 &nbsp;&nbsp; 西藏自治区科学技术厅",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45Z2k0aFBTTHo5N2ZmbWFObGdnTDlrVFlSUGZPajlkLTBFV3M4TS1TaENkVEFNbEhsaUROaDJmV3YxR1NuLUNxb2g5UWJ5M2NtQXRseWZSbm0xXzEwdnFGZGJlZ3QzZlhiV21fX0N0YkYtQQ?oc=5",
+      "title": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年",
+      "summary": "AI“存储荒”还要加剧？美光总裁：2027年供需形势将比今年更紧张！ &nbsp;&nbsp; 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XR19jQmZvbE9lLTZBRzVWZmtMNl9jbWh0R1o4TnplaFRaUnY2MXpBVXpoNFVwQ2FmSWFQelNTMV9ER2JnaWxfXw?oc=5",
       "source": "Google News 人工智能",
-      "published": "Thu, 19 Nov 2026 03:31:46 GMT",
+      "published": "Fri, 20 Nov 2026 00:08:00 GMT",
       "category": "ai"
     },
     {
-      "title": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治",
-      "summary": "中国AI出海进入智能体工厂时代：规模化输出、本地服务与信任治理并进 &nbsp;&nbsp; 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3UnhSRVVUQnNUbWRNVjIta2hGY2lSbXViZUU4N0NIWTdZZG9fV040STdkb0xGX3FGam1tcndCZGlrWktsU1dvWVlReDV4WDNvZmNLM25YOFlZaHVpb19ZT0Y5RmJ1T2Vabm5XeVJocWNDMVlNUUpycTlUYXQ?oc=5",
+      "title": "联合国警告：人工智能正被用于诱骗和剥削儿童 - UN New",
+      "summary": "联合国警告：人工智能正被用于诱骗和剥削儿童 &nbsp;&nbsp; UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4MVBYUGpuZVBvUE5JM19ad054eHZHVWctTGFtLXBVazdFWjhISktFV2lqbVBESS1RdnVFUEhhejQ0dXFXQzhDMFc0MUZ2UHZqWVpGaTBtRQ?oc=5",
       "source": "Google News 人工智能",
-      "published": "Thu, 19 Nov 2026 03:49:34 GMT",
+      "published": "Thu, 19 Nov 2026 20:56:44 GMT",
       "category": "ai"
     },
     {
-      "title": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 - ",
-      "summary": "微软扩大与英特尔合作 自研AI芯片首度引入EMIB封装 &nbsp;&nbsp; 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1maXRrNlZ5N253aUJjYnhpTTB3X3hvMUJ2dEVQbFF0NGxXMGg1UHFQeERfakVkSVpnZ3N6ZTRKVUtudzhVV29aTg?oc=5",
+      "title": "今年国产芯片销售额预计超1.58万亿元，同比增长89.4% ",
+      "summary": "今年国产芯片销售额预计超1.58万亿元，同比增长89.4% &nbsp;&nbsp; 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xRVlVQWNDNkRuTGVBWmpKOUlWNWZyQXVnYlRpVk5GUHVOS1JEQTE2TVU3NFFPdWpCZzBsQlJTMml6eEtDN3VPNUZFbzM0WmlQeWdhZ2c0bWhtVmZpeWV2WHVwZEUzekMwTW1ndGI4NkVwYkV6SU1lVDYxdw?oc=5",
       "source": "Google News 科技发展",
-      "published": "Wed, 18 Nov 2026 17:59:44 GMT",
+      "published": "Fri, 20 Nov 2026 02:40:00 GMT",
       "category": "tech"
     },
     {
-      "title": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现",
-      "summary": "中国还会继续购买美国芯片吗？透过黄仁勋事件看中国的芯片产业现状 中国技术创新的“掌舵人”丁薛祥面临抉择 &nbsp;&nbsp; DW.com",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNVE9yVFBBRFF6M256bU9ZdGY3dkJKZHBSdm8tS045OVY0eDJzU0NJM3VEQ0hFTlBkMjdpY0E4ckxNcjg0Sk9Nc1BzdmNQLUMwa3Z4c2pfWmtrYVVyMFBsS1Vvb280Z3dDREU4X3hRNmc4WlJfajB4T085MW02UERldFBJWUdTM0Q5ZURTTEFiWFphdkJRMUZfTnUxeFpHQW9XRUNWVXFtZEdwQ1VCUXR0TElrRkpGVE9TR2lFdV9sbGVwVGRONW4xdXMwZjktS3RRYk5qSTg2N005WkFhdkpERVhIYUtRMERKUXllN19zTlhJckl3bWhRajEzN3FORk9RY01ZSld0amNIcU9TcGpFMmhfaEVzUVZQYU5ST05OUzR6Ulh5RnVIWjFmdnplQdIBrgJBVV95cUxPYnhYUkxYbHpCbHZBZjlWUmdTdjhzZmMwVmZ3R0VoNlVqZmpEVnpGX0czV3BiQmUyWHh0dmllVHI1cHdsaWNWeW9SUy1pQ3oyRlhNcy0zNzJuUDlVMmp2VmFMQ1BOX2NxWENKeVd1WTRmVk91ZlpFWDVQSUsyT0s1cHBvNFRrTzQtaE9fa0hLWHhMdnl6dDVXSUhad0dZQXdzdFhGb3dxYmoxcHpZTUtqVXJGUndNcEJkc0lITWhBSVE4c2haRUxiQnFWckxxWkR2TzFzWUZ2aTE3YllHM1NCZlQzT1VyUjVaTHZLRnltYlhfOUxESWFid1R3aHdDaFl4cGdIY1pZSnh1blJDakdtVGxMaEI1R1BNaE1qVElWN1l4RE9meE83YkwwVWdsUQ?oc=5",
+      "title": "吉林推进新能源产业智能化发展 - 中国能源新闻网",
+      "summary": "吉林推进新能源产业智能化发展 &nbsp;&nbsp; 中国能源新闻网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdERGejlvMDY0OUFQb284bG43bFBINGYwdnJuRktWNGt0NFBHVmppTm5aemc2ekZLeWVZMjlNYXVJTW9OYnpPYzd5amw1akJSSVBVdWNzZnZzWmlFY0F1M1VReDlPZzdpTEl2X0g3UWY?oc=5",
       "source": "Google News 科技发展",
-      "published": "Mon, 16 Nov 2026 15:39:25 GMT",
+      "published": "Fri, 20 Nov 2026 02:21:21 GMT",
       "category": "tech"
+    },
+    {
+      "title": "The best things in open source",
+      "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source",
+      "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+      "source": "GitHub Blog",
+      "published": "Thu, 19 Nov 2026 16:00:00 +0000",
+      "category": "github"
     },
     {
       "title": "Maintainers don’t need more AI",
@@ -129,14 +137,6 @@
       "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
       "source": "GitHub Blog",
       "published": "Tue, 17 Nov 2026 18:29:29 +0000",
-      "category": "github"
-    },
-    {
-      "title": "Building the Agent Host Protoc",
-      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions a",
-      "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-      "source": "GitHub Blog",
-      "published": "Tue, 17 Nov 2026 18:20:40 +0000",
       "category": "github"
     }
   ]
