@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-22T03:31:27.309478+00:00",
+  "updated_at": "2026-11-23T04:03:48.116733+00:00",
   "categories": {
     "physics": [
       {
-        "title": "High-temperature Gibbs states ",
-        "summary": "We prove that, above a constant temperature threshold, Gibbs states of local non",
-        "url": "https://arxiv.org/abs/2611.26626v1",
+        "title": "Beyond the Stabilizer Norm: Ph",
+        "summary": "Certification from restricted and uncertain Pauli measurements can be posed as a",
+        "url": "https://arxiv.org/abs/2611.27724v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-19T18:59:49Z",
+        "published": "2026-11-20T15:25:06Z",
         "category": "physics"
       },
       {
-        "title": "Local velocimetry for atomic s",
-        "summary": "We demonstrate local velocimetry for atomic superfluids in two dimensions (2D). ",
-        "url": "https://arxiv.org/abs/2611.26608v1",
+        "title": "Comparing weakly interacting a",
+        "summary": "Lieb-Robinson bounds (LRBs) have become a standard tool for perturbative results",
+        "url": "https://arxiv.org/abs/2611.27707v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-19T18:56:37Z",
+        "published": "2026-11-20T15:12:43Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "AI证明黎曼猜想，数学家该恐慌吗？ - 科学网—新闻",
-        "summary": "AI证明黎曼猜想，数学家该恐慌吗？ &nbsp;&nbsp; 科学网—新闻",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUURjRHN0OTJLMDFTdWJjZmFaaU1PM3VnV0IyRWluRTRaeU9uQ3ZJbUFObmhFNmxTNWVESmdzSHA4bHpqQXhOZmt3TzUxMzVMYkREeHA2Q1FtbHR2ckoxRTFjc0E5Zw?oc=5",
+        "title": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 - ",
+        "summary": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 &nbsp;&nbsp; UN News",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wVG9qZ2Rnb2RUQXk1VXh5SkNLN05TX05SZVhuRm9YMXVJemF1emNYdDNnV1ZKWDgzckx3Mkp0ZjYtV0g1YmJ6VVZKbFk3V1lJN0M2UGdDcw?oc=5",
         "source": "Google News 人工智能",
-        "published": "Sat, 21 Nov 2026 08:15:51 GMT",
+        "published": "Sun, 22 Nov 2026 22:00:00 GMT",
         "category": "ai"
       },
       {
-        "title": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？ - 中",
-        "summary": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？ &nbsp;&nbsp; 中国科技网",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X3ZGZ3QxamptRjRnaElQb0NQTUZDWGZiU0dMTUlWaHNlS0xOdE5kTUlzelF2LUY5NGVjYkZIbV9vUF80TkhRYjdsRmdvTTR0LTBFLTBkaHp1WjdhMEJOaHI4bV9kTXlKV1FOcEtlQnA?oc=5",
+        "title": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ ",
+        "summary": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ &nbsp;&nbsp; 财联社",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mU3dkaGlDUHZGWnAzekJZb0JBOC1JTDdWa1ZHOVl5eDhkRlpfOU81RklOS3RTSGJlZWRDeGEyU0lsSlM3ZWxYaQ?oc=5",
         "source": "Google News 人工智能",
-        "published": "Sat, 21 Nov 2026 10:31:42 GMT",
+        "published": "Mon, 23 Nov 2026 00:48:00 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "688147、688322，火了！机构关注芯片等硬科技赛道 ",
-        "summary": "688147、688322，火了！机构关注芯片等硬科技赛道 &nbsp;&nbsp; 21财经",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1BqS3c2RzducGNlS0RUa3FHYm5kWHRmVEhwdVpka3VKLWR1S0ZOTmMwd0tUSUpkeDhad1ZxVVJZaEk2WVhuTjM5YUdONFo5dEExUTUtalo3Y1U5SzRmZExteEd6T2sxUGI0OFJSZVBsM1l1bGU2RF9xMUJ2Nm84ZDJxNDFzZy03SDhEWDIyMA?oc=5",
+        "title": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、",
+        "summary": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、东南亚电诈集团等 &nbsp;&nbsp; RFI",
+        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSGdacW5lM2Q1VHNGZF95aTZSSFlPVW1rWlNLenR5UmFrQVdQNW9peUJEYjhXODhYVi1ReDAtLWtQcWZZLVloNXVRRHRLeTVHbzcxbXVHbkd6THdueHNjTEhacEliV0pwUnNmSmgtcGpjVklyZlRsaGJNdmpqcmlfSW16aVU3Unl5OWZNSDQtZ05SNTdOWGxmVEZ0cHNsWXNPMURhZEJ4T1VZOVFrY0NTYXBXQ1Nqbl9UWVRLZG1lX1VxWGdKZDVFamQxZGlmTlV5QmNfY3RSSGZ0SkFDVmJueXJSNmxIOE04WVowdlRjUVhjNDQ0T0ZqTWJkT0ZqQ0tybG5YSWYwYjI5NXctb0NzY1lIWW1PMHdiU0pXWFpMWHRPYVRGWnlPdWxucDZJRHdTMm5qYlllNUJOUFRLUk9zeGEteEhBV2xIXzZpRExTQUh0Q2J4VlNTUzRiczdkVkoydVRndEtYX0tMdldvdVduZmZqdXA1aWVGREZ2TUlqX3U4ckJ4aGFSNHFEMGtCUmhUWk4yQklMSVRWRVFPX3c2MGZPcVBUcGd4OVBxbzBITFU2NndhUVkzQU03cGZLeUJzV2piVnNCSEpFb2x1VHNQd3k3ZEhocWVRekI3RjRkT2hsd0dsM3dvQjhGa281RkxJbE4yalkwUUg2NC02Z05FLTQweVM2UQ?oc=5",
         "source": "Google News 科技发展",
-        "published": "Sun, 22 Nov 2026 01:26:00 GMT",
+        "published": "Sun, 22 Nov 2026 14:38:52 GMT",
         "category": "tech"
       },
       {
-        "title": "智能网联新能源汽车产业人才发展大会在渝举行赋能“渝车出海”-",
-        "summary": "智能网联新能源汽车产业人才发展大会在渝举行赋能“渝车出海”-中新网 &nbsp;&nbsp; 中国新闻网",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSjlVQ2V0ZHh6UDdCN0I0V0pjTWpCLVlFXzdadFhIT3BQV3VpOHRlTEMzR19EWWMyakJaNTM2ekU0SVgtUXhoUnZnc212TlRWWExFT2dVVnpGMF9OLXpITHNqV3BTVmlL?oc=5",
+        "title": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 ",
+        "summary": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 &nbsp;&nbsp; 中国科技网",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XMDU2ZmUwWkhvLTd0Z1hNOTZWTHhQVzNUYUZWYVl6OWl0U2pCemZkYlN4TElQdEJJeWhYemVzUXgzZzJoYnpxclVBdjRsM1FndmJVenZyX1F2cXFGQmtTSE13TVFzOFdYRERhWWhUY20?oc=5",
         "source": "Google News 科技发展",
-        "published": "Sat, 21 Nov 2026 12:56:15 GMT",
+        "published": "Sun, 22 Nov 2026 17:45:00 GMT",
         "category": "tech"
       }
     ],
@@ -76,51 +76,51 @@
   },
   "items": [
     {
-      "title": "High-temperature Gibbs states ",
-      "summary": "We prove that, above a constant temperature threshold, Gibbs states of local non",
-      "url": "https://arxiv.org/abs/2611.26626v1",
+      "title": "Beyond the Stabilizer Norm: Ph",
+      "summary": "Certification from restricted and uncertain Pauli measurements can be posed as a",
+      "url": "https://arxiv.org/abs/2611.27724v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-19T18:59:49Z",
+      "published": "2026-11-20T15:25:06Z",
       "category": "physics"
     },
     {
-      "title": "Local velocimetry for atomic s",
-      "summary": "We demonstrate local velocimetry for atomic superfluids in two dimensions (2D). ",
-      "url": "https://arxiv.org/abs/2611.26608v1",
+      "title": "Comparing weakly interacting a",
+      "summary": "Lieb-Robinson bounds (LRBs) have become a standard tool for perturbative results",
+      "url": "https://arxiv.org/abs/2611.27707v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-19T18:56:37Z",
+      "published": "2026-11-20T15:12:43Z",
       "category": "physics"
     },
     {
-      "title": "AI证明黎曼猜想，数学家该恐慌吗？ - 科学网—新闻",
-      "summary": "AI证明黎曼猜想，数学家该恐慌吗？ &nbsp;&nbsp; 科学网—新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUURjRHN0OTJLMDFTdWJjZmFaaU1PM3VnV0IyRWluRTRaeU9uQ3ZJbUFObmhFNmxTNWVESmdzSHA4bHpqQXhOZmt3TzUxMzVMYkREeHA2Q1FtbHR2ckoxRTFjc0E5Zw?oc=5",
+      "title": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 - ",
+      "summary": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 &nbsp;&nbsp; UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wVG9qZ2Rnb2RUQXk1VXh5SkNLN05TX05SZVhuRm9YMXVJemF1emNYdDNnV1ZKWDgzckx3Mkp0ZjYtV0g1YmJ6VVZKbFk3V1lJN0M2UGdDcw?oc=5",
       "source": "Google News 人工智能",
-      "published": "Sat, 21 Nov 2026 08:15:51 GMT",
+      "published": "Sun, 22 Nov 2026 22:00:00 GMT",
       "category": "ai"
     },
     {
-      "title": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？ - 中",
-      "summary": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？ &nbsp;&nbsp; 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X3ZGZ3QxamptRjRnaElQb0NQTUZDWGZiU0dMTUlWaHNlS0xOdE5kTUlzelF2LUY5NGVjYkZIbV9vUF80TkhRYjdsRmdvTTR0LTBFLTBkaHp1WjdhMEJOaHI4bV9kTXlKV1FOcEtlQnA?oc=5",
+      "title": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ ",
+      "summary": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ &nbsp;&nbsp; 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mU3dkaGlDUHZGWnAzekJZb0JBOC1JTDdWa1ZHOVl5eDhkRlpfOU81RklOS3RTSGJlZWRDeGEyU0lsSlM3ZWxYaQ?oc=5",
       "source": "Google News 人工智能",
-      "published": "Sat, 21 Nov 2026 10:31:42 GMT",
+      "published": "Mon, 23 Nov 2026 00:48:00 GMT",
       "category": "ai"
     },
     {
-      "title": "688147、688322，火了！机构关注芯片等硬科技赛道 ",
-      "summary": "688147、688322，火了！机构关注芯片等硬科技赛道 &nbsp;&nbsp; 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1BqS3c2RzducGNlS0RUa3FHYm5kWHRmVEhwdVpka3VKLWR1S0ZOTmMwd0tUSUpkeDhad1ZxVVJZaEk2WVhuTjM5YUdONFo5dEExUTUtalo3Y1U5SzRmZExteEd6T2sxUGI0OFJSZVBsM1l1bGU2RF9xMUJ2Nm84ZDJxNDFzZy03SDhEWDIyMA?oc=5",
+      "title": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、",
+      "summary": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、东南亚电诈集团等 &nbsp;&nbsp; RFI",
+      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSGdacW5lM2Q1VHNGZF95aTZSSFlPVW1rWlNLenR5UmFrQVdQNW9peUJEYjhXODhYVi1ReDAtLWtQcWZZLVloNXVRRHRLeTVHbzcxbXVHbkd6THdueHNjTEhacEliV0pwUnNmSmgtcGpjVklyZlRsaGJNdmpqcmlfSW16aVU3Unl5OWZNSDQtZ05SNTdOWGxmVEZ0cHNsWXNPMURhZEJ4T1VZOVFrY0NTYXBXQ1Nqbl9UWVRLZG1lX1VxWGdKZDVFamQxZGlmTlV5QmNfY3RSSGZ0SkFDVmJueXJSNmxIOE04WVowdlRjUVhjNDQ0T0ZqTWJkT0ZqQ0tybG5YSWYwYjI5NXctb0NzY1lIWW1PMHdiU0pXWFpMWHRPYVRGWnlPdWxucDZJRHdTMm5qYlllNUJOUFRLUk9zeGEteEhBV2xIXzZpRExTQUh0Q2J4VlNTUzRiczdkVkoydVRndEtYX0tMdldvdVduZmZqdXA1aWVGREZ2TUlqX3U4ckJ4aGFSNHFEMGtCUmhUWk4yQklMSVRWRVFPX3c2MGZPcVBUcGd4OVBxbzBITFU2NndhUVkzQU03cGZLeUJzV2piVnNCSEpFb2x1VHNQd3k3ZEhocWVRekI3RjRkT2hsd0dsM3dvQjhGa281RkxJbE4yalkwUUg2NC02Z05FLTQweVM2UQ?oc=5",
       "source": "Google News 科技发展",
-      "published": "Sun, 22 Nov 2026 01:26:00 GMT",
+      "published": "Sun, 22 Nov 2026 14:38:52 GMT",
       "category": "tech"
     },
     {
-      "title": "智能网联新能源汽车产业人才发展大会在渝举行赋能“渝车出海”-",
-      "summary": "智能网联新能源汽车产业人才发展大会在渝举行赋能“渝车出海”-中新网 &nbsp;&nbsp; 中国新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiSjlVQ2V0ZHh6UDdCN0I0V0pjTWpCLVlFXzdadFhIT3BQV3VpOHRlTEMzR19EWWMyakJaNTM2ekU0SVgtUXhoUnZnc212TlRWWExFT2dVVnpGMF9OLXpITHNqV3BTVmlL?oc=5",
+      "title": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 ",
+      "summary": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 &nbsp;&nbsp; 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XMDU2ZmUwWkhvLTd0Z1hNOTZWTHhQVzNUYUZWYVl6OWl0U2pCemZkYlN4TElQdEJJeWhYemVzUXgzZzJoYnpxclVBdjRsM1FndmJVenZyX1F2cXFGQmtTSE13TVFzOFdYRERhWWhUY20?oc=5",
       "source": "Google News 科技发展",
-      "published": "Sat, 21 Nov 2026 12:56:15 GMT",
+      "published": "Sun, 22 Nov 2026 17:45:00 GMT",
       "category": "tech"
     },
     {
