@@ -1,57 +1,57 @@
 {
-  "updated_at": "2026-11-23T04:03:48.116733+00:00",
+  "updated_at": "2026-11-24T07:07:33.566884+00:00",
   "categories": {
     "physics": [
       {
-        "title": "Beyond the Stabilizer Norm: Ph",
-        "summary": "Certification from restricted and uncertain Pauli measurements can be posed as a",
-        "url": "https://arxiv.org/abs/2611.27724v1",
+        "title": "Optimal fidelity over zero-cap",
+        "summary": "Antidegradable quantum channels have zero capacity for reliable quantum communic",
+        "url": "https://arxiv.org/abs/2611.30902v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-20T15:25:06Z",
+        "published": "2026-11-23T16:02:48Z",
         "category": "physics"
       },
       {
-        "title": "Comparing weakly interacting a",
-        "summary": "Lieb-Robinson bounds (LRBs) have become a standard tool for perturbative results",
-        "url": "https://arxiv.org/abs/2611.27707v1",
+        "title": "Coherent Recovery of Nested Co",
+        "summary": "Motivated by quantum capacity results, we revisit nested binary linear codes for",
+        "url": "https://arxiv.org/abs/2611.30884v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-20T15:12:43Z",
+        "published": "2026-11-23T15:51:17Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 - ",
-        "summary": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 &nbsp;&nbsp; UN News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wVG9qZ2Rnb2RUQXk1VXh5SkNLN05TX05SZVhuRm9YMXVJemF1emNYdDNnV1ZKWDgzckx3Mkp0ZjYtV0g1YmJ6VVZKbFk3V1lJN0M2UGdDcw?oc=5",
+        "title": "AI解题越来越快 科研人才怎样扬长避短 - 新华网",
+        "summary": "AI解题越来越快 科研人才怎样扬长避短 &nbsp;&nbsp; 新华网",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uV2hZQ1EtdGllSGJ6Y1Zwa1k1d0RVdUVBSENpdnk2ZjRiTVJoM0x4Q1pMT3RVcURENzBsTG01S1diSjhTNW9kSzRNcHAyaUoxbFVvNzN5N3AzQ2lnd21ybW9mc3RqS09nU19CVUE0dHM5Y3U0a2xabEQzWEw?oc=5",
         "source": "Google News 人工智能",
-        "published": "Sun, 22 Nov 2026 22:00:00 GMT",
+        "published": "Tue, 24 Nov 2026 01:08:41 GMT",
         "category": "ai"
       },
       {
-        "title": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ ",
-        "summary": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ &nbsp;&nbsp; 财联社",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mU3dkaGlDUHZGWnAzekJZb0JBOC1JTDdWa1ZHOVl5eDhkRlpfOU81RklOS3RTSGJlZWRDeGEyU0lsSlM3ZWxYaQ?oc=5",
+        "title": "人工智能，下一站是“科研”？ - 求是",
+        "summary": "人工智能，下一站是“科研”？ &nbsp;&nbsp; 求是",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZ3kxZFBlTHd3ZGxsdkZxTzdrcE5QdEdhZ2pUYVA0aFNvRURILXBaUkM5eWZGdk41VGo4bDRjUDU3NlpQR1JEaGk5N2Q5SGhEOVo0QThYNzFja1NCY0IzOWNuQW96NjRhdTRxZndHQnJoTGpGeVVlVGoyOTU?oc=5",
         "source": "Google News 人工智能",
-        "published": "Mon, 23 Nov 2026 00:48:00 GMT",
+        "published": "Tue, 24 Nov 2026 02:02:35 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、",
-        "summary": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、东南亚电诈集团等 &nbsp;&nbsp; RFI",
-        "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSGdacW5lM2Q1VHNGZF95aTZSSFlPVW1rWlNLenR5UmFrQVdQNW9peUJEYjhXODhYVi1ReDAtLWtQcWZZLVloNXVRRHRLeTVHbzcxbXVHbkd6THdueHNjTEhacEliV0pwUnNmSmgtcGpjVklyZlRsaGJNdmpqcmlfSW16aVU3Unl5OWZNSDQtZ05SNTdOWGxmVEZ0cHNsWXNPMURhZEJ4T1VZOVFrY0NTYXBXQ1Nqbl9UWVRLZG1lX1VxWGdKZDVFamQxZGlmTlV5QmNfY3RSSGZ0SkFDVmJueXJSNmxIOE04WVowdlRjUVhjNDQ0T0ZqTWJkT0ZqQ0tybG5YSWYwYjI5NXctb0NzY1lIWW1PMHdiU0pXWFpMWHRPYVRGWnlPdWxucDZJRHdTMm5qYlllNUJOUFRLUk9zeGEteEhBV2xIXzZpRExTQUh0Q2J4VlNTUzRiczdkVkoydVRndEtYX0tMdldvdVduZmZqdXA1aWVGREZ2TUlqX3U4ckJ4aGFSNHFEMGtCUmhUWk4yQklMSVRWRVFPX3c2MGZPcVBUcGd4OVBxbzBITFU2NndhUVkzQU03cGZLeUJzV2piVnNCSEpFb2x1VHNQd3k3ZEhocWVRekI3RjRkT2hsd0dsM3dvQjhGa281RkxJbE4yalkwUUg2NC02Z05FLTQweVM2UQ?oc=5",
-        "source": "Google News 科技发展",
-        "published": "Sun, 22 Nov 2026 14:38:52 GMT",
+        "title": "A legendary philosopher isn’t ",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 23 Nov 2026 17:36:08 +0000",
         "category": "tech"
       },
       {
-        "title": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 ",
-        "summary": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 &nbsp;&nbsp; 中国科技网",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XMDU2ZmUwWkhvLTd0Z1hNOTZWTHhQVzNUYUZWYVl6OWl0U2pCemZkYlN4TElQdEJJeWhYemVzUXgzZzJoYnpxclVBdjRsM1FndmJVenZyX1F2cXFGQmtTSE13TVFzOFdYRERhWWhUY20?oc=5",
-        "source": "Google News 科技发展",
-        "published": "Sun, 22 Nov 2026 17:45:00 GMT",
+        "title": "The Download: AI’s judgment pr",
+        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provi",
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "source": "MIT Technology Review",
+        "published": "Mon, 23 Nov 2026 13:10:00 +0000",
         "category": "tech"
       }
     ],
@@ -76,51 +76,51 @@
   },
   "items": [
     {
-      "title": "Beyond the Stabilizer Norm: Ph",
-      "summary": "Certification from restricted and uncertain Pauli measurements can be posed as a",
-      "url": "https://arxiv.org/abs/2611.27724v1",
+      "title": "Optimal fidelity over zero-cap",
+      "summary": "Antidegradable quantum channels have zero capacity for reliable quantum communic",
+      "url": "https://arxiv.org/abs/2611.30902v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-20T15:25:06Z",
+      "published": "2026-11-23T16:02:48Z",
       "category": "physics"
     },
     {
-      "title": "Comparing weakly interacting a",
-      "summary": "Lieb-Robinson bounds (LRBs) have become a standard tool for perturbative results",
-      "url": "https://arxiv.org/abs/2611.27707v1",
+      "title": "Coherent Recovery of Nested Co",
+      "summary": "Motivated by quantum capacity results, we revisit nested binary linear codes for",
+      "url": "https://arxiv.org/abs/2611.30884v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-20T15:12:43Z",
+      "published": "2026-11-23T15:51:17Z",
       "category": "physics"
     },
     {
-      "title": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 - ",
-      "summary": "独立科学小组：各国发展人工智能能力不必一味追求尖端模型 &nbsp;&nbsp; UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wVG9qZ2Rnb2RUQXk1VXh5SkNLN05TX05SZVhuRm9YMXVJemF1emNYdDNnV1ZKWDgzckx3Mkp0ZjYtV0g1YmJ6VVZKbFk3V1lJN0M2UGdDcw?oc=5",
+      "title": "AI解题越来越快 科研人才怎样扬长避短 - 新华网",
+      "summary": "AI解题越来越快 科研人才怎样扬长避短 &nbsp;&nbsp; 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uV2hZQ1EtdGllSGJ6Y1Zwa1k1d0RVdUVBSENpdnk2ZjRiTVJoM0x4Q1pMT3RVcURENzBsTG01S1diSjhTNW9kSzRNcHAyaUoxbFVvNzN5N3AzQ2lnd21ybW9mc3RqS09nU19CVUE0dHM5Y3U0a2xabEQzWEw?oc=5",
       "source": "Google News 人工智能",
-      "published": "Sun, 22 Nov 2026 22:00:00 GMT",
+      "published": "Tue, 24 Nov 2026 01:08:41 GMT",
       "category": "ai"
     },
     {
-      "title": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ ",
-      "summary": "一图看懂！AI暴跌VS互联网泡沫破裂：首年惨状已相差无几？ &nbsp;&nbsp; 财联社",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mU3dkaGlDUHZGWnAzekJZb0JBOC1JTDdWa1ZHOVl5eDhkRlpfOU81RklOS3RTSGJlZWRDeGEyU0lsSlM3ZWxYaQ?oc=5",
+      "title": "人工智能，下一站是“科研”？ - 求是",
+      "summary": "人工智能，下一站是“科研”？ &nbsp;&nbsp; 求是",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZ3kxZFBlTHd3ZGxsdkZxTzdrcE5QdEdhZ2pUYVA0aFNvRURILXBaUkM5eWZGdk41VGo4bDRjUDU3NlpQR1JEaGk5N2Q5SGhEOVo0QThYNzFja1NCY0IzOWNuQW96NjRhdTRxZndHQnJoTGpGeVVlVGoyOTU?oc=5",
       "source": "Google News 人工智能",
-      "published": "Mon, 23 Nov 2026 00:48:00 GMT",
+      "published": "Tue, 24 Nov 2026 02:02:35 GMT",
       "category": "ai"
     },
     {
-      "title": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、",
-      "summary": "《金融时报》深度调查披露黄乐背后芯片走私网，涉中国游戏公司、东南亚电诈集团等 &nbsp;&nbsp; RFI",
-      "url": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPSGdacW5lM2Q1VHNGZF95aTZSSFlPVW1rWlNLenR5UmFrQVdQNW9peUJEYjhXODhYVi1ReDAtLWtQcWZZLVloNXVRRHRLeTVHbzcxbXVHbkd6THdueHNjTEhacEliV0pwUnNmSmgtcGpjVklyZlRsaGJNdmpqcmlfSW16aVU3Unl5OWZNSDQtZ05SNTdOWGxmVEZ0cHNsWXNPMURhZEJ4T1VZOVFrY0NTYXBXQ1Nqbl9UWVRLZG1lX1VxWGdKZDVFamQxZGlmTlV5QmNfY3RSSGZ0SkFDVmJueXJSNmxIOE04WVowdlRjUVhjNDQ0T0ZqTWJkT0ZqQ0tybG5YSWYwYjI5NXctb0NzY1lIWW1PMHdiU0pXWFpMWHRPYVRGWnlPdWxucDZJRHdTMm5qYlllNUJOUFRLUk9zeGEteEhBV2xIXzZpRExTQUh0Q2J4VlNTUzRiczdkVkoydVRndEtYX0tMdldvdVduZmZqdXA1aWVGREZ2TUlqX3U4ckJ4aGFSNHFEMGtCUmhUWk4yQklMSVRWRVFPX3c2MGZPcVBUcGd4OVBxbzBITFU2NndhUVkzQU03cGZLeUJzV2piVnNCSEpFb2x1VHNQd3k3ZEhocWVRekI3RjRkT2hsd0dsM3dvQjhGa281RkxJbE4yalkwUUg2NC02Z05FLTQweVM2UQ?oc=5",
-      "source": "Google News 科技发展",
-      "published": "Sun, 22 Nov 2026 14:38:52 GMT",
+      "title": "A legendary philosopher isn’t ",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "source": "MIT Technology Review",
+      "published": "Mon, 23 Nov 2026 17:36:08 +0000",
       "category": "tech"
     },
     {
-      "title": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 ",
-      "summary": "给化学反应中的分子配上“手机”，微型芯片可实时监测实验过程 &nbsp;&nbsp; 中国科技网",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XMDU2ZmUwWkhvLTd0Z1hNOTZWTHhQVzNUYUZWYVl6OWl0U2pCemZkYlN4TElQdEJJeWhYemVzUXgzZzJoYnpxclVBdjRsM1FndmJVenZyX1F2cXFGQmtTSE13TVFzOFdYRERhWWhUY20?oc=5",
-      "source": "Google News 科技发展",
-      "published": "Sun, 22 Nov 2026 17:45:00 GMT",
+      "title": "The Download: AI’s judgment pr",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provi",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "source": "MIT Technology Review",
+      "published": "Mon, 23 Nov 2026 13:10:00 +0000",
       "category": "tech"
     },
     {
