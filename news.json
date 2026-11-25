@@ -1,61 +1,69 @@
 {
-  "updated_at": "2026-11-24T07:07:33.566884+00:00",
+  "updated_at": "2026-11-25T05:42:13.637176+00:00",
   "categories": {
     "physics": [
       {
-        "title": "Optimal fidelity over zero-cap",
-        "summary": "Antidegradable quantum channels have zero capacity for reliable quantum communic",
-        "url": "https://arxiv.org/abs/2611.30902v1",
+        "title": "Prospects and limitations of a",
+        "summary": "The variational quantum algorithm ADAPT-VQE has previously been used to prepare ",
+        "url": "https://arxiv.org/abs/2611.33138v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-23T16:02:48Z",
+        "published": "2026-11-24T18:55:38Z",
         "category": "physics"
       },
       {
-        "title": "Coherent Recovery of Nested Co",
-        "summary": "Motivated by quantum capacity results, we revisit nested binary linear codes for",
-        "url": "https://arxiv.org/abs/2611.30884v1",
+        "title": "A Koashi--Imoto Criterion for ",
+        "summary": "For a finite memoryless quantum source whose encoder knows the sequence of class",
+        "url": "https://arxiv.org/abs/2611.33129v1",
         "source": "arXiv 量子物理",
-        "published": "2026-11-23T15:51:17Z",
+        "published": "2026-11-24T18:52:33Z",
         "category": "physics"
       }
     ],
     "ai": [
       {
-        "title": "AI解题越来越快 科研人才怎样扬长避短 - 新华网",
-        "summary": "AI解题越来越快 科研人才怎样扬长避短 &nbsp;&nbsp; 新华网",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uV2hZQ1EtdGllSGJ6Y1Zwa1k1d0RVdUVBSENpdnk2ZjRiTVJoM0x4Q1pMT3RVcURENzBsTG01S1diSjhTNW9kSzRNcHAyaUoxbFVvNzN5N3AzQ2lnd21ybW9mc3RqS09nU19CVUE0dHM5Y3U0a2xabEQzWEw?oc=5",
+        "title": "智源REAL物理AI开放日举办 构建适配真实世界物理AI体系",
+        "summary": "智源REAL物理AI开放日举办 构建适配真实世界物理AI体系 &nbsp;&nbsp; 中国科技网",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZTJqTlRQRHFsckVXNjJIeXIyWmRGbmhaYkMxRGR1c1NtRmlTYWEtWVVhNGZ2WWsxcjN6V1dfTWRJMHJHZDJ0SGhaMnFxcE9HaDBmem56UnM5S01wUXIxMURBOFBxSkdSWmlDR0tQMUU?oc=5",
         "source": "Google News 人工智能",
-        "published": "Tue, 24 Nov 2026 01:08:41 GMT",
+        "published": "Wed, 25 Nov 2026 03:53:26 GMT",
         "category": "ai"
       },
       {
-        "title": "人工智能，下一站是“科研”？ - 求是",
-        "summary": "人工智能，下一站是“科研”？ &nbsp;&nbsp; 求是",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZ3kxZFBlTHd3ZGxsdkZxTzdrcE5QdEdhZ2pUYVA0aFNvRURILXBaUkM5eWZGdk41VGo4bDRjUDU3NlpQR1JEaGk5N2Q5SGhEOVo0QThYNzFja1NCY0IzOWNuQW96NjRhdTRxZndHQnJoTGpGeVVlVGoyOTU?oc=5",
+        "title": "静安 | 上静“申”活｜AI创业落地分享沙龙成功举办 - 上",
+        "summary": "静安 | 上静“申”活｜AI创业落地分享沙龙成功举办 &nbsp;&nbsp; 上海国际人才网",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpc08wQkZmZUZkSFplQTRQZGxpdmFrUDluektSWlVtR0VxUHRLWmtQTEJWTGRzakFvUng2NkV2dG92YXB1d2RKN0V0OEp6WlBpa2JrMjhNdnR1UU53YWFNVXNIaV9xTG9pZzM2cw?oc=5",
         "source": "Google News 人工智能",
-        "published": "Tue, 24 Nov 2026 02:02:35 GMT",
+        "published": "Wed, 25 Nov 2026 02:13:26 GMT",
         "category": "ai"
       }
     ],
     "tech": [
       {
-        "title": "A legendary philosopher isn’t ",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To",
-        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 23 Nov 2026 17:36:08 +0000",
+        "title": "市工业和信息化局关于2024年新能源汽车和智能网联汽车产业高",
+        "summary": "市工业和信息化局关于2024年新能源汽车和智能网联汽车产业高质量发展专项扶持计划拟资助项目公示的通知 &nbsp;&nbsp; 深圳政府在线",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11NjlLdkVOVnNNYTJleGdUMV9ROTZvX0ZaYUk1SV9WbTVMeWgxVEszTUM0ME1yZWdwTG5sdUFKQWktWW9GYW5TVUZOblFPSndIa1pFdG5VazVlS2Y0d3RYOGptaW4yNVJHZHJMSll3QmJkNGJoYXJz?oc=5",
+        "source": "Google News 科技发展",
+        "published": "Wed, 25 Nov 2026 01:23:39 GMT",
         "category": "tech"
       },
       {
-        "title": "The Download: AI’s judgment pr",
-        "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provi",
-        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-        "source": "MIT Technology Review",
-        "published": "Mon, 23 Nov 2026 13:10:00 +0000",
+        "title": "通用半导体金刚石芯片基板项目北京点火投产 - 经济参考报",
+        "summary": "通用半导体金刚石芯片基板项目北京点火投产 &nbsp;&nbsp; 经济参考报",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjdwQ192bDlNVEgwQVVIa3Q0QmdRdG1DOU40TW84UDFxQWhKc1M4ZzB1LWlwQVdWc0laSU5ZY3R3M0xoOUlTcm94WnUxU0hjdFMyUDdDZ01XQ3F2czFTMk5SVERlZjkwd05vcGlrWlctdzVUbGZ3Nm50cGhQc3dFaQ?oc=5",
+        "source": "Google News 科技发展",
+        "published": "Wed, 25 Nov 2026 04:00:21 GMT",
         "category": "tech"
       }
     ],
     "github": [
+      {
+        "title": "These are the gifts developers",
+        "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you",
+        "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+        "source": "GitHub Blog",
+        "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+        "category": "github"
+      },
       {
         "title": "The best things in open source",
         "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source",
@@ -63,65 +71,65 @@
         "source": "GitHub Blog",
         "published": "Thu, 19 Nov 2026 16:00:00 +0000",
         "category": "github"
-      },
-      {
-        "title": "Maintainers don’t need more AI",
-        "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI fin",
-        "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-        "source": "GitHub Blog",
-        "published": "Tue, 17 Nov 2026 18:29:29 +0000",
-        "category": "github"
       }
     ]
   },
   "items": [
     {
-      "title": "Optimal fidelity over zero-cap",
-      "summary": "Antidegradable quantum channels have zero capacity for reliable quantum communic",
-      "url": "https://arxiv.org/abs/2611.30902v1",
+      "title": "Prospects and limitations of a",
+      "summary": "The variational quantum algorithm ADAPT-VQE has previously been used to prepare ",
+      "url": "https://arxiv.org/abs/2611.33138v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-23T16:02:48Z",
+      "published": "2026-11-24T18:55:38Z",
       "category": "physics"
     },
     {
-      "title": "Coherent Recovery of Nested Co",
-      "summary": "Motivated by quantum capacity results, we revisit nested binary linear codes for",
-      "url": "https://arxiv.org/abs/2611.30884v1",
+      "title": "A Koashi--Imoto Criterion for ",
+      "summary": "For a finite memoryless quantum source whose encoder knows the sequence of class",
+      "url": "https://arxiv.org/abs/2611.33129v1",
       "source": "arXiv 量子物理",
-      "published": "2026-11-23T15:51:17Z",
+      "published": "2026-11-24T18:52:33Z",
       "category": "physics"
     },
     {
-      "title": "AI解题越来越快 科研人才怎样扬长避短 - 新华网",
-      "summary": "AI解题越来越快 科研人才怎样扬长避短 &nbsp;&nbsp; 新华网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uV2hZQ1EtdGllSGJ6Y1Zwa1k1d0RVdUVBSENpdnk2ZjRiTVJoM0x4Q1pMT3RVcURENzBsTG01S1diSjhTNW9kSzRNcHAyaUoxbFVvNzN5N3AzQ2lnd21ybW9mc3RqS09nU19CVUE0dHM5Y3U0a2xabEQzWEw?oc=5",
+      "title": "智源REAL物理AI开放日举办 构建适配真实世界物理AI体系",
+      "summary": "智源REAL物理AI开放日举办 构建适配真实世界物理AI体系 &nbsp;&nbsp; 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZTJqTlRQRHFsckVXNjJIeXIyWmRGbmhaYkMxRGR1c1NtRmlTYWEtWVVhNGZ2WWsxcjN6V1dfTWRJMHJHZDJ0SGhaMnFxcE9HaDBmem56UnM5S01wUXIxMURBOFBxSkdSWmlDR0tQMUU?oc=5",
       "source": "Google News 人工智能",
-      "published": "Tue, 24 Nov 2026 01:08:41 GMT",
+      "published": "Wed, 25 Nov 2026 03:53:26 GMT",
       "category": "ai"
     },
     {
-      "title": "人工智能，下一站是“科研”？ - 求是",
-      "summary": "人工智能，下一站是“科研”？ &nbsp;&nbsp; 求是",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVZ3kxZFBlTHd3ZGxsdkZxTzdrcE5QdEdhZ2pUYVA0aFNvRURILXBaUkM5eWZGdk41VGo4bDRjUDU3NlpQR1JEaGk5N2Q5SGhEOVo0QThYNzFja1NCY0IzOWNuQW96NjRhdTRxZndHQnJoTGpGeVVlVGoyOTU?oc=5",
+      "title": "静安 | 上静“申”活｜AI创业落地分享沙龙成功举办 - 上",
+      "summary": "静安 | 上静“申”活｜AI创业落地分享沙龙成功举办 &nbsp;&nbsp; 上海国际人才网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpc08wQkZmZUZkSFplQTRQZGxpdmFrUDluektSWlVtR0VxUHRLWmtQTEJWTGRzakFvUng2NkV2dG92YXB1d2RKN0V0OEp6WlBpa2JrMjhNdnR1UU53YWFNVXNIaV9xTG9pZzM2cw?oc=5",
       "source": "Google News 人工智能",
-      "published": "Tue, 24 Nov 2026 02:02:35 GMT",
+      "published": "Wed, 25 Nov 2026 02:13:26 GMT",
       "category": "ai"
     },
     {
-      "title": "A legendary philosopher isn’t ",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "source": "MIT Technology Review",
-      "published": "Mon, 23 Nov 2026 17:36:08 +0000",
+      "title": "市工业和信息化局关于2024年新能源汽车和智能网联汽车产业高",
+      "summary": "市工业和信息化局关于2024年新能源汽车和智能网联汽车产业高质量发展专项扶持计划拟资助项目公示的通知 &nbsp;&nbsp; 深圳政府在线",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11NjlLdkVOVnNNYTJleGdUMV9ROTZvX0ZaYUk1SV9WbTVMeWgxVEszTUM0ME1yZWdwTG5sdUFKQWktWW9GYW5TVUZOblFPSndIa1pFdG5VazVlS2Y0d3RYOGptaW4yNVJHZHJMSll3QmJkNGJoYXJz?oc=5",
+      "source": "Google News 科技发展",
+      "published": "Wed, 25 Nov 2026 01:23:39 GMT",
       "category": "tech"
     },
     {
-      "title": "The Download: AI’s judgment pr",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provi",
-      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
-      "source": "MIT Technology Review",
-      "published": "Mon, 23 Nov 2026 13:10:00 +0000",
+      "title": "通用半导体金刚石芯片基板项目北京点火投产 - 经济参考报",
+      "summary": "通用半导体金刚石芯片基板项目北京点火投产 &nbsp;&nbsp; 经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjdwQ192bDlNVEgwQVVIa3Q0QmdRdG1DOU40TW84UDFxQWhKc1M4ZzB1LWlwQVdWc0laSU5ZY3R3M0xoOUlTcm94WnUxU0hjdFMyUDdDZ01XQ3F2czFTMk5SVERlZjkwd05vcGlrWlctdzVUbGZ3Nm50cGhQc3dFaQ?oc=5",
+      "source": "Google News 科技发展",
+      "published": "Wed, 25 Nov 2026 04:00:21 GMT",
       "category": "tech"
+    },
+    {
+      "title": "These are the gifts developers",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you",
+      "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "source": "GitHub Blog",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "category": "github"
     },
     {
       "title": "The best things in open source",
@@ -129,14 +137,6 @@
       "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "source": "GitHub Blog",
       "published": "Thu, 19 Nov 2026 16:00:00 +0000",
-      "category": "github"
-    },
-    {
-      "title": "Maintainers don’t need more AI",
-      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI fin",
-      "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
-      "source": "GitHub Blog",
-      "published": "Tue, 17 Nov 2026 18:29:29 +0000",
       "category": "github"
     }
   ]
